@@ -1,0 +1,5149 @@
+make,model_principal,alias
+Ford,Bronco,bronco 4wd
+Ford,Ltd,ltd wagon
+Chevrolet,S10 Pickup,s10 pickup 2wd
+Dodge,Ram 50 Pickup,ram 50 pickup 2wd
+Ford,Ranger,ranger pickup 2wd
+Mitsubishi,Truck,truck 2wd
+Ford,Ranger,ranger pickup 4wd
+Gmc,Jimmy,t15 (s15) jimmy 4wd
+Jeep,J-10 Pickup,j-10 pickup 4wd
+Gmc,Vandura,vandura g15/25 2wd
+Ford,E150 Club Wagon,e150 club wagon 2wd
+Gmc,Rally,g15/25 rally 2wd
+Toyota,Van,van 2wd
+Volkswagen,Vanagon,vanagon 2wd
+Am General,Fj8C Post Office,fj8c post office
+Dodge,Caravan/Ram Van,caravan/ram van 2wd
+Jeep,Cherokee/Wagoneer,cherokee/wagoneer 4wd
+Jeep,Cj,cj7 4wd
+Audi,R8,r8
+Lamborghini,Gallardo,gallardo coupe
+Volvo,C70,c70 fwd
+Dodge,Challenger,challenger
+Audi,A3,a3
+Chevrolet,Hhr,hhr fwd
+Ford,Edge,edge fwd
+Volkswagen,Tiguan,tiguan
+Volvo,Xc90,xc90 awd
+Volvo,240,240
+Import Trade Services,Its 190E 2.3,its 190e 2.3
+Bmw,5 Series,525i
+Acura,Legend,legend
+Nissan,300Zx,300zx
+Volkswagen,Passat,passat
+Chevrolet,C1500 Pickup,c1500 pickup 2wd
+Chevrolet,C2500 Pickup,c2500 pickup 2wd
+Buick,Riviera,riviera
+Jaguar,Vanden Plas,vanden plas
+Chevrolet,Lumina/Monte Carlo,lumina/monte carlo
+Morgan,Plus Eight,plus eight
+Chevrolet,Impala,impala police
+Volkswagen,Cc,cc
+Gmc,Canyon,canyon 2wd
+Acura,Rdx,rdx 4wd
+Jeep,Wrangler,wrangler 4wd
+Gmc,Canyon,canyon crew cab 4wd
+Mercury,Mariner,mariner 4wd ffv
+Mercedes-Benz,Cls-Class,cls63 amg
+Suzuki,Equator,equator 2wd
+Toyota,Celica,celica convertible
+Mazda,Rx-7,rx-7
+Chevrolet,Corvette,corvette
+Dodge,Caravan/Grand Caravan,caravan/grand caravan 2wd
+Mini,Cooper,cooper
+Acura,Tl,tl 4wd
+Dodge,Caliber,caliber
+Mazda,5,5
+Chevrolet,Silverado,silverado c15 2wd
+Gmc,Yukon,yukon 1500 2wd
+Mini,John Cooper Works,john cooper works convertible
+Bmw,Z4,z4 sdrive30i
+Nissan,Altima,altima
+Bmw,X5,x5 xdrive35d
+Suzuki,Kizashi,kizashi
+Chrysler,Lebaron,lebaron convertible
+Jaguar,Xk,xk
+Mitsubishi,Eclipse,eclipse
+Nissan,Gt-R,gt-r
+Nissan,Sentra,sentra honeybee
+Infiniti,M37,m37x
+Bmw,7 Series,740i
+Toyota,Avalon,avalon
+Chevrolet,Colorado,colorado cab chassis inc 4wd
+Chevrolet,Avalanche,avalanche 1500 2wd
+Dodge,Colt,colt
+Volkswagen,Golf/Gti,gti
+Subaru,Impreza/Outback Sport,impreza awd
+Ford,Focus,focus fwd
+Chevrolet,Camaro,camaro
+Ford,Fusion,fusion fwd
+Gmc,Sierra,sierra k15 awd
+Gmc,Acadia,acadia fwd
+Hyundai,Tucson,tucson 2wd
+Chevrolet,Tahoe,tahoe hybrid 4wd
+Mini,Cooper,cooper convertible
+Lexus,Is,is 250/is 250c
+Lexus,Gs,gs 460
+Nissan,Sentra,sentra
+Bmw,7 Series,alpina b7 swb
+Mitsubishi,Outlander,outlander sport 2wd
+Toyota,Land Cruiser,land cruiser wagon 4wd
+Lexus,Ls,ls 600h l
+Mazda,Cx-7,cx-7 2wd
+Nissan,Pathfinder,pathfinder 4wd
+Jeep,Compass,compass 2wd
+Saab,9-3,9-3 sedan awd
+Ford,Thunderbird,thunderbird
+Porsche,911,911 carrera 4s targa
+Ford,Mustang,mustang convertible
+Infiniti,M35,m35h
+Mazda,6,6
+Gmc,Canyon,canyon crew cab 2wd
+Chevrolet,Express Passenger,express 1500 awd passenger
+Kia,Sorento,sorento 2wd
+Bmw,X6,x6 xdrivem
+Mercedes-Benz,Sl-Class,sl550
+Hyundai,Genesis,genesis coupe
+Chrysler,200,200
+Chevrolet,Tahoe,tahoe 1500 2wd
+Chevrolet,Tahoe,tahoe 1500 4wd
+Volvo,Xc60,xc60 awd
+Mazda,Mx-5,mx-5
+Mini,Cooper,cooper s convertible
+Acura,Tsx,tsx
+Mini,Countryman,cooper s countryman all4
+Mercedes-Benz,S-Class,s550
+Toyota,Tacoma,tacoma 4wd
+Chevrolet,Silverado,silverado 15 hybrid 4wd
+Chevrolet,Beretta,beretta
+Chevrolet,Corsica,corsica
+Lexus,Hs,hs 250h
+Mitsubishi,Lancer,lancer
+Mazda,3,3 di 5-door
+Dodge,Omni,omni
+Ford,F150,f150 pickup 2wd ffv
+Toyota,4Runner,4runner 4wd
+Nissan,Titan,titan 4wd
+Dodge,Shadow,shadow
+Toyota,Venza,venza
+Hyundai,Elantra,elantra
+Mercedes-Benz,E-Class,e350 4matic coupe
+Porsche,Boxster,boxster
+Hyundai,Equus,equus
+Gmc,Savana Passenger,savana 2500 2wd (passenger)
+Audi,A5,a5 quattro
+Mercedes-Benz,Slk-Class,slk55 amg
+Chevrolet,Spark,spark
+Audi,A6,a6
+Peugeot,505,505 sedan
+Gmc,Terrain,terrain fwd
+Infiniti,Fx37,fx37 rwd
+Infiniti,Fx50,fx50 awd
+Mercedes-Benz,Glk-Class,glk350 4matic
+Mercedes-Benz,Ml-Class,ml63 amg
+Mazda,3,3
+Pontiac,Grand Am,grand am
+Mazda,Speed 3,speed 3
+Mercedes-Benz,E-Class,e350 4matic
+Mini,Countryman,jcw countryman coupe all4
+Renault,Alliance/Encore,alliance
+Suzuki,Sx4,sx4 sedan
+Bmw,5 Series,550i xdrive
+Bmw,7 Series,750i xdrive
+Toyota,Matrix,matrix
+Toyota,Tacoma,tacoma 2wd
+Chevrolet,Traverse,traverse awd
+Honda,Accord,accord
+Merkur,Xr4Ti,xr4ti
+Ford,F150,f150 pickup 4wd
+Ram,1500,1500 4wd
+Toyota,Corolla,corolla
+Mitsubishi,Outlander,outlander 4wd
+Volkswagen,Golf/Gti,golf
+Audi,Q5,q5
+Land Rover,Lr4,lr4
+Ford,Focus,focus fwd ffv
+Audi,Rs 5,rs 5 cabriolet
+Toyota,Avalon,avalon hybrid
+Mazda,Cx-5,cx-5 2wd
+Nissan,Xterra,xterra 4wd
+Toyota,Rav4,rav4 awd
+Aston Martin,Db9,db9
+Porsche,Cayman,cayman
+Bentley,Flying Spur,flying spur
+Honda,Accord,accord plug-in hybrid
+Buick,Century,century
+Acura,Mdx,mdx 4wd
+Porsche,911,911 carrera 4 cabriolet
+Gmc,Savana Cargo,savana 1500  awd conversion (cargo)
+Subaru,Legacy/Outback,outback awd
+Gmc,Acadia,acadia awd
+Chevrolet,Malibu,malibu eassist
+Volkswagen,Beetle,beetle convertible
+Cadillac,Cts,cts sedan awd
+Mercedes-Benz,E-Class,e63 amg s 4matic
+Chrysler,Town And Country,town and country
+Dodge,Lancer,lancer
+Mini,Countryman,cooper countryman
+Mini,Paceman,cooper s paceman all4
+Dodge,600,600
+Bmw,3 Series,320i xdrive
+Chevrolet,Sonic,sonic rs
+Lotus,Evora,evora
+Plymouth,Caravelle,caravelle
+Mazda,3,3 5-door
+Chrysler,300,300
+Ford,E250 Van,e250 van ffv
+Toyota,Corolla,corolla le eco
+Hyundai,Santa Fe,santa fe 2wd
+Porsche,911,911 targa 4
+Nissan,Xterra,xterra 2wd
+Hyundai,Elantra,elantra gt
+Land Rover,Lr2,lr2
+Hyundai,Accent,accent
+Cadillac,Escalade,escalade 2wd
+Ford,Transit Connect,transit connect van 2wd
+Audi,A3,a3 quattro
+Pontiac,Bonneville,bonneville
+Mini,Cooper,cooper s (3-doors)
+Volvo,V60,v60 fwd
+Volvo,Xc70,xc70 awd
+Porsche,918 Spyder,918 spyder
+Audi,S6,s6
+Honda,Civic,civic wagon
+Audi,A4,a4 quattro
+Hyundai,Santa Fe,santa fe ultimate 2wd
+Hyundai,Tucson,tucson awd
+Fiat,500,500
+Mercedes-Benz,C-Class,c350 4matic coupe
+Mercedes-Benz,C-Class,c400 4matic
+Volkswagen,Jetta,jetta
+Chevrolet,Express Passenger,express 2500 2wd passenger
+Volkswagen,Quantum,quantum wagon
+Jeep,Cherokee,cherokee trailhawk 4wd
+Bmw,7 Series,alpina b7 lwb xdrive
+Dodge,Grand Caravan,grand caravan
+Bmw,X5,x5 sdrive35i
+Bmw,X5,x5 xdrive50i
+Mercedes-Benz,C-Class,c300 4matic
+Toyota,Prius,prius
+Bmw,5 Series,535i gran turismo
+Chevrolet,Silverado,silverado k15 4wd
+Kia,Sedona,sedona sx
+Ford,Mustang,mustang
+Ford,Escape,escape awd
+Honda,Crosstour,crosstour 4wd
+Infiniti,Q50,q50 hybrid awd
+Lexus,Gs,gs 450h
+Subaru,Crosstrek,xv crosstrek hybrid awd
+Mini,Cooper,cooper s (5-doors)
+Honda,Hr-V,hr-v 4wd
+Mini,John Cooper Works,john cooper works hardtop
+Bmw,Z4,z4 sdrive35is
+Bmw,6 Series,640i gran coupe
+Hyundai,Sonata,sonata hybrid se
+Volvo,S60,s60 polestar awd
+Kia,Soul,soul eco dynamics
+Fiat,500 X,500 x awd
+Porsche,911,911 carrera cabriolet
+Porsche,911,911 carrera 4s cabriolet
+Isuzu,Pickup,pickup 2wd
+Porsche,Cayman,cayman s
+Cadillac,Ats-V,ats-v
+Porsche,Boxster,boxster gts
+Dodge,Dart,dart aero
+Jeep,Cherokee,cherokee 4wd
+Audi,S5,s5 cabriolet
+Buick,Verano,verano
+Cadillac,Xts,xts
+Mercedes-Benz,Slk-Class,slk350
+Chevrolet,El Camino Pickup,el camino pickup 2wd
+Mini,Countryman,jcw countryman all4
+Mercedes-Benz,Gle-Class,gle450 amg coupe
+Chevrolet,R20 (C20) Pickup,r20 (c20) pickup 2wd
+Fiat,500,500 abarth
+Ferrari,Ff,ff
+Gmc,Sierra,sierra k15 cab chassis 4wd
+Jeep,Renegade,renegade 4wd
+Cadillac,Xts Hearse,xts hearse
+Ford,F150,f150 pickup 2wd
+Ford,F250,f250 pickup 2wd
+Dodge,Durango,durango awd
+Gmc,Caballero Pickup,caballero pickup 2wd
+Pontiac,Sunburst,sunburst
+Isuzu,Axiom,axiom 2wd
+Jeep,Liberty/Cherokee,liberty/cherokee 2wd
+Mazda,Tribute,tribute 2wd
+Mitsubishi,Montero Sport,montero sport 2wd
+Toyota,4Runner,4runner 2wd
+Chevrolet,Avalanche,avalanche 1500 4wd
+Chevrolet,Tracker,tracker 4wd convertible
+Subaru,Xt,xt
+Gmc,Yukon,yukon xl 1500 awd
+Plymouth,Conquest,conquest
+Mazda,Tribute,tribute 4wd
+Subaru,Baja,baja awd
+Suzuki,Grand Vitara,grand vitara 4wd
+Suzuki,Grand Vitara,grand vitara xl7 4wd
+Toyota,Corolla,corolla sport
+Ford,Taurus,taurus
+Bmw,Z4,z4 roadster
+Ferrari,575 M Maranello,575 m maranello
+Honda,Insight,insight
+Mercedes-Benz,Sl-Class,sl55 amg
+Audi,Tt Coupe,tt coupe quattro
+Porsche,Carrera 4 Cabriolet,carrera 4 cabriolet
+Porsche,Carrera 4 S Coupe,carrera 4 s coupe
+Bmw,3 Series,325ci
+Chevrolet,Cavalier,cavalier
+Infiniti,G35,g35
+Kia,Rio,rio
+Saab,9-3,9-3 sport sedan
+Nissan,Stanza,stanza
+Toyota,Camry,camry solara
+Toyota,Echo,echo
+Volvo,S40,s40 fwd
+Bmw,5 Series,545i
+Lincoln,Ls,ls
+Suzuki,Verona,verona
+Pontiac,Vibe,vibe
+Mercury,Sable,sable wagon
+Saab,9-5,9-5 wagon
+Chevrolet,Silverado,silverado 1500 4wd
+Dodge,Ram 1500 Pickup,ram 1500 pickup 4wd
+Toyota,Tundra,tundra 4wd
+Chevrolet,Van 15/25 Conversion,van 15/25 2wd conversion
+Cadillac,Srx,srx 2wd
+Ford,Expedition,expedition 2wd
+Infiniti,Qx56,qx56 2wd
+Oldsmobile,Calais,calais
+Saturn,Vue,vue fwd
+Bmw,X3,x3
+Cadillac,Escalade,escalade ext awd
+Chevrolet,Suburban,suburban 1500 4wd
+Dodge,Durango,durango 4wd
+Oldsmobile,Firenza,firenza
+Gmc,Envoy,envoy xl 4wd
+Land Rover,Discovery,discovery series ii
+Nissan,Pathfinder,pathfinder armada 4wd
+Nissan,Xterra,xterra v6 4wd
+Gmc,Savana Cargo,savana (cargo) (bi-fuel)
+Chrysler,Crossfire,crossfire coupe
+Porsche,Targa,targa kit
+Bmw,3 Series,325xi
+Bmw,3 Series,330i
+Chevrolet,Optra,optra 5
+Honda,Civic,civic hybrid
+Mercedes-Benz,Cl-Class,cl600
+Pontiac,Sunfire,sunfire
+Suzuki,Aerio,aerio awd
+Suzuki,Reno,reno
+Volkswagen,Jetta,jetta gli
+Chevrolet,Monte Carlo,monte carlo
+Dodge,Stratus,stratus 4 door
+Chrysler,300,300c awd
+Ford,Five Hundred,five hundred fwd
+Mercury,Montego,montego awd
+Mercury,Montego,montego fwd
+Chevrolet,Silverado,silverado 1500 2wd
+Gmc,Sierra,sierra 1500 4wd
+Chevrolet,Astro Cargo,astro 2wd (cargo)
+Chrysler,Lebaron,lebaron gts
+Gmc,Savana Passenger,savana 1500/2500 2wd (passenger)
+Honda,Odyssey,odyssey
+Chevrolet,Equinox,equinox fwd
+Isuzu,Ascender,ascender 5-passenger 2wd
+Jeep,Grand Cherokee,grand cherokee 2wd
+Dodge,Aries,aries
+Cadillac,Escalade,escalade esv awd
+Cadillac,Srx,srx awd
+Land Rover,Lr3,lr3
+Nissan,Murano,murano awd
+Subaru,Legacy/Outback,outback wagon awd
+Toyota,Sequoia,sequoia 4wd
+Gmc,Yukon,yukon xl 1500 4wd
+Gmc,Sierra,sierra 2500 hd 2wd cng
+Dodge,Ram 1500 Pickup,ram 1500 pickup 2wd
+Saab,9-7,9-7x awd
+Jeep,Grand Cherokee,grand cherokee 4wd
+Bmw,6 Series,650ci
+Mitsubishi,Lancer,lancer evolution
+Saturn,Ion,ion
+Acura,Tl,tl
+Cadillac,Sts,sts
+Volvo,740/760,740/760
+Mitsubishi,Galant,galant
+Dodge,Charger,charger
+Buick,Lesabre,lesabre
+Audi,A4,a4 avant quattro
+Bmw,5 Series,530xi sport wagon
+Mazda,6,6 sport wagon
+Subaru,Legacy/Outback,legacy wagon awd
+Chevrolet,Colorado,colorado 4wd
+Gmc,Canyon,canyon 4wd
+Ford,Freestar,freestar wagon fwd
+Chrysler,Pt Cruiser,pt cruiser convertible
+Gmc,Envoy,envoy 2wd
+Suzuki,Grand Vitara,grand vitara
+Bmw,X5,x5
+Land Rover,Range Rover,range rover sport
+Mercury,Mariner,mariner 4wd
+Toyota,Highlander,highlander 4wd
+Toyota,Rav4,rav4 2wd
+Renault,18I/Wagon/Sportwagon,18i sportwagon
+Mitsubishi,Eclipse,eclipse spyder
+Subaru,Legacy/Outback,legacy awd
+Bmw,5 Series,530i
+Toyota,Camry,camry hybrid
+Hyundai,Sonata,sonata
+Honda,Fit,fit
+Volkswagen,Passat,passat wagon
+Buick,Century Wagon,century wagon
+Chevrolet,Silverado,silverado classic 1500 4wd
+Chevrolet,Silverado,silverado classic 15 hybrid 4wd
+Chrysler,Town And Country,town and country wagon
+Gmc,Envoy,envoy 4wd
+Hyundai,Santa Fe,santa fe 4wd
+Cadillac,Xlr-V,xlr-v
+Chevrolet,Cobalt,cobalt
+Chevrolet,Optra,optra
+Volvo,240,240 dl/240 gl wagon
+Mercedes-Benz,S-Class,s65 amg
+Audi,Q7,q7
+Hummer,H3,h3 4wd
+Mercedes-Benz,R-Class,r500 4matic
+Chevrolet,Impala,impala
+Bmw,3 Series,335ci
+Bentley,Arnage,arnage
+Mercury,Milan,milan awd
+Saab,9-5,9-5 sportcombi
+Lincoln,Mark Lt,mark lt
+Chrysler,Town And Country/Voyager/Grand Voyager,town and country/voyager/grand voy. 2wd
+Chrysler,Pt Cruiser,pt cruiser
+Toyota,Highlander,highlander 2wd
+Jeep,Commander,commander 4wd
+Roush Performance,F150,stage 3 f150 super cab 4wd
+Mercedes-Benz,380,380sl
+Audi,Tt Coupe,tt coupe
+Buick,Lacrosse/Allure,lacrosse/allure
+Jaguar,S-Type,s-type 3.0 litre
+Jaguar,X-Type,x-type sport brake
+Nissan,Armada,armada 2wd
+Mercury,Grand Marquis,grand marquis ffv
+Volvo,C70,c70 convertible
+Pontiac,G6,g6
+Chevrolet,Malibu,malibu
+Ford,Fusion,fusion
+Mercedes-Benz,E-Class,e550 4matic
+Cadillac,Funeral Coach/Hearse,funeral coach / hearse
+Chevrolet,Colorado,colorado cab chassis inc 2wd
+Dodge,D250 Pickup,d250 pickup 2wd
+Honda,Element,element 4wd
+Chevrolet,Suburban,suburban 1500 2wd
+Lotus,Elise/Exige,elise/exige
+Bmw,M,m6
+Bmw,3 Series,328i
+Chrysler,300 Srt8,300/srt-8
+Dodge,Charger,charger awd
+Maybach,62,62s
+Dodge,Magnum,magnum
+Lexus,Is,is 250
+Gmc,Yukon,yukon 1500 hybrid 4wd
+Bmw,1 Series,128i convertible
+Saleen Performance,S331 Family,s331 family
+Chevrolet,K10 Pickup,k10 pickup 4wd
+Volkswagen,Beetle,new beetle convertible
+Jaguar,Xj,xj8l
+Volkswagen,Jetta,jetta sportwagen
+Dodge,Journey,journey  2wd
+Chevrolet,Aveo,aveo 5
+Rolls-Royce,Phantom,phantom coupe
+Mercury,Milan,milan
+Maserati,Quattroporte,quattroporte
+Mercedes-Benz,S-Class,s63 amg
+Chevrolet,Colorado,colorado crew cab 2wd
+Gmc,Canyon,canyon cab chassis inc 4wd
+Isuzu,Ascender,ascender 5-passenger 4wd
+Mazda,Tribute,tribute hybrid 4wd
+Porsche,Cayenne,cayenne turbo
+Gmc,Pickup,k15 pickup 4wd
+Ferrari,F430,f430
+Nissan,350Z,350z roadster
+Porsche,Carrera 4 Coupe,carrera 4 coupe
+Jeep,Comanche,comanche 4wd
+Mini,Clubman,clubman s
+Bmw,M,m3
+Chrysler,300,300 awd
+Subaru,Impreza/Outback Sport,impreza wagon/outback spt awd
+Nissan,Frontier,frontier 2wd
+Toyota,Tundra,tundra 2wd
+Honda,Element,element 2wd
+Toyota,Highlander,highlander hybrid 4wd
+Nissan,370Z,370z
+Kia,Forte,forte
+Ford,Fusion,fusion fwd ffv
+Lincoln,Mkz,mkz awd
+Saturn,Outlook,outlook fwd
+Audi,4000,4000
+Chevrolet,Chevette,chevette
+Gmc,Vandura,g15/25 vandura 2wd
+Isuzu,I-Mark,i-mark
+Pontiac,1000,1000
+Subaru,Sedan,sedan
+Volkswagen,Rabbit,rabbit
+Ford,Escort,escort
+Volvo,740/760,760 gle
+Buick,Electra/Park Avenue,electra/park avenue
+Chevrolet,Impala/Caprice,impala/caprice
+Oldsmobile,Delta 88,delta 88
+Mercury,Lynx,lynx wagon
+Oldsmobile,Firenza,firenza cruiser wagon
+Ford,E150 Club Wagon,e150 club wagon
+Chevrolet,C10 Pickup,c10 pickup 2wd
+Chevrolet,K20 Pickup,k20 pickup 4wd
+Chevrolet,T10 (S10) Pickup,t10 (s10) pickup 4wd
+Dodge,W100/W150 Pickup,w100/w150 pickup 4wd
+Ford,F250,f250 pickup 4wd
+Toyota,Truck/T100,truck 4wd
+Dodge,B150/B250 Van,b150/b250 van 2wd
+Ford,E250 Econoline,e250 econoline 2wd
+Toyota,Van,cargo van 2wd
+Chevrolet,Blazer,s10 blazer 2wd
+Subaru,Brat,brat 4wd
+Gmc,Jimmy,s15 jimmy 2wd
+Chrysler,Laser/Daytona,laser/daytona
+Nissan,200Sx,200sx
+Dodge,Daytona,daytona
+Plymouth,Colt,colt
+Pontiac,Firebird/Trans Am/Formula,firebird
+Rolls-Royce,Corniche/Continental,corniche
+Chevrolet,Blazer,k10 blazer 4wd
+Mercury,Lynx,lynx
+Volkswagen,Quantum,quantum
+Audi,5000,5000s
+Dodge,Ramcharger,aw100/aw150 ramcharger 4wd
+Chevrolet,Cavalier,cavalier wagon
+Plymouth,Acclaim,acclaim
+Lincoln,Town Car,town car
+Mercedes-Benz,300,300sd
+Saab,9000,9000
+Subaru,Legacy/Outback,legacy wagon awd turbo
+Mitsubishi,Expo,expo.lrv
+Plymouth,Colt,colt vista
+Dodge,D100/D150 Pickup,d100/d150 pickup 2wd
+Mazda,B Pickup,b2200/b2600i
+Dodge,B150/B250 Wagon,b150/b250 wagon 2wd
+Chevrolet,Blazer,s10 blazer 4wd
+Dodge,Caravan/Grand Caravan,caravan/grand caravan 4wd
+Honda,Del Sol,civic del sol
+Eagle,Summit,summit
+Geo,Metro,metro xfi
+Plymouth,Laser,laser
+Subaru,Impreza/Outback Sport,impreza
+Audi,V8,v8
+Ford,Tempo,tempo
+Lexus,Gs,gs 300
+Toyota,Camry,camry
+Volvo,850,850
+Ford,Escort,escort wagon
+Subaru,Impreza/Outback Sport,impreza wagon
+Subaru,Impreza/Outback Sport,impreza wagon awd
+Ford,Taurus,taurus wagon
+Nissan,Truck,truck 2wd
+Gmc,Sonoma,sonoma 2wd
+Gmc,Sierra,sierra 1500 2wd
+Gmc,Sierra,sierra 2500 2wd
+Chevrolet,K1500 Pickup,k1500 pickup 4wd
+Jeep,Cj,cj7
+Chevrolet,Pickup 2500,pickup 2500 4wd
+Nissan,Truck,truck 4wd
+Toyota,Previa,previa
+Nissan,Quest,quest
+Gmc,Suburban,suburban 1500 2wd
+Isuzu,Amigo,amigo 2wd
+Isuzu,Trooper,trooper
+Mitsubishi,Montero,montero
+Ferrari,Ferrari F512M,ferrari f512m
+Lamborghini,Diablo,db132/diablo
+Mercedes-Benz,Sl-Class,sl500
+Audi,Cabriolet,cabriolet
+Bmw,3 Series,325i convertible
+Geo,Metro,metro
+Honda,Civic,civic crx
+Mazda,Mx-3,mx-3
+Saab,900,900 convertible
+Alfa Romeo,164,164
+Mercury,Tracer,tracer
+Mazda,Protege,protege
+Volkswagen,Jetta,jetta iii
+Rolls-Royce,Brooklands/Turbo R,turbo r/rl bklds turbo/lwb
+Dabryan Coach Builders Inc,Wb,wb
+Nissan,Pulsar/Pulsar-Nx,pulsar/pulsar-nx
+Eagle,Vision,vision
+Mercury,Grand Marquis,grand marquis
+Mercedes-Benz,S-Class,s320
+Mercedes-Benz,S-Class,s350
+Eagle,Summit,summit wagon
+Chevrolet,Impala/Caprice,caprice/impala wagon
+Dodge,Ram 2500 Pickup,ram 2500 pickup 2wd
+Dodge,600,600 convertible
+Toyota,Truck/T100,t100 2wd
+Chevrolet,Sport Van,sport van g10/20 2wd
+Honda,Del Sol,del sol
+Mitsubishi,Eclipse,eclipse convertible
+Toyota,Paseo,paseo
+Eagle,Talon,talon
+Ford,Probe,probe
+Honda,Civic,civic
+Subaru,Hatchback,hatchback
+Rolls-Royce,Azure,azure
+Suzuki,Swift,swift
+Audi,A6,a6 quattro
+Chrysler,Sebring,sebring
+Kia,Sephia,sephia
+Mazda,Millenia,millenia
+Plymouth,Neon,neon
+Cadillac,Cimarron,cimarron
+Acura,Rl,3.5rl
+Dodge,Stratus,stratus
+Mazda,626,626
+Chrysler,Concorde,concorde
+Ford,Crown Victoria,crown victoria
+Ford,F250,f250
+Mercury,Topaz,topaz
+Acura,Slx,slx
+Ford,Explorer,explorer 4wd
+Bmw,3 Series,328i/328is
+Mitsubishi,3000 Gt,3000 gt
+Saturn,Sc,sc
+Toyota,Celica,celica
+Ford,Contour,contour
+Oldsmobile,Achieva,achieva
+Oldsmobile,Cutlass Supreme,cutlass supreme
+Mazda,B Pickup,b2300/b3000/b4000 pickup 4wd
+Chevrolet,Van 1500/2500,van 1500/2500 2wd
+Gmc,Safari Passenger,safari 2wd (passenger)
+Kia,Sportage,sportage 2wd
+Suzuki,Sidekick,sidekick 2door 2wd
+Land Rover,Discovery,discovery
+Lamborghini,Diablo,db132/144 diablo
+Nissan,240Sx,240sx
+Acura,Integra,integra
+Nissan,Sentra/200Sx,sentra/200sx
+Volvo,S70,s70
+Volvo,V90,v90
+Isuzu,Oasis,oasis
+Volvo,V70,v70 fwd
+Volvo,V70,v70 awd
+Oldsmobile,Cutlass Cruiser,cutlass cruiser wagon
+Chevrolet,Astro Passenger,astro 2wd (passenger)
+Dodge,B2500 Wagon,b2500 wagon 2wd
+Chrysler,Town And Country,town and country 2wd
+Ford,Explorer,explorer 2wd
+Mercury,Mountaineer,mountaineer 2wd
+Plymouth,Voyager/Grand Voyager,voyager/grand voyager 2wd
+Pontiac,6000,6000 wagon
+Bmw,M,m roadster
+Porsche,911,911 carrera
+Chevrolet,Metro,metro
+Bmw,5 Series,540i
+Daewoo,Lanos,lanos
+Mercedes-Benz,C-Class,c43 amg
+Mercury,Tracer,tracer wagon
+Dodge,Dakota Pickup,dakota pickup 2wd
+Mazda,B Pickup,b4000
+Dodge,B2500 Van,b2500 van 2wd
+Chevrolet,Express Passenger,express 1500/2500 2wd
+Dodge,Durango,durango 2wd
+Isuzu,Rodeo,rodeo 4wd
+Lexus,Lx,lx 470
+Jaguar,Xkr,xkr
+Lexus,Sc,sc
+Pontiac,Firebird/Trans Am/Formula,firebird/trans am
+Audi,A4,a4
+Mercury,Mystique,mystique
+Mercedes-Benz,Cl-Class,cl500
+Lexus,Gs,gs 300/gs 400
+Cadillac,Deville,deville
+Saturn,Sw,sw
+Ford,Focus,focus station wagon
+Chevrolet,S10 Pickup,s10 pickup 4wd
+Chevrolet,Tracker,tracker 2wd convertible
+Gmc,Jimmy,jimmy 2wd
+Jeep,Cherokee,cherokee 2wd
+Suzuki,Vitara,vitara 4door 2wd
+Gmc,Suburban,c15 suburban 2wd
+Audi,Tt Roadster,tt roadster
+Porsche,911,911 carrera 2/4
+Porsche,911,911 turbo
+Honda,Prelude,prelude
+Oldsmobile,Alero,alero
+Subaru,Hatchback,hatchback 4wd
+Volvo,S80,s80/s80 executive
+Dodge,Intrepid,intrepid
+Audi,S4,s4 avant
+Volkswagen,Jetta,jetta wagon
+Nissan,Frontier,frontier v6 4wd
+Mercury,Villager,villager fwd wagon
+Honda,Cr-V,cr-v 4wd
+Isuzu,Rodeo,rodeo sport 4wd
+Isuzu,Trooper,trooper 4wd
+Subaru,Forester,forester awd
+Suzuki,Vitara,vitara 2door 4wd
+Bmw,Z3,z3 roadster
+Porsche,911,911 carrera 4s
+Hyundai,Tiburon,tiburon
+Maserati,Coupe Cambiocorsa/Coupe Gt,coupe cambiocorsa/coupe gt
+Suzuki,Esteem,esteem
+Volkswagen,Beetle,new beetle
+Mercedes-Benz,C-Class,c240
+Jaguar,S-Type,s-type
+Mercury,Sable,sable
+Suzuki,Aerio,aerio sx
+Mercedes-Benz,E-Class,e320 4matic (wagon)
+Dodge,Dakota Pickup,dakota pickup 4wd
+Pontiac,Montana,montana fwd
+Honda,Passport,passport 4wd
+Mitsubishi,Nativa,nativa 4wd (puerto rico only)
+Chevrolet,Cavalier,cavalier dual-fuel
+Ford,Crown Victoria,crown victoria cng
+Mitsubishi,Tredia,tredia
+Bmw,Z8,z8
+Mercedes-Benz,Clk-Class,clk320 (cabriolet)
+Toyota,Camry,camry solara convertible
+Hyundai,Accent/Brio,accent/brio
+Mercedes-Benz,C-Class,c240 4matic
+Suzuki,Aerio,aerio
+Jaguar,S-Type,s-type 4.2 litre
+Kia,Optima,optima
+Saturn,L100/200,l200
+Mitsubishi,Mirage,mirage
+Buick,Park Avenue,park avenue
+Ford,Explorer,explorer sport trac 4wd
+Mercedes-Benz,500,500sl
+Mercedes-Benz,Gls-Class,amg gls63
+Gmc,Pickup,r15 pickup 2wd
+Lincoln,Mkz,mkz hybrid fwd
+Kia,Rio,rio eco
+Gmc,Pickup,r25 pickup 2wd
+Mazda,Cx-3,cx-3 2wd
+Chevrolet,Equinox,equinox awd
+Lamborghini,Aventador,aventador coupe
+Cadillac,Xts,xts awd
+Ford,Explorer,explorer 2wd ffv
+Gmc,Sierra,sierra c15 2wd
+Land Rover,Discovery,discovery sport
+Gmc,Yukon,yukon c1500 xl 2wd
+Bmw,M,m4 convertible
+Chevrolet,V20 Pickup,v20 pickup 4wd
+Jeep,Cherokee,cherokee fwd
+Jeep,Patriot,patriot fwd
+Dodge,Durango,durango rwd
+Bmw,3 Series,320i
+Chevrolet,Sonic,sonic 5
+Bentley,Bentayga,bentayga
+Mercedes-Benz,Amg Gt,amg gt s
+Infiniti,Qx50,qx50 awd
+Saab,900,900
+Kia,Forte,forte 5
+Mercedes-Benz,S-Class,amg s63 4matic coupe
+Lexus,Gs,gs 200t f sport
+Honda,Civic,civic 4dr
+Honda,Civic,civic 5dr sport
+Ford,F150,f150 5.0l 2wd ffv gvwr>7599 lbs
+Ford,F150,f150 4wd ffv base payload lt tire
+Gmc,Pickup,v15 pickup 4wd
+Lexus,Is,is 300 awd
+Jaguar,Xj,xj
+Jaguar,Xjl,xjl
+Mercedes-Benz,C-Class,amg c43 4matic
+Bmw,X4,x4 xdrive28i
+Jeep,J-10 Pickup,j-10 pickup truck 4wd
+Toyota,Highlander,highlander awd
+Tesla,Model S,model s awd - p100d
+Jeep,Compass,new compass 2wd
+Mazda,Cx-5,cx-5 4wd
+Bmw,M,m550i xdrive
+Jaguar,F-Type,f-type s coupe
+Ferrari,Gtc4Lusso,gtc4lusso
+Kia,Sportage,sportage awd
+Volkswagen,Atlas,atlas 4motion
+Mercedes-Benz,E-Class,e400 coupe
+Toyota,Camry,camry hybrid le
+Mercedes-Benz,C-Class,c350e
+Mercedes-Benz,Slc-Class,slc300
+Cadillac,Ct6,ct6
+Gmc,Sierra,sierra k15 4wd
+Dodge,Challenger,challenger gt
+Mercedes-Benz,Gls-Class,gls550 4matic
+Chevrolet,G10/20 Van,g10/20 sport van 2wd
+Dodge,B350 Wagon,b350 wagon 2wd
+Lexus,Gx,gx 460
+Rolls-Royce,Ghost,ghost
+Ford,F150,f150 pickup 4wd ffv
+Mercedes-Benz,Metris Cargo,metris (cargo van)
+Nissan,Nv200 Nyc Taxi,nv200 nyc taxi
+Lincoln,Mkc,mkc awd
+Infiniti,Q60,q60 red sport awd
+Infiniti,Q60,q60 awd
+Buick,Regal,regal awd
+Porsche,Cayenne,cayenne platinum
+Lincoln,Mkx,mkx awd
+Honda,Civic,civic si 4dr
+Lexus,Nx,nx 300
+Lexus,Nx,nx 300 awd
+Ford,F150,f150 4wd ffv base payload lt
+Nissan,Maxima,maxima
+Lexus,Gs,gs f
+Toyota,Sienna,sienna awd
+Porsche,Cayenne,cayenne turbo s
+Nissan,Rogue,rogue sport fwd
+Honda,Clarity,clarity plug-in hybrid
+Lexus,Rc,rc 350 awd
+Lexus,Rx,rx 450h awd
+Ram,1500,1500 2wd
+Dodge,Caravan/Grand Caravan/Ram Van,caravan/grand caravan/ram van 2wd
+Lexus,Ls,ls 500 awd
+Land Rover,Range Rover,range rover lwb sva
+Buick,Envision,envision awd
+Porsche,Panamera,panamera 4s st
+Porsche,Panamera,panamera 4 e-hybrid st
+Bmw,4 Series,430i gran coupe
+Mini,Clubman,cooper s clubman all4
+Genesis,G90,g90 rwd
+Jaguar,F-Type,f-type convertible
+Genesis,G80,g80 rwd
+Porsche,911,911 targa 4 gts
+Hyundai,Santa Fe,santa fe xl ultimate awd
+Porsche,911,911 carrera 4
+Ford,F150,f150 4wd base payload lt tire
+Gmc,Sierra,sierra ltd k15 4wd
+Hyundai,Kona,kona fwd
+Lexus,Nx,nx 300 awd f sport
+Chevrolet,Suburban,suburban k1500 4wd
+Toyota,Corolla,corolla hatchback xse
+Ram,1500,1500 classic 2wd
+Dodge,Colt,colt vista 4wd
+Bmw,M,m240i xdrive convertible
+Bmw,3 Series,330i xdrive sports wagon
+Mercedes-Benz,Glc-Class,glc300 4matic coupe
+Chevrolet,Cruze,cruze premier hatchback
+Gmc,Suburban,v15 suburban 4wd
+Mercedes-Benz,Sl-Class,sl450
+Lexus,Lc,lc 500h
+Nissan,Altima,altima sr/platinum
+Lincoln,Continental,continental  fwd
+Mercedes-Benz,Metris Passenger,metris (passenger van)
+Jeep,Grand Cherokee,grand cherokee trackhawk 4wd
+Ford,Expedition,expedition 4wd
+Subaru,Wagon,wagon 4wd
+Mercedes-Benz,C-Class,amg c63 s
+Chevrolet,Silverado,silverado k10 cab chassis 4wd
+Hyundai,Sonata,sonata plug-in hybrid
+Tesla,Model 3,model 3 mid range
+Audi,Tts Coupe,tts coupe
+Toyota,Corolla,corolla xse
+Hyundai,Elantra,elantra se
+Ferrari,328 Gts/Gtb,328 gts/gtb
+Bmw,4 Series,440i xdrive coupe
+Bmw,M,m4 coupe
+Hyundai,Veloster,veloster
+Tesla,Model S,model s performance (19in wheels)
+Ford,Transit Connect,transit connect usps
+Lincoln,Aviator,aviator awd
+Toyota,Prius Prime,prius prime
+Volvo,V90,v90 awd
+Mercedes-Benz,Amg Gt,amg gt roadster
+Buick,Regal,regal
+Mitsubishi,Eclipse Cross,eclipse cross es 2wd
+Subaru,Outback,outback awd
+Chevrolet,Suburban,suburban c1500 2wd
+Chevrolet,Colorado,colorado 2wd
+Ford,Ecosport,ecosport awd
+Land Rover,Range Rover,range rover lwb
+Acura,Mdx,mdx awd a-spec
+Mercedes-Benz,Amg Gt,amg gt 53 4matic plus
+Porsche,928,928 s4
+Bmw,M,m850i xdrive gran coupe
+Jeep,Wrangler,wrangler unlimited 4wd
+Bmw,X7,x7 m50i
+Nissan,Versa,versa
+Chevrolet,Silverado,silverado 2wd
+Chevrolet,Silverado,silverado 4wd
+Gmc,Sierra,sierra 4wd
+Mazda,3,3 4-door 2wd
+Mercedes-Benz,C-Class,c300 4matic coupe
+Lexus,Es,es 350 f sport
+Audi,80/90,80/90 quattro
+Ford,Mustang,mustang ho coupe
+Chevrolet,Blazer,blazer fwd
+Rolls-Royce,Wraith,wraith
+Toyota,Camry,camry hybrid xle/se
+Rolls-Royce,Ghost,ghost ewb
+Hyundai,Kona,kona electric
+Mercedes-Benz,Amg Gt,amg gt 63 s 4matic plus
+Honda,Civic,civic 2dr
+Chevrolet,Spectrum,spectrum
+Honda,Hr-V,hr-v fwd
+Lexus,Ux,ux 200
+Tesla,Model 3,model 3 long range
+Kia,Niro,niro
+Toyota,Highlander,highlander
+Porsche,911,911 carrera s
+Cadillac,Ct5,ct5 awd
+Jaguar,F-Type,f-type s awd coupe
+Toyota,Camry,camry awd xle/xse
+Subaru,Ascent,ascent limited/touring
+Porsche,718,718 spyder
+Bugatti,Divo,divo
+Land Rover,Defender,defender 90
+Volvo,S60,s60 fwd
+Subaru,Impreza,impreza sport 4-door
+Ford,Escape,escape fwd phev
+Lamborghini,Huracan,huracan spyder 2wd
+Porsche,Cayenne,cayenne turbo s e-hybrid
+Rolls-Royce,Dawn,dawn black badge
+Bmw,X3,x3 m40i
+Toyota,Rav4,rav4 awd le
+Chevrolet,Silverado,silverado cab chassis 4wd
+Chevrolet,Traverse,traverse fwd
+Kia,Sorento,sorento awd
+Ford,Explorer,explorer awd
+Mazda,3,3 5-door 4wd
+Porsche,Cayenne,cayenne s coupe
+Tesla,Model Y,model y long range awd
+Bentley,Continental,continental gt
+Mercedes-Benz,Amg Gt,amg gt coupe
+Yugo,Gv/Gvx,gv
+Chevrolet,Suburban,suburban 4wd
+Bmw,I3,i3s
+Ford,Mustang Mach-E,mustang mach-e rwd california route 1
+Porsche,Taycan,taycan 4s perf battery
+Buick,Skyhawk,skyhawk
+Lincoln,Nautilus,nautilus fwd
+Mitsubishi,Outlander,outlander phev
+Bmw,5 Series,530e
+Nissan,Rogue,rogue fwd
+Bmw,X2,x2 m35i
+Chevrolet,Celebrity,celebrity
+Porsche,Taycan,taycan perf battery
+Bmw,X2,x2 sdrive28i
+Mini,Countryman,cooper s countryman
+Mini,John Cooper Works,john cooper works clubman all4
+Subaru,Outback,outback wilderness awd
+Kia,K5,k5
+Porsche,Panamera,panamera turbo s e-hybrid st
+Suzuki,Sa 310,sa310
+Ford,Bronco,bronco black diamond 4wd
+Volkswagen,Id.4,id.4 pro
+Jaguar,F-Type,f-type r awd convertible
+Cadillac,Xt5,xt5 hearse fwd
+Lamborghini,Huracan,huracan spyder
+Hyundai,Ioniq,ioniq
+Audi,A7,a7 tfsi e quattro
+Volvo,V90,v90cc b6 awd
+Volvo,Xc90,xc90 t5 awd
+Volvo,Xc90,xc90 t6 awd
+Maserati,Ghibli,ghibli modena awd
+Toyota,Camry,camry xle/xse
+Toyota,Camry,camry hybrid se/xle/xse
+Ford,F150,f150 raptor 37 4wd
+Lexus,Ux,ux 250h awd
+Lexus,Rc,rc 300
+Honda,Civic,civic 5dr
+Mercedes-Benz,560,560sec
+Porsche,911,911 gt3 touring
+Gmc,Yukon,yukon xl 4wd
+Mclaren Automotive,720S Spider,720s spider
+Ford,Edge,edge awd
+Acura,Rdx,rdx awd
+Audi,Rs E-Tron Gt,rs e-tron gt
+Porsche,Taycan,taycan turbo s cross turismo
+Ford,Escape,escape awd hev
+Porsche,Panamera,panamera turbo s e-hybrid/exec/st
+Ford,Bronco,bronco sasquatch 4wd
+Jeep,Wrangler,wrangler 4dr 4wd
+Land Rover,Range Rover,range rover velar p400 mhev
+Infiniti,Qx50,qx50
+Tesla,Model X,model x plaid (22 inch wheels)
+Mercedes-Benz,Eqs,eqs 580 4matic
+Volkswagen,Arteon,arteon
+Bmw,I4,i4 m50 gran coupe (20 inch wheels)
+Gmc,Sierra,sierra mud terrain tires 4wd
+Volvo,V60,v60 t8 awd recharge ext. range
+Ford,Mustang,shelby gt500 mustang
+Genesis,G80,g80 awd
+Ford,F-150 Lightning,f-150 lightning platinum 4wd
+Bmw,Ix,ix m60 (21 inch wheels)
+Honda,Hr-V,hr-v awd
+Cadillac,Xt5,xt5 limo awd
+Cadillac,Xt5,xt5 awd
+Alfa Romeo,Stelvio,stelvio
+Infiniti,Qx55,qx55 awd
+Bmw,3 Series,m340i xdrive sedan
+Bmw,5 Series,m550i xdrive sedan
+Mercedes-Benz,Gle-Class,amg gle63 s 4matic plus coupe
+Lexus,Ux,ux 250h
+Toyota,Bz4X,bz4x awd
+Gmc,Sierra,sierra 2wd
+Land Rover,Range Rover,new range rover lwb
+Mazda,626/Mx-6,626/mx-6
+Porsche,718,718 cayman gts
+Porsche,Taycan,taycan perf battery plus
+Lexus,Ls,ls 500h awd
+Chrysler,New Yorker,new yorker
+Bentley,Flying Spur,flying spur hybrid
+Jeep,Wrangler,wrangler 4dr 4xe
+Ram,1500,1500 classic 4wd
+Mercedes-Benz,Eqs,amg eqs 4matic plus
+Mercedes-Benz,Sl-Class,amg sl55 4matic plus
+Nissan,Frontier,frontier 4wd
+Bmw,8 Series,840i xdrive coupe
+Mini,John Cooper Works,jcw countryman all4
+Genesis,Gv80,gv80 awd
+Bmw,4 Series,m440i xdrive convertible
+Acura,Mdx,mdx fwd
+Lamborghini,Huracan,huracan sterrato
+Dodge,Colt,colt wagon
+Jaguar,F-Pace,f-pace p400 mhev
+Cadillac,Ct5,ct5
+Hyundai,Kona,kona awd
+Oldsmobile,Firenza,firenza cruiser
+Porsche,718,718 boxster gts
+Porsche,718,718 gt4 rs
+Porsche,Macan,macan t
+Audi,5000,5000 cs quattro wagon
+Volkswagen,Tiguan,tiguan 4motion
+Land Rover,Range Rover,range rover mhev
+Subaru,Crosstrek,crosstrek hybrid awd
+Toyota,Prius,prius awd
+Land Rover,Range Rover,range rover p400 mhev
+Jeep,Grand Cherokee,grand cherokee 4xe
+Dodge,Aries,aries wagon
+Toyota,Corolla,corolla hatchback
+Toyota,Crown,crown awd
+Hyundai,Sonata,sonata awd
+Chevrolet,Suburban,suburban 2wd
+Gmc,Yukon,yukon xl 2wd
+Porsche,Taycan,taycan gts
+Rolls-Royce,Spectre,spectre (22 inch wheels)
+Volvo,Xc90,xc90 t8 awd recharge
+Mercedes-Benz,E-Class,e450 4matic
+Toyota,Tacoma,tacoma 4wd mt
+Ford,F150,f150 raptor 4wd
+Ford,Escape,escape fwd
+Lincoln,Corsair,corsair awd
+Bentley,Bentayga,bentayga ewb
+Chevrolet,Trailblazer,trailblazer fwd
+Bmw,X7,x7 xdrive40i
+Acura,Zdx,zdx awd
+Chevrolet,Equinox,equinox ev fwd
+Ford,Courier,courier
+Rivian,R1S,r1s performance dual large (21in)
+Tesla,Model X,model x plaid (20in wheels)
+Aston Martin,Vantage,vantage
+Mazda,B Pickup,b2200/b2600
+Toyota,Truck/T100,truck 2wd
+Mercedes-Benz,500,500se
+Chevrolet,C20 Pickup,c20 pickup 2wd
+Gmc,Pickup,c15 pickup 2wd
+Gmc,Pickup,k25 pickup 4wd
+Gmc,Pickup,t15 (s15) pickup 4wd
+Oldsmobile,Toronado,toronado
+Nissan,Van,van (cargo)
+Ford,E150 Econoline,e150 econoline 2wd
+Gmc,Rally,g35 rally 2wd
+Toyota,Van,van 2wd (passenger)
+Plymouth,Reliant,reliant
+Evans Automobiles,Series 1,series i
+Toyota,Mr2,mr2
+Audi,4000,4000s
+Mitsubishi,Starion,starion
+Ford,Laser,laser
+Pontiac,Sunbird,sunbird
+Volvo,240,240 dl/240 gl
+Audi,200,200
+Bmw,7 Series,735i
+Pontiac,Grand Prix,grand prix
+Nissan,Sentra,sentra wagon
+Pontiac,Safari,safari wagon
+Jeep,Comanche Pickup,comanche pickup 4wd
+Gmc,Safari,safari 2wd (cargo)
+Nissan,Pathfinder,pathfinder 2wd
+Toyota,Cab Chassis,cab/chassis 2wd
+Chevrolet,Sprint,turbo sprint
+Geo,Storm,storm
+Hyundai,Excel,excel
+Suzuki,Swift,swift gt
+Buick,Skylark,skylark
+Pontiac,Lemans,lemans
+Subaru,Loyale,loyale 4wd turbo
+Cadillac,Seville,seville
+Buick,Lesabre/Electra Wagon,lesabre/electra wagon
+Mazda,929,929
+Mercury,Grand Marquis,grand marquis wagon
+Chevrolet,Caprice,caprice
+Chevrolet,Cavalier,cavalier convertible
+Subaru,Loyale,loyale wagon
+Volkswagen,Fox,fox wagon
+Gmc,S15 Pickup,s15 pickup 2wd
+Chevrolet,K2500 Pickup,k2500 pickup 4wd
+Gmc,K2500 Sierra,k2500 sierra 4wd
+Isuzu,Pickup,pickup 4wd
+Chevrolet,G10/20 Van,g10/20 van 2wd
+Dodge,B350 Van,b350 van 2wd
+Volkswagen,Vanagon,vanagon/camper 2wd
+Chevrolet,Blazer,blazer v1500 4wd
+Lotus,Esprit,esprit turbo
+Mercedes-Benz,300,300sl
+Daihatsu,Charade,charade
+Subaru,Justy,justy
+Oldsmobile,Cutlass Calais,cutlass calais
+Peugeot,405,405 sedan
+Subaru,Legacy/Outback,legacy
+Dodge,Spirit,spirit
+Bmw,7 Series,735i luxury
+Gmc,C2500 Sierra,c2500 sierra 2wd
+Gmc,Sonoma,sonoma 4wd
+Gmc,Jimmy,jimmy sonoma 2wd
+Mazda,Navajo,navajo
+Ferrari,F40,f40
+Mazda,Mx-5 Miata,mx-5 miata
+Porsche,968,968
+Chrysler,Lebaron,lebaron
+Chevrolet,Lumina,lumina
+Ford,Ltd Crown Victoria,ltd crown victoria
+Gmc,Safari,safari awd (cargo)
+Oldsmobile,Silhouette,silhouette 2wd
+Chevrolet,Blazer,blazer 1500 4wd
+Geo,Metro,metro lsi convertible
+Volkswagen,Cabriolet,cabriolet
+Honda,Civic,civic hb vx
+Ford,Fusion,fusion hybrid fwd
+Kia,Sorento,sorento fwd
+Acura,Nsx,nsx hybrid
+Toyota,Prius V,prius v
+Porsche,911,911 targa 4s
+Gmc,Acadia,acadia limited fwd
+Kia,K900,k900
+Volvo,V60,v60 awd
+Ford,Explorer,explorer fwd
+Renault,Alliance/Encore,alliance/encore
+Mercedes-Benz,Sl-Class,amg sl63
+Mini,Cooper,cooper s hardtop 2 door
+Audi,Q3,q3
+Bmw,4 Series,430i xdrive convertible
+Toyota,Yaris,yaris ia
+Bmw,X1,x1 xdrive28i
+Dodge,W250 Pickup,w250 pickup 4wd
+Mercedes-Benz,Gla-Class,gla250
+Mercedes-Benz,C-Class,c300 4matic convertible
+Mercedes-Benz,C-Class,c300 convertible
+Audi,A3,a3 e-tron
+Mercedes-Benz,C-Class,amg c43 4matic coupe
+Roush Performance,F150,f150 pickup 2wd
+Porsche,Panamera,panamera 4s
+Porsche,Panamera,panamera 4s executive
+Bmw,4 Series,430i convertible
+Bmw,6 Series,640i xdrive gran coupe
+Jaguar,Xe,xe
+Toyota,C-Hr,c-hr
+Jeep,Compass,compass fwd
+Volkswagen,Beetle,beetle dune convertible
+Cadillac,Ats,ats awd
+Cadillac,Xt5,xt5
+Mercedes-Benz,Gle-Class,amg gle43 4matic
+Audi,Rs 3,rs 3
+Dodge,Charger,charger srt
+Fiat,500 L,500 l
+Bmw,2 Series,m240i convertible
+Mini,Cooper,cooper hardtop 2 door
+Toyota,Van,cargo van 4wd
+Mazda,Cx-9,cx-9 2wd
+Ford,F150,f150 2wd base payload lt tire
+Nissan,Van,van (passenger)
+Porsche,Boxster,boxster s
+Lincoln,Continental,continental  awd
+Bmw,6 Series,640i xdrive gran turismo
+Bmw,X6,x6 xdrive35i
+Buick,Enclave,enclave awd
+Fiat,124 Spider,124 spider
+Porsche,911,911 turbo s exclusive
+Kia,Niro,niro fe
+Ford,Ecosport,ecosport fwd
+Porsche,Cayman,cayman gts
+Lincoln,Mkt,mkt limo awd
+Infiniti,Qx80,qx80 4wd
+Mercedes-Benz,G-Class,g550 4x4
+Lexus,Ls,ls 500h
+Lexus,Ls,ls 500
+Volkswagen,Golf/Gti,golf alltrack
+Chevrolet,Corvette,corvette zr1
+Jeep,Wrangler,new wrangler 4wd
+Porsche,911,911 carrera 4 gts cabriolet
+Aston Martin,Vantage,vantage v8
+Lexus,Rc,rc f
+Jaguar,Xe,xe awd
+Subaru,Impreza,impreza 4-door
+Infiniti,Qx60,qx60 awd
+Ford,F150,f150 pickup 4wd xl/xlt
+Volvo,S90,s90 awd
+Volvo,V90,v90 cc awd
+Tesla,Model 3,model 3 long range  awd performance
+Kia,Forte,forte fe
+Toyota,Tundra,tundra 4wd ffv
+Bmw,5 Series,530e xdrive
+Land Rover,Range Rover,range rover sva
+Toyota,Camry,camry le/se
+Nissan,Nv200 Cargo Van,nv200 cargo van
+Chevrolet,Cruze,cruze premier
+Nissan,Frontier,frontier 2wd ffv
+Toyota,Tacoma,tacoma 4wd double cab off-road
+Ford,Taurus,taurus fwd ffv
+Ford,Fiesta,fiesta fwd
+Audi,S4,s4
+Bmw,I3,i3
+Kia,Niro,niro electric
+Roush Performance,Mustang,stage 3 mustang
+Fiat,500E,500e
+Buick,Reatta,reatta
+Cadillac,Allante,allante
+Fiat,500,500x awd
+Ford,Exp,exp
+Jaguar,F-Type,f-type awd coupe
+Volvo,Xc40,xc40 fwd
+Mitsubishi,Eclipse Cross,eclipse cross es 4wd
+Ferrari,812 Superfast,812 superfast
+Mercedes-Benz,Cls-Class,cls450 4matic
+Mazda,3,3 5-door 2wd
+Honda,Pilot,pilot awd
+Bmw,X5,x5 m50i
+Mercedes-Benz,E-Class,e450 4matic (station wagon)
+Jeep,Compass,compass 4wd
+Ford,Explorer,explorer hev awd
+Lexus,Rx,rx 450h l awd
+Mercedes-Benz,Gla-Class,gla250 4matic
+Infiniti,Q50,q50
+Mercedes-Benz,A-Class,a220 4matic
+Land Rover,Evoque,evoque mhev
+Ford,Ranger,ranger 2wd
+Audi,A5,a5 sportback quattro
+Ford,Gt,gt
+Kia,Seltos,seltos awd
+Porsche,Cayenne,cayenne e-hybrid
+Subaru,Crosstrek,crosstrek awd
+Kia,Telluride,telluride awd
+Ferrari,F8 Tributo,f8 tributo
+Mercedes-Benz,190,190d 2.5
+Mercedes-Benz,190,190e 2.3
+Acura,Rdx,rdx fwd
+Mercedes-Benz,190,190e 2.6
+Mini,Countryman,cooper countryman all4
+Bmw,X6,x6 m50i
+Toyota,Avalon,avalon trd
+Toyota,Gr Supra,gr supra
+Infiniti,Q50,q50 red sport
+Ram,Promaster City,promaster city
+Land Rover,Range Rover,range rover phev
+Mercedes-Benz,E-Class,e450 4matic convertible
+Gmc,Terrain,terrain awd
+Tesla,Model X,model x long range plus
+Kia,Soul,soul electric
+Audi,E-Tron,e-tron
+Mercedes-Benz,C-Class,amg c63 s convertible
+Mercedes-Benz,C-Class,amg c63 convertible
+Mercedes-Benz,C-Class,amg c63
+Ford,Escape,escape fwd hev
+Nissan,Leaf,leaf (40 kw-hr battery pack)
+Mitsubishi,Outlander,outlander 2wd
+Ford,Transit Connect,transit connect van ffv
+Chevrolet,Nova,nova
+Cadillac,Xt6,xt6 awd
+Cadillac,Ct5,ct5 v
+Cadillac,Xt5,xt5 hearse awd
+Lamborghini,Huracan,huracan spyder rwd
+Acura,Ilx,ilx
+Volkswagen,Atlas,atlas cross sport
+Rolls-Royce,Phantom,phantom extended
+Maserati,Quattroporte,quattroporte gt
+Genesis,Gv80,gv80 rwd
+Jeep,Wagoneer,wagoneer 2wd
+Porsche,911,911 turbo s
+Toyota,Avalon,avalon hybrid xle
+Ferrari,F8 Spider,f8 spider
+Kia,Sorento,sorento hybrid awd
+Bugatti,Chiron,chiron super sport
+Lexus,Is,is 500
+Gmc,Yukon,yukon 2wd
+Mclaren Automotive,720S Coupe,720s coupe
+Acura,Tlx,tlx type-s perf tire
+Gmc,Yukon,yukon 4wd
+Volkswagen,Id.4,id.4 awd pro s
+Acura,Rdx,rdx awd a-spec
+Mercedes-Benz,E-Class,amg e53 4matic plus
+Plymouth,Sundance,sundance
+Ford,F150,f150 pickup 4wd hev
+Chevrolet,Tahoe,tahoe 4wd
+Ford,Explorer,explorer platinum hev awd
+Mazda,3,3 4-door 4wd
+Dodge,Challenger,challenger widebody
+Subaru,Sedan,sedan/3door 4wd turbo
+Dodge,Durango,durango srt awd
+Nissan,Titan,titan 4wd pro4x
+Jaguar,F-Type,f-type r awd coupe
+Genesis,G70,g70 awd
+Audi,Rs,rs 3
+Bmw,8 Series,840i gran coupe
+Genesis,G90,g90 mhev
+Kia,Soul,soul
+Mini,Countryman,cooper se countryman all4
+Maserati,Levante,levante modena v8
+Jaguar,F-Pace,f-pace p340 mhev
+Bmw,2 Series,230i xdrive coupe
+Bmw,M,m3 sedan
+Audi,S5,s5 sportback
+Maserati,Grecale,grecale modena
+Jeep,Grand Cherokee,grand cherokee l 4wd
+Mercedes-Benz,Gle-Class,amg gle63 s 4matic plus
+Mercedes-Benz,G-Class,amg g63
+Porsche,Cayenne,cayenne s
+Nissan,Rogue,rogue awd
+Bugatti,Chiron,chiron pur sport
+Mercedes-Benz,560,560sel
+Kia,Ev6,ev6 standard range rwd
+Mercedes-Benz,S-Class,s580 4matic maybach
+Mercedes-Benz,E-Class,e450 4matic all-terrain (wagon)
+Porsche,911,911 carrera gts
+Ford,F150,f150 pickup tremor 4wd ffv
+Ford,Bronco,bronco badlands 4wd
+Tesla,Model 3,model 3 rwd
+Bmw,5 Series,530e sedan
+Lucid,Air,air touring awd with 19 inch wheels
+Lincoln,Corsair,corsair fwd
+Mazda,B Pickup,b2000/b2200 pickup 2wd
+Chevrolet,Blazer,t10 (s10) blazer 4wd
+Subaru,Sedan,sedan 4wd
+Chevrolet,S10 Cab Chassis,s10 cab chassis 2wd
+Ford,Ranger,ranger pickup cab chassis 2wd
+Pontiac,G5,g5 gt
+Chevrolet,Aveo,aveo
+Subaru,Sedan,sedan/3 door 4wd
+Cadillac,Sts,sts awd
+Rolls-Royce,Phantom,phantom
+Hyundai,Elantra,elantra touring
+Subaru,Impreza/Outback Sport,impreza wagon/outback sport
+Saturn,Vue,vue awd
+Subaru,Tribeca,tribeca awd
+Wallace Environmental,Wetl 500,wetl 500 sec
+Bmw,3 Series,325i/325is
+Cx Automotive,Cx,cx 25tri
+Mercedes-Benz,300,300e
+J.K. Motors,Bmw535I,bmw535i
+Maserati,Biturbo Spyder,biturbo spyder
+Ruf Automobile Gmbh,Ruf,ruf
+Mercedes-Benz,C-Class,c300
+Mercedes-Benz,Ml-Class,ml350 4matic
+Dodge,Nitro,nitro 4wd
+Aston Martin,Vantage,v8 vantage
+Cadillac,Cts,cts wagon awd
+Mercedes-Benz,Glk-Class,glk350
+Infiniti,M45,m45x
+Ferrari,599 Gtb Fiorano,599 gtb fiorano
+Bmw,3 Series,335ci convertible
+Nissan,Altima,altima coupe
+Bmw,7 Series,760li
+Maybach,57,57s
+Infiniti,G37,g37 convertible
+Chrysler,Conquest,conquest
+Hyundai,Tucson,tucson 4wd
+Mercedes-Benz,G-Class,g55 amg
+Bmw,1 Series,128ci convertible
+Bmw,5 Series,550i
+Chevrolet,Colorado,colorado crew cab 4wd
+Bentley,Continental Supersports,continental supersports
+Mercedes-Benz,E-Class,e550 coupe
+Volvo,S80,s80 fwd
+Chevrolet,Hhr,hhr panel fwd
+Kia,Sportage,sportage 4wd
+Suzuki,Sx4,sx4 sport/anniversary edition
+Suzuki,Kizashi,kizashi s awd
+Bmw,7 Series,750li
+Ford,E350 Wagon,e350 wagon ffv
+Mercury,Mariner,mariner fwd
+Ford,Expedition,expedition 4wd ffv
+Ford,Escape,escape hybrid 4wd
+Toyota,Venza,venza awd
+Gmc,Ev1,ev1
+Vpg,Mv-1,mv-1 cng
+Porsche,911,911 carrera s cabriolet
+Porsche,911,911 gts cabriolet
+Bmw,1 Series,135i convertible
+Bmw,7 Series,740li
+Kia,Sedona,sedona
+Subaru,Xt,xt 4wd
+Cadillac,Escalade,escalade awd
+Land Rover,Range Rover,range rover
+Saab,9-3,9-3 convertible
+Saab,9-4,9-4x awd
+Mini,Cooper,cooper s
+Bmw,5 Series,5 series
+Toyota,Yaris,yaris
+Cadillac,Cts,cts awd
+Lexus,Rx,rx 350
+Honda,Cr-Z,cr-z
+Volvo,Xc90,xc90 fwd
+Ford,Flex,flex fwd
+Ford,Tempo,tempo awd
+Subaru,Brz,brz
+Ferrari,California,california
+Bmw,X5,x5 xdrive35i
+Porsche,Panamera,panamera 4
+Toyota,Prius,prius plug-in hybrid
+Chevrolet,Cruze,cruze eco
+Volkswagen,Golf/Gti,golf r
+Porsche,Panamera,panamera turbo s
+Volkswagen,Touareg,touareg
+Hyundai,Genesis,genesis
+Mercedes-Benz,R-Class,r350 4matic
+Mini,Roadster,cooper roadster
+Mini,Roadster,cooper s roadster
+Ford,Focus,focus sfe fwd ffv
+Bmw,5 Series,535i
+Bmw,6 Series,650i coupe xdrive
+Nissan,Titan,titan 2wd
+Ford,F150,f150 raptor pickup 4wd
+Infiniti,Qx56,qx56 4wd
+Lexus,Ls,ls 460 l awd
+Coda Automotive,Coda,coda
+Nissan,Sentra,sentra fe
+Jeep,Patriot,patriot 4wd
+Hyundai,Sonata,sonata hybrid limited
+Volvo,S80,s80 awd
+Ford,Taurus,taurus awd
+Gmc,Savana Passenger,savana 3500 2wd (passenger)
+Porsche,Cayenne,cayenne
+Infiniti,Qx60,qx60 fwd
+Mercedes-Benz,Slk-Class,slk250
+Mercedes-Benz,C-Class,c63 amg
+Cadillac,Cts,cts v
+Lincoln,Mkz,mkz fwd
+Bmw,5 Series,535i xdrive
+Scion,Xd,xd
+Aston Martin,Vantage,v8 vantage s
+Acura,Tl,tl 2wd
+Hyundai,Elantra,elantra limited
+Kia,Optima,optima hybrid ex
+Bmw,1 Series,m1 coupe
+Honda,Civic,civic hf
+Bmw,X3,x3 sdrive28i
+Byd,E6,e6
+Mercedes-Benz,S-Class,s63 amg 4matic
+Bmw,6 Series,650i convertible
+Kia,Forte,forte koup
+Chevrolet,Cruze,cruze
+Audi,R8 Spyder,r8 spyder
+Mitsubishi,Space Wagon,space wagon
+Chevrolet,Sonic,sonic
+Subaru,Wagon,wagon 4wd turbo
+Dodge,Challenger,challenger srt8
+Dodge,Dart,dart
+Toyota,Rav4,rav4 limited awd
+Mclaren Automotive,P1,p1
+Mclaren Automotive,650S Coupe,650s coupe
+Ford,Taurus,taurus wagon 3.0 a/c
+Ford,Expedition,expedition el 2wd
+Oldsmobile,Cutlass Cruiser,cutlass cruiser
+Mini,Cooper,cooper (3-doors)
+Lexus,Nx,nx 200t awd f sport
+Ford,Ltd Crown Victoria,ltd crown victoria wagon
+Nissan,Murano,murano fwd
+Nissan,Rogue,rogue select fwd
+Bmw,6 Series,640i convertible
+Volkswagen,Golf/Gti,golf sportwagen
+Bmw,6 Series,650i gran coupe
+Kia,Cadenza,cadenza
+Hyundai,Santa Fe,santa fe awd
+Mazda,B Pickup,b2000/b2200/b2600
+Audi,Sq5,sq5
+Chevrolet,Sonic,sonic 5 rs
+Chevrolet,Cruze,cruze limited
+Mazda,3,3 4-door
+Gmc,Canyon,canyon cab chassis 2wd
+Gmc,Yukon,yukon k1500 4wd
+Bmw,4 Series,435i xdrive convertible
+Chevrolet,R10 Pickup,r10 pickup 2wd
+Mercedes-Benz,Gle-Class,gle350 d 4matic
+Mercedes-Benz,Cla-Class,cla250 4matic
+Lexus,Nx,nx 200t
+Bmw,X5,x5 xdrive40e
+Nissan,Altima,altima sr
+Ford,Taurus,taurus awd ffv
+Jeep,Grand Cherokee,grand cherokee srt8 4wd
+Bmw,3 Series,330e
+Mitsubishi,Expo,expo
+Volvo,960,960 wagon
+Buick,Roadmaster,roadmaster wagon
+Gmc,Safari,safari 2wd (passenger)
+Chevrolet,Suburban,suburban c10 2wd
+Toyota,Truck/T100,truck 4wd/t100 4wd
+Gmc,Vandura,vandura g35 2wd
+Plymouth,Voyager/Grand Voyager,voyager/grand voyager 4wd
+Ferrari,Ferrari 348 Tb/Ts/Spider,ferrari 348 tb/ts/spider
+Jaguar,Xjs,xjs convertible
+Bmw,8 Series,850csi
+Nissan,300Zx,300zx 2x2
+Dodge,Stealth,stealth
+Pontiac,Firebird/Trans Am/Formula,firebird/formula
+Plymouth,Sundance/Duster,sundance/duster
+Mercury,Cougar,cougar
+Dodge,Ram 2500 Pickup,ram 2500 pickup 4wd
+Chevrolet,Astro Cargo,astro awd (cargo)
+Geo,Tracker,tracker convertible 2wd
+Suzuki,Sidekick,sidekick 2door 4wd
+Suzuki,Sidekick,sidekick 4door 4wd
+Audi,80/90,90
+Audi,80/90,90 quattro
+Geo,Prizm,prizm
+Federal Coach,85J,85j
+Federal Coach,Lincoln Eagle/Windsor,lincoln eagle/windsor
+Federal Coach,Lincoln 85J,lincoln 85j
+Oldsmobile,Ninety-Eight,ninety-eight
+Bmw,5 Series,530i touring
+Dodge,B1500/B2500 Van,b1500/b2500 van 2wd
+Dodge,B1500/B2500 Wagon,b1500/b2500 wagon 2wd
+Chevrolet,Blazer,blazer 2wd
+Plymouth,Turismo,turismo
+Honda,Civic,civic hx
+Mazda,Mx-6,mx-6
+Volkswagen,Jetta,jetta glx
+Rolls-Royce,Brooklands/Turbo R,brooklands and (lwb)
+Audi,A6,a6 wagon
+Toyota,Corolla,corolla wagon
+Gmc,Jimmy,jimmy 4wd
+Volvo,240,240 dl/gl/turbo
+Hyundai,Tiburon,tiburon (coupe)
+Mitsubishi,3000 Gt Spyder,3000 gt spyder
+Subaru,Svx,svx awd
+Volkswagen,Cabrio,cabrio
+Rolls-Royce,Corniche/Continental,continental r
+Chrysler,Newport/Fifth Avenue,newport/fifth avenue
+Audi,A8,a8
+Buick,Regal/Century,regal/century
+Mercury,Marquis,marquis
+Gmc,Safari Passenger,safari awd (passenger)
+Chevrolet,Venture,venture 2wd
+Geo,Tracker,tracker van 4x4
+Jaguar,Xk8,xk8 convertible
+Toyota,Supra,supra
+Ford,Escort,escort zx2
+Daewoo,Nubira,nubira
+Jaguar,Xjr,xjr
+Volvo,C70,c70
+Bentley,Brooklands,brooklands r
+Cadillac,Eldorado,eldorado
+Pontiac,Sunbird,sunbird wagon
+Ford,Windstar,windstar fwd wagon
+Plymouth,Reliant,reliant wagon
+Mitsubishi,Nativa,nativa 4wd
+Acura,Cl,2.3cl/3.0cl
+Chevrolet,Prizm,prizm
+Dodge,Neon,neon
+Jeep,Scrambler,scrambler
+Daewoo,Leganza,leganza
+Plymouth,Breeze,breeze
+Oldsmobile,Eighty-Eight/Regency,eighty-eight/regency
+Daewoo,Nubira,nubira station wagon
+Dodge,B1500 Van,b1500 van 2wd
+Toyota,Rav4,rav4 soft top 4wd
+Jaguar,Xkr,xkr convertible
+Chrysler,Sebring,sebring convertible
+Lincoln,Continental,continental
+Bmw,5 Series,528i sport wagon
+Gmc,Savana Cargo,savana 1500/2500 2wd (cargo)
+Ford,Postal Vehicle,postal vehicle
+Suzuki,Vitara,vitara 2door 2wd
+Chevrolet,Tracker,tracker 4wd hardtop
+Mazda,B Pickup,b3000 ffv 2wd
+Bmw,M,m5
+Mercedes-Benz,E-Class,e430
+Isuzu,Trooper,trooper 2wd
+Infiniti,Qx4,qx4 4wd
+Toyota,Rav4,rav4 ev
+Porsche,928,928 s
+Bmw,3 Series,325i
+Lexus,Is,is 300
+Chevrolet,Sprint,sprint plus
+Saab,9-3,9-3
+Buick,Rendezvous,rendezvous fwd
+Chevrolet,Tracker,tracker 2wd hardtop
+Isuzu,Rodeo,rodeo sport 2wd
+Pontiac,Aztek,aztek fwd
+Chevrolet,Blazer,blazer 4wd
+Isuzu,Axiom,axiom 4wd
+Honda,S2000,s2000
+Aston Martin,Db-7 Gt,db-7 gt volante
+Aston Martin,Db-7 Vantage,db-7 vantage coupe
+Jaguar,Xj,xj8
+Mercedes-Benz,C-Class,c320 4matic
+Volkswagen,Passat,passat 4motion
+Chrysler,Sebring,sebring 4 door
+Toyota,Matrix,matrix awd
+Mazda,B Pickup,b3000 4wd
+Chevrolet,Express Passenger,express 1500 awd
+Pontiac,Sunbird,sunbird convertible
+Lincoln,Nautilus,nautilus awd
+Mercedes-Benz,Sl-Class,amg sl63 4matic plus
+Bmw,8 Series,m850i xdrive convertible
+Mini,John Cooper Works,john cooper works hardtop 2 door
+Bmw,M,m8 competition gran coupe
+Subaru,Impreza,impreza
+Bmw,X5,x5 xdrive40i
+Mercedes-Benz,Gle-Class,gle450 4matic
+Bmw,Z4,z4 m40i
+Hyundai,Palisade,palisade fwd
+Bmw,X3,x3 xdrive30i
+Mitsubishi,Eclipse Cross,eclipse cross 4wd
+Cadillac,Ct4,ct4
+Lexus,Es,es 250 awd
+Dacia,Station Wagon,station wagon
+Jeep,Grand Wagoneer,grand wagoneer 4wd
+Polestar,2,2 dual motor performance pack
+Nissan,Ariya,ariya eng plus/evo plus e-4orce 87kwh
+Audi,S5,s5 coupe
+Honda,Accord,accord hybrid sport/touring
+Volkswagen,Tiguan,tiguan r-line 4motion
+Audi,5000,5000s wagon
+Honda,Pilot,pilot awd trailsport
+Land Rover,Defender,defender 110 mhev
+Land Rover,Discovery,discovery mhev
+Land Rover,Range Rover,range rover sport p360 mhev
+Maserati,Mc20,mc20 spyder
+Ford,Maverick,maverick fwd
+Porsche,Taycan,taycan turbo s
+Subaru,Solterra,solterra awd
+Toyota,Corolla Cross,corolla cross hybrid awd
+Eagle,Renault Medallion,renault medallion wagon
+Toyota,Tacoma,tacoma sr5/sport/off-road/limited 4wd
+Chevrolet,Traverse,traverse limited awd
+Mercedes-Benz,G-Class,amg g63 4x4 squared
+Lexus,Ux,ux 300h awd
+Bmw,X5,x5 m competition
+Porsche,911,911 s/t
+Lexus,Rz,rz 450e awd (18 inch wheels)
+Mercedes-Benz,Eqs,eqs 580 4matic (suv)
+Rivian,R1T,r1t all-terrain dual standard plus (20in)
+Rivian,R1T,r1t dual large (22in)
+Rivian,R1S,r1s all-terrain performance dual large (20in)
+Rivian,R1S,r1s at performance dual standard plus (20in)
+Mercedes-Benz,Glb-Class,glb250
+Gmc,Pickup,c25 pickup 2wd
+Dodge,Ramcharger,ad100/ad150 ramcharger 2wd
+Nissan,Stanza,stanza wagon 4wd
+Ford,Bronco Ii,bronco ii 4wd
+Cadillac,Commercial Chassis,commercial chassis
+Ferrari,348 Tb/Ts,348 tb/ts
+Audi,80/90,80/90
+Pontiac,Firefly,firefly
+Subaru,Justy,justy 4wd
+Sterling,827,827
+Plymouth,Horizon,horizon
+Pontiac,Parisienne,parisienne
+Oldsmobile,Cutlass Ciera,cutlass ciera
+Nissan,Sentra,sentra wagon 4wd
+Dodge,Colt,colt vista
+Jeep,Comanche Pickup,comanche pickup 2wd
+Toyota,Van,van 4wd (passenger)
+Mazda,Mpv,mpv 4wd
+Plymouth,Colt,colt wagon 4wd
+Toyota,Tercel,tercel
+Isuzu,Stylus,stylus
+Peugeot,405,405 station wagon
+Oldsmobile,Custom Cruiser,custom cruiser
+Ford,Aerostar Wagon,aerostar wagon
+Chevrolet,Suburban,suburban v1500 4wd
+Dodge,Raider,raider 4wd
+Acura,Nsx,nsx
+Alfa Romeo,Spider,spider
+Mercury,Capri,capri
+Porsche,911,911 carrera 4/2
+Dodge,Dynasty,dynasty
+Infiniti,Q45,q45 full-active suspension
+Chrysler,Laser,laser
+Rolls-Royce,Silver Spirit Ii/Silver Spur,silver spirit ii/silver spur
+Toyota,Corolla,corolla all-trac wagon
+Toyota,Truck/T100,1-ton truck 2wd
+Chevrolet,Suburban,r1500 suburban 2wd
+Consulier Industries Inc,Consulier Gtp,consulier gtp
+Dodge,Shadow,shadow convertible
+Ferrari,Mondial T/Cabriolet,mondial t/cabriolet
+Isuzu,Impulse,impulse
+Mercedes-Benz,500,500sec
+Volkswagen,Golf/Gti,golf/gti
+Volvo,740/760,740
+Volvo,940,940
+Cadillac,Fleetwood/Deville,fleetwood/deville
+Chrysler,Imperial/New Yorker Fifth Avenue,imperial/new yorker fifth avenue
+Subaru,Legacy/Outback,legacy wagon
+Jeep,J-10 Pickup,j-10 pickup truck
+Ford,Aerostar Van,aerostar van
+Gmc,Vandura,g35 vandura 2wd
+Saab,Convertible,convertible
+Chevrolet,Trailblazer,trailblazer 2wd
+Mercedes-Benz,Slk-Class,slk320
+Porsche,Targa,targa
+Acura,Rsx,rsx
+Buick,Somerset/Skylark,somerset/skylark
+Infiniti,I35,i35
+Mitsubishi,Diamante,diamante sedan
+Scion,Xb,xb
+Suzuki,Vitara,vitara 4 door
+Lincoln,Aviator,aviator 4wd
+Oldsmobile,Bravada,bravada awd
+Chevrolet,Silverado,silverado 2500 hd 2wd cng
+Audi,Tt Roadster,tt roadster quattro
+Ferrari,360 Modena/Spider/Challenge,360 modena/spider/challenge
+Lamborghini,Gallardo,l-140/141 gallardo
+Bmw,3 Series,325ci convertible
+Bmw,3 Series,330ci convertible
+Porsche,Turbo 4 911 Cab,turbo 4 911 cab
+Porsche,Turbo 4 911 Kit,turbo 4 911 kit
+Maserati,Coupe And Gransport,coupe and gransport
+Mercedes-Benz,Clk-Class,clk55 amg
+Mercedes-Benz,C-Class,c230 kompressor
+Mercedes-Benz,C-Class,c320 sports coupe
+Chevrolet,Classic,classic
+Saab,9-2,9-2x wagon awd
+Suzuki,Forenza,forenza wagon
+Gmc,Sierra,sierra 15 hybrid 2wd
+Mazda,B Pickup,b4000 4wd
+Suzuki,Grand Vitara,grand vitara xl7
+Dodge,Diplomat,diplomat
+Buick,Rainier,rainier awd
+Chevrolet,Tahoe,tahoe 1500 awd
+Gmc,Envoy,envoy xuv 4wd
+Mercury,Mountaineer,mountaineer ffv 2wd
+Chevrolet,Suburban,suburban 1500 awd
+Lamborghini,Gallardo,l-140/715 gallardo
+Scion,Xa,xa
+Mercedes-Benz,C-Class,c350
+Cadillac,Fleetwood Brougham,fleetwood brougham
+Saab,9-3,9-3 sportcombi
+Pontiac,Torrent,torrent awd
+Honda,Pilot,pilot 2wd
+Lexus,Rx,rx 330 2wd
+Gmc,Yukon,yukon 1500 4wd
+Jeep,Wrangler/Tj,wrangler/tj 4wd
+Mitsubishi,Endeavor,endeavor 4wd
+Kia,Optima,optima (2006 new model)
+Infiniti,Fx35,fx35 rwd
+Infiniti,Fx35,fx35 awd
+Spyker,C8,c8 laviolette
+Mercedes-Benz,S-Class,s600
+Honda,Civic,civic cng
+Pontiac,G5,g5/pursuit
+Peugeot,505,505 station wagon
+Mercedes-Benz,E-Class,e63 amg (wagon)
+Saturn,Vue,vue hybrid
+Infiniti,G35,g35x
+Saab,9-5,9-5 sedan
+Kia,Sorento,sorento 4wd
+Saturn,Outlook,outlook awd
+Lincoln,Mkx,mkx fwd
+Aston Martin,Vantage,v8 vantage asm
+Mercedes-Benz,G-Class,g500
+Mazda,Tribute,tribute fwd
+Porsche,911,911 turbo cabriolet
+Mercedes-Benz,E-Class,e320 bluetec
+Mercedes-Benz,E-Class,e350 4matic (wagon)
+Jeep,Liberty,liberty 2wd
+Lincoln,Navigator,navigator 2wd
+Suzuki,Sx4,sx4 awd
+Lexus,Gs,gs 350
+Chrysler,Aspen,aspen 2wd
+Hyundai,Veracruz,veracruz 4wd
+Lexus,Is,is 350
+Audi,S5,s5
+"Tecstar, Lp",Foose F150,foose f150 super cab 4wd
+Bmw,X6,x6 xdrive50i
+Mazda,Rx-8,rx-8
+Scion,Tc,tc
+Jaguar,Xf,xf
+Mazda,Cx-7,cx-7 4wd
+Bentley,Continental,continental gtc
+Pontiac,G5,g5 xfe
+Volvo,C30,c30 fwd
+Mercedes-Benz,Clk-Class,clk550 (cabriolet)
+Bmw,5 Series,528i
+Mercedes-Benz,E-Class,e350
+Mercedes-Benz,E-Class,e550
+Gmc,Savana Cargo,savana 1500 2wd (cargo)
+Ford,Crown Victoria,crown victoria ffv
+Gmc,Yukon,yukon 1500 xfe 2wd
+Cadillac,Cts,cts
+Lincoln,Mks,mks awd
+Bmw,5 Series,535i sport wagon xdrive
+Toyota,Sequoia,sequoia 4wd ffv
+Mercedes-Benz,190,190 d 2.2/190 e 2.3
+Kenyon Corporation Of America,Kenyon 5.0 Sp Sedan,kenyon 5.0 sp sedan
+Pontiac,Sunbird,2000 sunbird wagon
+Mercury,Marquis,marquis wagon
+Pontiac,Parisienne,parisienne wagon
+Nissan,Pickup,pickup 2wd
+Dodge,Rampage Pickup,rampage pickup 2wd
+Jeep,Scrambler Pickup,scrambler pickup 4wd
+Chevrolet,S10 Utility Body,s10 utility body 2wd
+American Motors Corporation,Eagle,eagle 4wd
+Suzuki,Sj 410,sj 410 4wd
+Jeep,Cherokee/Wagoneer,cherokee/wagoneer 2wd
+Renault,Fuego,fuego
+Buick,Riviera,riviera convertible
+Oldsmobile,Omega,omega
+Cadillac,Brougham/Deville,brougham/deville (rwd)
+Buick,Skyhawk,skyhawk wagon
+Toyota,Tercel,tercel wagon
+Infiniti,Q50,q50 awd
+Porsche,Macan,macan turbo
+Jeep,Comanche,comanche 2wd
+Hyundai,Tucson,tucson eco fwd
+Maserati,Quattroporte,quattroporte sq4 v6
+Nissan,Titan,titan 4wd  pro4x
+Buick,Encore,encore
+Bmw,I8,i8
+Volkswagen,Beetle,beetle
+Subaru,Impreza/Outback Sport,impreza sport 5-door
+Kia,Optima,optima plug-in hybrid
+Lamborghini,Aventador,aventador roadster lp740-4
+Ford,Focus,focus st fwd
+Bmw,M,m6 gran coupe
+Maserati,Ghibli,ghibli v6 sq4 awd
+Volvo,S60,s60 inscription fwd
+Volvo,S60,s60 cc awd
+Lamborghini,Aventador,aventador s roadster
+Mercedes-Benz,Gle-Class,amg gle63
+Dodge,Challenger,challenger srt
+Bmw,2 Series,m240i xdrive convertible
+Mercedes-Benz,E-Class,e300 4matic
+Porsche,911,911 turbo s cabriolet
+Porsche,Cayenne,cayenne gts
+Audi,A8,a8 l
+Chevrolet,Spark,spark activ
+Chrysler,Pacifica,pacifica hybrid
+Porsche,911,911 gt3
+Aston Martin,Db11,db11 v12
+Aston Martin,Vanquish,vanquish s zagato
+Hyundai,Ioniq,ioniq blue
+Hyundai,Tucson,tucson fwd
+Mercedes-Benz,S-Class,amg s65
+Jaguar,E-Pace,e-pace (296 hp)
+Tesla,Model X,model x 100d
+Mitsubishi,Eclipse Cross,eclipse cross 2wd
+Buick,Envision,envision fwd
+Bmw,4 Series,440i convertible
+Mini,Cooper,cooper hardtop 4 door
+Ferrari,488 Gtb,488 gtb
+Subaru,Impreza,impreza sport 5-door
+Cadillac,Ats,ats-v
+Chevrolet,Tahoe,tahoe c1500 2wd
+Bmw,2 Series,230i coupe
+Bmw,M,m4 cs
+Maserati,Quattroporte,quattroporte s
+Gmc,Jimmy,v15 jimmy 4wd
+Mitsubishi,Outlander,outlander sport 4wd
+Honda,Cr-V,cr-v awd
+Plymouth,Colt,colt vista 4wd
+Maserati,Levante,levante gts
+Chevrolet,Silverado,silverado k10 4wd
+Mazda,2,2
+Tesla,Model S,model s 100d
+Tesla,Model X,model x p100d
+Chevrolet,Corvette,corvette convertible
+Ruf Automobile,Ruf Turbo 12/Ctr3,ruf turbo 12/ctr3
+Hyundai,Palisade,palisade awd
+Bmw,M,m240i xdrive coupe
+Bmw,4 Series,430i coupe
+Bmw,M,m760i xdrive
+Hyundai,Veloster,veloster n
+Tesla,Model 3,model 3 standard range plus
+Ford,Transit Connect,transit connect wagon lwb ffv
+Tesla,Model X,model x performance (22in wheels)
+Subaru,Wrx,wrx
+Pontiac,Firefly,turbo firefly
+Mini,Clubman,cooper s clubman
+Maserati,Quattroporte,quattroporte sq4
+Gmc,Sierra,sierra cab chassis 4wd
+Porsche,Panamera,panamera gts
+Volvo,Xc90,xc90 awd phev
+Bmw,M,m8 convertible
+Mercedes-Benz,Amg Gt,amg gt c roadster
+Sti,S209,s209
+Toyota,Rav4,rav4 hybrid awd
+Chevrolet,Sprint,sprint
+Tesla,Model 3,model 3 long range performance awd (20in)
+Tesla,Model S,model s long range
+Mazda,Cx-30,cx-30 2wd
+Kia,Seltos,seltos fwd
+Cadillac,Ct4,ct4 v awd
+Hyundai,Sonata,sonata hybrid
+Bmw,M,m2 cs coupe
+Chevrolet,Tahoe,tahoe 2wd
+Ferrari,Portofino,portofino
+Bmw,M,m2 competition coupe
+Jeep,Wrangler,wrangler 4dr ecodiesel 4wd
+Bmw,8 Series,840i convertible
+Audi,Rs Q8,rs q8
+Jeep,Renegade,renegade 2wd
+Maserati,Ghibli,ghibli trofeo
+Land Rover,Range Rover,range rover sport phev
+Mercedes-Benz,E-Class,e450 4matic coupe
+Lotus,Evora,evora gt
+Ford,Bronco Sport,bronco sport 4wd
+Land Rover,Evoque,evoque
+Land Rover,Range Rover,range rover velar p340 mhev
+Nissan,Kicks,kicks
+Subaru,Legacy,legacy awd
+Chevrolet,Silverado,silverado 4wd trailboss
+Audi,A5,a5 coupe quattro
+Alfa Romeo,Stelvio,stelvio awd
+Bmw,X7,alpina xb7
+Nissan,Armada,armada 4wd
+Toyota,Sienna,sienna 2wd
+Porsche,Panamera,panamera 4 st
+Toyota,Highlander,highlander hybrid awd ltd/plat
+Mclaren Automotive,720S Coupe,720s coupe lm
+Audi,E-Tron S,e-tron s (21/22 inch wheels)
+Jaguar,F-Type,f-type coupe
+Kia,Stinger,stinger awd
+Mazda,Cx-50,cx-50 4wd
+Ford,F-150 Lightning,f-150 lightning 4wd extended range
+Lamborghini,Huracan,huracan coupe 2wd
+Acura,Integra,integra a-spec
+Maserati,Ghibli,ghibli modena rwd
+Acura,Mdx,mdx awd
+Bmw,M,m4 competition m xdrive convertible
+Cadillac,Ct4,ct4 v
+Volvo,Xc60,xc60 b5
+Audi,R8,r8 coupe quattro
+Audi,A7,a7
+Volkswagen,Atlas,atlas cross sport 4motion
+Toyota,Sequoia,sequoia 2wd
+Hyundai,Elantra,elantra n
+Mercedes-Benz,Gle-Class,gle350
+Bugatti,Chiron,chiron
+Honda,Passport,passport awd
+Bmw,I4,i4 edrive40 gran coupe (18 inch wheels)
+Lexus,Lc,lc 500 convertible
+Porsche,911,911 carrera gts cabriolet
+Bmw,5 Series,540i sedan
+Lexus,Nx,nx 350h awd
+Tesla,Model 3,model 3 performance awd
+Mercedes-Benz,Gla-Class,amg gla45 4matic
+Mazda,Cx-30,cx-30 4wd
+Jeep,Wagoneer,wagoneer l 4wd
+Dodge,Challenger,challenger srt widebody
+Mercedes-Benz,Gla-Class,amg gla35 4matic
+Buick,Century Estate Wagon,century estate wagon
+Gmc,Suburban,k15 suburban 4wd
+Dodge,Power Ram 50 Pickup,power ram 50 pickup 4wd
+Ford,F250,f250 pickup cab chassis 2wd
+Chevrolet,Cobalt,cobalt xfe coupe
+Hyundai,Azera,azera
+Ford,Flex,flex awd
+Yugo,Gv Plus/Gv/Cabrio,gv plus/gv/cabrio
+Honda,Civic,civic crx hf
+Lotus,Esprit,esprit v8
+Porsche,911,911 gt3 rs
+Gmc,Savana Passenger,savana 1500 2wd (passenger)
+Jeep,Commander,commander 2wd
+Ford,Escape,escape 4wd ffv
+Porsche,944,944
+Saab,9-3,9-3x sportcombi awd
+Nissan,Pathfinder,pathfinder fe 2wd
+Nissan,Titan,titan fe 2wd ffv
+Mitsubishi,Montero Sport,montero sport 4wd
+Mitsubishi,Raider Pickup,raider pickup 2wd
+Toyota,Rav4,rav4 4wd
+Mini,Clubman,clubman
+Bmw,1 Series,135i
+Chevrolet,Chevette,chevette cs
+Dodge,Viper,viper coupe
+Mercedes-Benz,Sl-Class,sl65 amg
+Bmw,3 Series,335i
+Mercury,Milan,milan fwd
+Porsche,Panamera,panamera
+Mitsubishi,Lancer,lancer sportback
+Mercury,Mariner,mariner hybrid fwd
+Lexus,Es,es 350
+Toyota,Fj Cruiser,fj cruiser 4wd
+Saab,9-5,9-5 sedan awd
+Porsche,Cayenne,cayenne s hybrid
+Smart,Fortwo,fortwo electric drive cabriolet
+Porsche,911,911 gts
+Bmw,7 Series,750li xdrive
+Toyota,Corolla,corolla fx
+Volkswagen,Scirocco,scirocco
+Scion,Iq,iq
+Maserati,Granturismo,granturismo convertible
+Chevrolet,Captiva,captiva fwd
+Ford,Expedition,expedition 2wd ffv
+Saab,9-4,9-4x fwd
+Gmc,Yukon,yukon xl 2500 4wd
+Bmw,Z4,z4 sdrive35i
+Mitsubishi,Lancer,lancer awd
+Lincoln,Mkt,mkt awd
+Chevrolet,Express Cargo,express 1500 awd conversion cargo
+Mazda,323,323
+Volkswagen,Eos,eos
+Lamborghini,Gallardo,gallardo spyder
+Mercedes-Benz,C-Class,c63 amg black series coupe
+Mercedes-Benz,G-Class,g63 amg
+Mini,Countryman,cooper s countryman coupe
+Dodge,Avenger,avenger
+Subaru,Sedan,sedan/3 door
+Nissan,Cube,cube
+Bmw,M,m6 convertible
+Nissan,Leaf,leaf
+Lamborghini,Aventador,aventador roadster
+Mercedes-Benz,Cl-Class,cl63 amg
+Volvo,Xc60,xc60 fwd
+Ferrari,458 Spider,458 spider
+Audi,Rs 7,rs 7
+Infiniti,Q50,q50a
+Chrysler,200,200 convertible
+Bmw,4 Series,428i xdrive coupe
+Ford,Transit Connect,transit connect wagon fwd
+Ford,Transit Connect,transit connect wagon lwb fwd
+Gmc,Yukon,yukon k1500 xl 4wd
+Bmw,X1,x1 xdrive35i
+Volvo,Xc70,xc70 fwd
+Bmw,X3,x3 xdrive35i
+Lamborghini,Huracan,huracan
+Audi,Rs 5,rs 5
+Dodge,Journey,journey fwd
+Cadillac,Elr,elr
+Bmw,2 Series,228i xdrive
+Toyota,Tercel,tercel wagon 4wd
+Honda,Accord,accord hybrid
+Cadillac,Escalade,escalade 4wd
+Mercedes-Benz,E-Class,e400
+Mercedes-Benz,Cls-Class,cls400
+Ford,Focus,focus sfe fwd
+Nissan,Rogue,rogue select awd
+Bmw,M,x5 m
+Tesla,Model S,model s awd - 70d
+Kia,Sportage,sportage fwd
+Pagani,Huayra Coupe,huayra coupe
+Buick,Lacrosse,lacrosse awd
+Mercedes-Benz,Slk-Class,amg slk55
+Gmc,Yukon,yukon c1500 2wd
+Mini,Paceman,cooper s paceman
+Mercedes-Benz,Gl-Class,gl550 4matic
+Porsche,Panamera,panamera s e-hybrid
+Bmw,3 Series,335i xdrive gran turismo
+Kia,Optima,optima fe
+Infiniti,Qx80,qx80 2wd
+Infiniti,Q70,q70 awd
+Ford,Taurus,taurus fwd
+Tesla,Model S,model s (90 kw-hr battery pack)
+Audi,S8,s8
+Infiniti,Qx4,qx4 2wd
+Nissan,Xterra,xterra v6 2wd
+Pontiac,Aztek,aztek awd
+Gmc,Yukon,yukon 1500 awd
+Nissan,350Z,350z
+Mercedes-Benz,Clk-Class,clk500 (cabriolet)
+Subaru,Legacy/Outback,legacy/outback awd
+Volvo,S60,s60 r awd
+Gmc,Savana Passenger,savana 1500 awd (passenger)
+Nissan,Murano,murano 2wd
+Honda,Pilot,pilot 4wd
+Isuzu,Ascender,ascender 4wd
+Ferrari,575 M Maranello And Superamerica,575 m maranello and superamerica
+Audi,A4,a4 cabriolet quattro
+Bmw,3 Series,330ci
+Jaguar,Xk8,xk8
+Kia,Amanti,amanti
+Chevrolet,Optra,optra wagon
+Saturn,Relay,relay awd
+Gmc,Envoy,envoy xuv 2wd
+Audi,Allroad,allroad quattro
+Chevrolet,Trailblazer,trailblazer 4wd
+Mercedes-Benz,C-Class,c320 ffv
+Ford,Explorer,explorer sport trac 2wd ffv
+Lincoln,Mark Vii,mark vii
+Lexus,Gx,gx 470
+Mercedes-Benz,Sl-Class,sl600
+Mercedes-Benz,Slr,slr
+Pontiac,Solstice,solstice
+Bmw,3 Series,330xi
+Lexus,Ls,ls 430
+Volvo,V50,v50 awd
+Gmc,Sierra,sierra 15 hybrid 4wd
+Ford,Freestar,freestar cargo van fwd
+Pontiac,Montana,montana sv6 fwd
+Buick,Rainier,rainier 2wd
+Chevrolet,Trailblazer,trailblazer ext 4wd
+Honda,Civic,civic wagon 4wd
+Jeep,Liberty/Cherokee,liberty/cherokee 4wd
+Mazda,Glc,glc wagon
+Chevrolet,Silverado,silverado classic 1500 2wd
+Gmc,Sierra,sierra classic 15 hybrid 4wd
+Mercedes-Benz,C-Class,c350 4matic
+Chevrolet,Malibu,malibu maxx
+Chevrolet,Caprice,caprice wagon
+Roush Performance,F150,stage 3 f-150 2wd
+Aston Martin,Db9,db9 volante manual
+Ferrari,612 Scaglietti,612 scaglietti
+Mitsubishi,Raider Pickup,raider pickup 4wd
+Toyota,Highlander,highlander hybrid 2wd
+Mercury,Mountaineer,mountaineer 4wd
+Bmw,7 Series,750i
+Chevrolet,Uplander,uplander fwd
+Volvo,S60,s60 awd
+Chrysler,Pacifica,pacifica fwd
+Dodge,Nitro,nitro 2wd
+Jeep,Wrangler,wrangler 2wd
+Infiniti,Fx45,fx45 awd
+Mercedes-Benz,Ml-Class,ml550 4matic
+Gmc,Savana Cargo,savana 1500/2500 awd (cargo)
+Bmw,3 Series,335cxi
+Lexus,Gs,gs 350 awd
+Roush Performance,F150,stage 3 f150 regular cab 4wd
+Bmw,X5,x5 4.8i
+Dodge,Magnum,magnum awd
+Saab,9-3,9-3 aero sportcombi awd
+Mercedes-Benz,Slk-Class,slk300
+Mini,Clubman,john cooper works clubman
+Jaguar,Xf,xf supercharged
+Rolls-Royce,Phantom,phantom ewb
+Pontiac,Torrent,torrent fwd
+Porsche,Carrera 2 S Coupe,carrera 2 s coupe
+Honda,Accord,accord coupe
+Jaguar,Xk,xk convertible
+Ford,Fusion,fusion awd
+Lexus,Rx,rx 350 2wd
+Kia,Borrego,borrego 4wd
+Alfa Romeo,Gt,gt v6 2.5
+Audi,Coupe Gt,coupe gt
+Peugeot,604,604 sedan
+Pontiac,Sunbird,2000 sunbird
+Mercedes-Benz,300,300td
+Volvo,240,240 dl/gl/turbo wagon
+Superior Coaches Div E.P. Dutton,Funeral Coach,funeral coach  2wd
+Porsche,911,911 sc
+Chevrolet,Citation Ii,citation ii
+Pontiac,Phoenix,phoenix
+Subaru,Loyale,loyale
+Volkswagen,Golf/Gti,golf iii / gti
+Chrysler,Fifth Avenue/Imperial,fifth avenue/imperial
+Mercury,Villager,villager fwd van
+Geo,Tracker,tracker convertible 4wd
+Isuzu,Amigo,amigo 4wd
+Suzuki,Sidekick,sidekick hardtop 4wd
+Infiniti,G20,g20
+Mercedes-Benz,E-Class,e500
+Mercedes-Benz,S-Class,s600 sedan
+Rolls-Royce,Silver Spur Iii Limousine,silver spur iii limousine
+Chevrolet,G30 Van,g30 van 2wd
+Gmc,Vandura,vandura g35  2wd
+Pontiac,Trans Sport/Montana,trans sport 2wd
+Gmc,S15 Cab Chassis,s15 cab chassis 2wd
+Mercedes-Benz,S-Class,s500 coupe
+Mitsubishi,Diamante,diamante
+Honda,Accord,accord wagon
+Chevrolet,Pickup 2500,pickup 2500 2wd
+Gmc,Suburban,suburban 1500 4wd
+Suzuki,X-90,x-90 4wd
+Audi,A6,a6 quattro wagon
+Volvo,850,850 wagon
+Mazda,Mpv,mpv
+Ferrari,Ferrari F355/355 F1,ferrari f355/355 f1
+Bentley,Continental,continental t
+Saturn,Sl,sl
+Infiniti,I30,i30
+Mazda,B Pickup,b2500/b3000/b4000 2wd
+Ford,Windstar,windstar fwd van
+Honda,Passport,passport 2wd
+Bmw,3 Series,328is
+Volkswagen,Passat,passat syncro
+Suzuki,Esteem,esteem wagon
+Mazda,B Pickup,b2500
+Ferrari,360 Modena/Spider,360 modena/spider
+Isuzu,Hombre Pickup,hombre pickup 2wd
+Mazda,B Pickup,2500 2wd
+Isuzu,Hombre Pickup,hombre pickup 4wd
+Ferrari,456 Mgt/Mga,456 mgt/mga
+Mercedes-Benz,Clk-Class,clk430
+Saab,9-5,9-5
+Saturn,L100/200,l100/200
+Lexus,Rx,rx 300
+Dodge,Ram Van 1500,ram van 1500 2wd
+Isuzu,Rodeo,rodeo 2wd
+Ford,Taurus,taurus ffv
+Ford,Explorer,explorer usps 2wd ffv
+Porsche,911,911
+Mercedes-Benz,E-Class,e55 amg
+Lincoln,Blackwood,blackwood 2wd
+Ford,Escape,escape 2wd
+Chevrolet,Tracker,tracker lt 4wd
+Land Rover,Freelander,freelander
+Isuzu,Hombre Pickup,hombre pickup 2wd (ffv)
+Ford,Ranger,ranger 2wd ffv
+Mercedes-Benz,Slk-Class,slk32 amg
+Porsche,Turbo Kit,turbo kit
+Ford,Focus,focus
+Kia,Spectra,spectra
+Mercedes-Benz,C-Class,c320
+Mercedes-Benz,C-Class,c320 4matic (wagon)
+Mazda,B Pickup,b3000 2wd
+Ford,Explorer,explorer rwd
+Oldsmobile,Ninety-Eight/Touring,ninety-eight/touring
+Bmw,M,m4 competition coupe
+Bmw,4 Series,430i xdrive gran coupe
+Buick,Encore,encore gx fwd
+Buick,Encore,encore gx awd
+Acura,Mdx,mdx awd type-s
+Audi,E-Tron S,e-tron s sportback (21/22 inch wheels)
+Buick,Enclave,enclave fwd
+Chevrolet,Corvette,corvette z06 carbon aero
+Alfa Romeo,Giulia,giulia
+Mercedes-Benz,Gls-Class,gls580 4matic
+Polestar,2,2 dual motor (19 inch wheels)
+Volvo,C40,c40 recharge twin
+Rivian,R1S,r1s 20 inch all-terrain dual large
+Honda,Pilot,pilot fwd
+Kia,Sorento,sorento hybrid fwd
+Audi,Q5,q5 s line quattro
+Chevrolet,Celebrity,celebrity wagon
+Nissan,Sentra,sentra sr
+Mercedes-Benz,Glc-Class,glc300
+Land Rover,Range Rover,range rover p360 lwb mhev
+Genesis,G70,g70 rwd
+Lexus,Is,is 350 awd
+Ford,Ranger,ranger 4wd
+Audi,Q8 E-Tron,q8 sportback e-tron quattro
+Porsche,Taycan,taycan performance battery plus
+Vinfast,Vf 9,vf 9 plus
+Toyota,Prius Prime,prius prime se
+Infiniti,Q50,q50 red sport  awd
+Bmw,4 Series,430i xdrive coupe
+Mercedes-Benz,Eqe,eqe 500 4matic (suv)
+Rivian,R1S,r1s dual standard plus (21in)
+Rivian,R1S,r1s dual standard plus (22in)
+Rivian,R1S,r1s performance dual standard plus (21in)
+Buick,Envista,envista
+Plymouth,Gran Fury,gran fury
+Chrysler,Tc,tc by
+Geo,Spectrum,spectrum
+Cadillac,Fleetwood Brougham,fleetwood brougham (rwd)
+Oldsmobile,Delta 88 Royale,delta 88 royale
+Oldsmobile,Ninety-Eight Regency,ninety-eight regency
+Mercedes-Benz,420,420sel
+Mitsubishi,Mirage,mirage wagon
+Volkswagen,Quantum,quantum syncro wagon
+Mercedes-Benz,300,300d 2.5 turbo
+Mercedes-Benz,300,300e 2.6
+Bmw,8 Series,850i
+Mercedes-Benz,190,190e
+Subaru,Legacy/Outback,legacy 4wd turbo
+Bmw,7 Series,735il
+Mercedes-Benz,350,350sdl turbo
+Toyota,Camry,camry wagon
+Geo,Tracker,tracker 4wd
+Mazda,Mpv,mpv 4x4
+Nissan,Pathfinder,pathfinder van (cargo)
+Toyota,Previa,previa all-trac
+Suzuki,Samurai,samurai 2wd
+Pas Inc - Gmc,Pas-Typhoon,pas-typhoon
+Cadillac,Xts Limo,xts limo
+Mercedes-Benz,C-Class,amg c63 coupe
+Chevrolet,Malibu,malibu hybrid
+Audi,A3,a3 cabriolet quattro
+Lexus,Gs,gs 350 f sport
+Infiniti,Qx60,qx60 hybrid awd
+Volkswagen,Beetle,beetle dune
+Volkswagen,Golf/Gti,golf sportwagen 4motion
+Ford,F150,f150 3.5l 2wd gvwr>7599 lbs
+Nissan,Juke,juke
+Subaru,Impreza/Outback Sport,impreza 5-door
+Alfa Romeo,4C,4c
+Mercedes-Benz,Glc-Class,amg glc43 4matic
+Honda,Cr-V,cr-v fwd
+Nissan,Rogue,rogue hybrid  awd
+Bmw,6 Series,650i xdrive gran coupe
+Bmw,X4,x4 m40i
+Chevrolet,Colorado,colorado zr2 4wd
+Hyundai,Santa Fe,santa fe fwd
+Kia,Sorento,sorento fe awd
+Toyota,Camry,camry xse
+Cadillac,Ats,ats
+Chevrolet,Tahoe,tahoe k1500 4wd
+Mercedes-Benz,Gle-Class,gle350 4matic
+Chrysler,Pacifica,pacifica
+Jeep,Grand Cherokee,grand cherokee srt 4wd
+Toyota,Corolla,corolla im
+Porsche,Macan,macan gts
+Rolls-Royce,Dawn,dawn
+Jeep,Wrangler,new wrangler unlimited 4wd
+Volkswagen,Tiguan,tiguan limited 4motion
+Jaguar,Xe,xe (296 hp)
+Mercedes-Benz,G-Class,g550
+Cadillac,Ct6,ct6 plug-in
+Kia,Niro,niro plug-in hybrid
+Acura,Mdx,mdx hybrid awd
+Bmw,4 Series,440i coupe
+Mercedes-Benz,Glc-Class,amg glc63 4matic
+Lincoln,Mkt,mkt fwd
+Toyota,Highlander,highlander hybrid awd le plus
+Mercedes-Benz,S-Class,s560 convertible
+Chevrolet,Silverado,silverado c10 2wd
+Gmc,Sierra,sierra k10 4wd
+Lincoln,Navigator,navigator l 2wd
+Mercedes-Benz,E-Class,amg e63 s 4matic
+Lincoln,Navigator,navigator 4wd
+Porsche,Panamera,panamera turbo executive
+Jaguar,F-Type,f-type s awd convertible
+Bmw,M,m240i coupe m performance
+Subaru,Xt,xt-dl
+Toyota,Prius,prius c
+Acura,Rlx,rlx
+Maserati,Ghibli,ghibli
+Mercedes-Benz,S-Class,s450 4matic
+Chevrolet,Silverado,silverado cab chassis 2wd
+Bmw,X3,x3 sdrive30i
+Ford,Mustang,shelby gt350 mustang
+Mercedes-Benz,S-Class,s560e
+Mitsubishi,Mirage,mirage g4
+Nissan,Sentra,sentra coupe
+Porsche,Panamera,panamera 4 e-hybrid executive
+Chevrolet,Trax,trax fwd
+Bmw,X1,x1 sdrive28i
+Jeep,Wrangler,wrangler 2dr 4wd
+Jeep,Wrangler,wrangler rubic 4dr ecodiesel 4wd
+Land Rover,Range Rover,range rover velar
+Mercedes-Benz,Glb-Class,glb250 4matic
+Gmc,Sierra,sierra cab chassis 2wd
+Mercedes-Benz,C-Class,c300 coupe
+Mercedes-Benz,E-Class,amg e63 s 4matic plus
+Bmw,2 Series,228i gran coupe
+Ford,Mustang,mustang mach 1
+Sterling,825,825
+Bmw,8 Series,840i xdrive convertible
+Honda,Insight,insight touring
+Cadillac,Xt5,xt5 fwd
+Maserati,Ghibli,ghibli gt
+Ram,1500,1500 hfe 2wd
+Bentley,Continental,continental gt speed convertible
+Hyundai,Kona,kona n
+Porsche,Cayenne,cayenne turbo coupe
+Audi,Q4 E-Tron,q4 e-tron sportback quattro
+Nissan,Altima,altima awd sr/platinum
+Nissan,Altima,altima sv/sl
+Mercedes-Benz,Amg Gt,amg gt 43 4matic plus
+Jaguar,Xe,xe p250 awd
+Jeep,Gladiator,gladiator 4wd
+Audi,E-Tron,e-tron sportback quattro
+Ferrari,Sf90 Spider,sf90 spider
+Jaguar,F-Type,f-type p450 rwd coupe
+Jaguar,E-Pace,e-pace
+Nissan,Z,z
+Aston Martin,Dbs,dbs
+Ferrari,812 Competizione,812 competizione a
+Audi,Q3,q3 s-line
+Maserati,Grecale,grecale gt
+Volkswagen,Taos,taos
+Porsche,Macan,macan
+Porsche,Macan,macan s
+Porsche,718,718 boxster t
+Bmw,I4,i4 m50 gran coupe (19 inch wheels)
+Nissan,Ariya,ariya evo plus/emp plus/prm fwd 87kwh
+Honda,Cr-V,cr-v hybrid awd
+Acura,Tlx,tlx type-s
+Porsche,Panamera,panamera turbo s e-hybrid
+Cadillac,Fleetwood,fleetwood
+Gmc,Jimmy,k15 jimmy 4wd
+American Motors Corporation,Eagle,eagle sx/4 4wd
+Lamborghini,Murcielago,murcielago roadster
+Ford,Explorer,explorer sport trac 2wd
+Import Trade Services,Its 190E 2.0,its 190e 2.0
+J.K. Motors,Merc Benz 300Se,merc benz 300se
+Volkswagen,Corrado,corrado slc
+Ferrari,Testarossa,testarossa
+Volkswagen,Eurovan,eurovan
+Mercedes-Benz,560,560sl
+Ferrari,3.2 Mondial/Cabriolet,3.2 mondial/cabriolet
+Chevrolet,Tahoe,tahoe hybrid 2wd
+Suzuki,Kizashi,kizashi s
+Porsche,Panamera,panamera s
+Acura,Zdx,zdx 4wd
+Infiniti,M56,m56x
+Chevrolet,Express Cargo,express 1500 2wd cargo
+Ford,Fusion,fusion s fwd
+Gmc,Yukon,yukon 1500 hybrid 2wd
+Lexus,Lx,lx 570
+Pontiac,Firebird/Trans Am/Formula,firebird/trans am/formula
+Honda,Ev Plus,ev plus
+Bmw,X3,x3 xdrive28i
+Chevrolet,Express Passenger,express 1500 2wd passenger
+Cadillac,Cts,cts wagon
+Mercedes-Benz,E-Class,e350 coupe
+Mitsubishi,I-Miev,i-miev
+Infiniti,G37,g37 coupe
+Bmw,5 Series,550i gran turismo
+Bmw,Active E,active e
+Porsche,New 911 Carrera,new 911 carrera cabriolet
+Scion,Fr-S,fr-s
+Smart,Fortwo,fortwo coupe
+Bentley,Continental Supersports Convertible,continental supersports convertible
+Chevrolet,Express Cargo,express 1500 2wd conversion cargo
+Gmc,Savana Cargo,savana 1500  2wd conversion (cargo)
+Buick,Lacrosse,lacrosse
+Mercedes-Benz,Cls-Class,cls550
+Volkswagen,Routan,routan
+Mini,Roadster,john cooper works roadster
+Porsche,Cayenne,cayenne diesel
+Ford,E350 Van,e350 van ffv
+Lexus,Ct,ct 200h
+Volkswagen,Golf/Gti,gti/golf gt
+Nissan,Murano,murano crosscabriolet
+Bmw,Z4,z4 sdrive28i
+Infiniti,Qx70,qx70 rwd
+Infiniti,Qx70,qx70 awd
+Infiniti,Q50,q50s hybrid
+Maserati,Quattroporte,quattroporte gts
+Bmw,5 Series,535d xdrive
+Jaguar,Xj,xj ffv
+Pontiac,6000,6000
+Dodge,Dart,dart gt
+Pontiac,G8,g8
+Land Rover,Range Rover,range rover evoque
+Mercedes-Benz,Sls Amg,sls amg gt coupe
+Aston Martin,Vantage,vantage gt
+Bmw,I3,i3 bev
+Bmw,3 Series,activehybrid 3
+Honda,Crosstour,crosstour 2wd
+Hyundai,Santa Fe,santa fe ultimate awd
+Bmw,6 Series,alpina b6 gran coupe xdrive
+Mercedes-Benz,E-Class,e550 convertible
+Dodge,Journey,journey awd
+Mini,Cooper,cooper s hardtop 4 door
+Bmw,3 Series,328d xdrive
+Gmc,Sierra,sierra c15 cab chassis 2wd
+Subaru,Impreza/Outback Sport,impreza sport awd
+Bmw,3 Series,340i
+Nissan,Juke,juke nismo rs
+Lexus,Ls,ls 460
+Cadillac,Ct6,ct6 awd
+Jaguar,F-Type,f-type s convertible
+Daewoo,Lacetti,lacetti
+Lexus,Gs,gs 300/gs 430
+Pontiac,Vibe,vibe awd
+Subaru,Legacy/Outback,legacy/outback wagon awd
+Chevrolet,Van 1500,van 1500 awd conversion
+Gmc,Savana Cargo,savana 15/25 2wd conversion (cargo)
+Chevrolet,Venture,venture fwd
+Mitsubishi,Nativa,nativa 2wd(puerto rico only)
+Buick,Rendezvous,rendezvous awd
+Gmc,Savana Passenger,savana passenger (bi-fuel)
+Chrysler,Crossfire,crossfire roadster
+Porsche,Turbo 2 911 Gt2,turbo 2 911 gt2
+Porsche,Turbo 4 911 Cab Kit,turbo 4 911 cab kit
+Infiniti,Q45,q45
+Jaguar,Vdp,vdp lwb
+Gmc,Savana Cargo,savana 15/25 awd conversion (cargo)
+Chrysler,Pacifica,pacifica 2wd
+Dodge,Magnum,magnum 2wd
+Ford,Ltd,ltd
+Porsche,Carrera 2 Coupe,carrera 2 coupe
+Mercedes-Benz,C-Class,c55 amg
+Pontiac,G6,g6 gt/gtp convertible
+Jaguar,S-Type,s-type r
+Cadillac,Armored Dts,armored dts
+Maybach,62,62
+Volvo,V50,v50 fwd
+Gmc,Canyon,canyon cab chassis inc 2wd
+Gmc,Envoy,envoy xl 2wd
+Mitsubishi,Endeavor,endeavor 2wd
+Bmw,Z4,z4 3.0i
+Mercedes-Benz,Gl-Class,gl450 4matic
+Porsche,Carrera 2 Cabriolet,carrera 2 cabriolet
+Porsche,Turbo 4 911 Turbo,turbo 4 911 turbo
+Audi,Rs 4,rs4
+Audi,A6,a6 avant quattro
+Lexus,Is,is 250 awd
+Spyker,C8,c8 double 12 s
+Bmw,3 Series,335xi
+Lamborghini,Murcielago,murcielago
+Audi,A4,a4 cabriolet
+Buick,Terraza,terraza fwd
+Roush Performance,F150,stage 3 f150 super cab 2wd
+Pininfarina,Spider,spider
+Jaguar,Super V8,super v8
+Cadillac,Escalade,escalade hybrid 2wd
+Suzuki,Sx4,sx4
+Volkswagen,Routan,routan fwd
+Jeep,Patriot,patriot 2wd
+Bmw,X5,x5 xdrive48i
+Infiniti,G37,g37x
+Aston Martin,Lagonda,lagonda
+Mitsubishi,Precis,precis
+Toyota,Cressida,cressida
+Cadillac,Eldorado,eldorado convertible
+Bill Dovell Motor Car Company,Dovell 230Ce,dovell 230ce
+Bitter Gmbh And Co. Kg,Sc,sc
+Chevrolet,Sport Van,g30 sport van 2wd
+Mitsubishi,Truck,truck 4wd
+Chevrolet,Blazer,k5/k10 blazer 4wd
+Nissan,Pickup,pickup cab chassis
+Plymouth,Voyager,voyager 2wd
+Pontiac,Sunbird,2000 sunbird convertible
+Mazda,B Pickup,b2600i 4x4
+Dodge,Caravan C/V/Grand Caravan,caravan c/v/grand caravan 2wd
+Subaru,Loyale,loyale wagon awd
+Jaguar,Xjs,xjs coupe
+Ford,F150,lightning f150 2wd
+Mitsubishi,Montero,montero 4wd
+Dodge,Conquest,conquest
+Chevrolet,Lumina Minivan,lumina minivan 2wd
+Buick,Coachbuilder Wagon,coachbuilder wagon
+Dodge,Viper,viper
+Ferrari,Ferrari F50,ferrari f50
+Mercedes-Benz,E-Class,e320 convertible
+Toyota,Cab Chassis,cab chassis 2wd
+Gmc,Sierra,sierra 2500 4wd
+Gmc,Rally,rally g15/25 2wd
+Mitsubishi,Cordia,cordia
+Bmw,3 Series,318ti
+Bmw,7 Series,750il
+Gmc,Safari Cargo,safari awd (cargo)
+Bmw,3 Series,328ic
+Ford,Aspire,aspire
+Mazda,B Pickup,b2300/b3000/b4000 pickup 2wd
+Mercedes-Benz,E-Class,e320 sedan
+Cadillac,Funeral Coach/Hearse,funeral coach/hearse
+Mazda,B Pickup,b2500/b3000/b4000 4wd
+Volkswagen,Golf/Gti,new golf
+Volkswagen,Jetta,new jetta
+Oldsmobile,Intrigue,intrigue
+Rolls-Royce,Silver Spur,silver spur
+Volkswagen,Passat,passat wagon syncro
+Suzuki,Vitara,vitara 4door 4wd
+Bmw,5 Series,540i sport wagon
+Suzuki,Grand Vitara,grand vitara 4door 2wd
+Bmw,Z3,z3 coupe
+Mercedes-Benz,Clk-Class,clk320
+Audi,A8,a8 quattro
+Ford,Ranger,ranger pickup cab chassis
+Bmw,3 Series,325xi sport wagon
+Lexus,Rx,rx 300 4wd
+Mazda,B Pickup,b4000 2wd
+Chevrolet,Cavalier,cavalier (bi-fuel cng)
+Dodge,Ram Wagon 2500,ram wagon 2500 2wd cng
+Pontiac,Firefly,firefly fe
+Saab,9-3,9-3 viggen
+Mercedes-Benz,E-Class,e320 (wagon)
+Volkswagen,Passat,passat wagon 4motion
+Lamborghini,Murcielago,l-147 murcielago
+Porsche,Carrera 4 S Kit,carrera 4 s kit
+Bmw,5 Series,525i sport wagon
+Mercedes-Benz,C-Class,c240 (wagon)
+Ford,Explorer,explorer hev rwd
+"Jba Motorcars, Inc.",W-126/4 Series,w-126/4 series
+Ford,Explorer,explorer timberline awd
+Bmw,4 Series,m440i convertible
+Bmw,X6,x6 xdrive40i
+Maserati,Granturismo,granturismo trofeo
+Maserati,Granturismo,granturismo modena
+Maserati,Grecale,grecale trofeo
+Porsche,911,911 carrera t
+Chevrolet,Silverado,silverado mud terrain tires 4wd
+Gmc,Sierra,sierra 4wd at4x
+Bmw,I5,i5 m60 xdrive sedan (21 inch wheels)
+Bmw,I7,i7 edrive50 sedan (21 inch wheels)
+Hyundai,Ioniq 6,ioniq 6 long range rwd (20 inch wheels)
+Rivian,R1S,r1s 21 inch performance dual large
+Audi,Q7,q7 quattro
+Jeep,Grand Wagoneer,grand wagoneer l 4wd
+Lincoln,Corsair,corsair awd phev
+Toyota,Mirai,mirai limited
+Lexus,Gx,gx 550
+Audi,Q4 E-Tron,q4 55 e-tron quattro
+Cadillac,Lyriq,lyriq awd
+Hyundai,Kona,kona electric standard range
+Rivian,R1T,r1t all-terrain dual large (20in)
+Rivian,R1T,r1t performance dual standard plus (22in)
+Rivian,R1S,r1s dual max (22in)
+Maserati,Spyder,spyder
+Alfa Romeo,Milano,milano
+Nissan,Pulsar Nx,pulsar nx
+Volkswagen,Jetta,jetta gli 16v
+Gmc,Jimmy,s15 jimmy 4wd
+Nissan,Truck,truck cab chassis 2wd
+Chevrolet,Corvette,twin-turbo corvette
+Geo,Metro,metro lsi
+Volvo,740/760,760
+Dodge,Monaco,monaco
+Nissan,Hardbody,hardbody 2wd
+Daihatsu,Rocky,rocky 4wd
+Bmw,3 Series,325ix
+Rolls-Royce,Corniche/Continental,continental
+Mazda,323 Protege,323/323 protege
+Mercedes-Benz,230,230e
+Chevrolet,Lumina/Apv Minivan,lumina/apv minivan 2wd
+Isis Imports Ltd,Morgan Plus 8,morgan plus 8
+Subaru,Svx,svx
+Volkswagen,Corrado,corrado
+Volkswagen,Fox,fox
+Jaguar,Xj,xj6
+Maserati,Granturismo,granturismo
+Chevrolet,V10 (K10) Pickup,v10 (k10) pickup 4wd
+Acura,Tlx,tlx fwd
+Mercedes-Benz,Gle-Class,gle400 4matic
+Bmw,2 Series,230i convertible
+Toyota,Prius,prius eco
+Infiniti,Q50,q50s red sport
+Jaguar,Xf,xf awd
+Lexus,Gs,gs 200t
+Nissan,Juke,juke awd
+Mercedes-Benz,E-Class,amg e43 4matic
+Subaru,Impreza/Outback Sport,impreza sport 4-door
+Bmw,5 Series,540i xdrive
+Mercedes-Benz,E-Class,e400 4matic (station wagon)
+Hyundai,Santa Fe,santa fe sport ultimate awd
+Hyundai,Santa Fe,santa fe ultimate fwd
+Volvo,S90,s90 fwd
+Chevrolet,Silverado,silverado k15 cab chassis 4wd
+Volvo,S90,s90 awd phev
+Bentley,Continental Gt Convertible,continental gt convertible
+Mitsubishi,Wagon,wagon
+Nissan,Rogue,rogue sport awd
+Tesla,Model X,model x awd - 100d
+Jaguar,Xf,xf (296 hp)
+Gmc,Suburban,r15 suburban 2wd
+Honda,Clarity,clarity ev
+Porsche,Panamera,panamera turbo s e-hybrid executive
+Hyundai,Santa Fe,santa fe xl fwd
+Bmw,M,m4 coupe competition
+Mercedes-Benz,E-Class,e450 convertible
+Mercedes-Benz,S-Class,s450
+Audi,Tt,tt coupe quattro
+Mercedes-Benz,A-Class,a220
+Mercedes-Benz,Slc-Class,amg slc43
+Jaguar,Xf,xf 30t
+Subaru,Ascent,ascent
+Volvo,V60,v60 cc awd
+Jaguar,F-Type,f-type svr awd convertible
+Toyota,Tacoma,tacoma 4wd d-cab mt trd-orp/pro
+Chevrolet,Bolt Ev,bolt ev
+Honda,Passport,passport fwd
+Hyundai,Ioniq,ioniq electric
+Audi,A7,a7 quattro
+Nissan,Rogue Sport,rogue sport
+Honda,Ridgeline,ridgeline awd
+Volkswagen,Arteon,arteon 4motion
+Porsche,Cayenne,cayenne e-hybrid coupe
+Bmw,X4,x4 m
+Mercedes-Benz,Cla-Class,amg cla45 4matic
+Land Rover,Defender,defender 110
+Audi,Rs,rs 5 sportback
+Porsche,Cayenne,cayenne turbo s e-hybrid coupe
+Bmw,M,m5 competition
+Audi,Sq8,sq8
+Toyota,Highlander,highlander hybrid
+Polestar,2,2
+Ferrari,Sf90 Stradale Coupe,sf90 stradale coupe
+Audi,Tt,tt roadster quattro
+Alfa Romeo,Giulia,giulia awd
+Audi,Tts,tts coupe
+Mercedes-Benz,Gle-Class,gle580 4matic
+Buick,Encore,encore awd
+Ford,Expedition,expedition max 2wd
+Ford,F150,f150 pickup 2wd hev
+Ford,Ranger,ranger 2wd incomplete
+Land Rover,Range Rover,range rover sport p400 mhev
+Audi,R8,r8 spyder
+Bmw,X5,x5 sdrive40i
+Porsche,Cayenne,cayenne/coupe e-hybrid
+Bentley,Bentayga,bentayga speed
+Porsche,Taycan,taycan 4s cross turismo
+Mercedes-Benz,Cla-Class,amg cla35 4matic
+Mercedes-Benz,E-Class,amg e53 4matic plus convertible
+Ford,Mustang Mach-E,mustang mach-e gt
+Volvo,S60,s60 t8 awd recharge ext. range
+Land Rover,Range Rover,new range rover
+Hyundai,Elantra,elantra hybrid
+Hyundai,Santa Fe,santa fe hybrid
+Subaru,Impreza,impreza 5-door
+Audi,Q5,q5 s-line quattro
+Jeep,Gladiator,gladiator ecodiesel 4wd
+Bentley,Continental,continental gt convertible speed
+Porsche,718,718 cayman
+Porsche,Taycan,taycan 4s performance battery
+Volkswagen,Id.4,id.4 awd pro
+Tesla,Model S,model s
+Lucid,Air,air g touring xr awd with 19 inch wheels
+Rivian,R1T,r1t (21 inch wheels)
+Cadillac,Cts,cts-v
+Chrysler,Qc Car,qc car
+Ford,Taurus,taurus wagon v6 a/c
+Volvo,240,240 wagon
+Volvo,740/760,740 wagon
+Import Trade Services,Its 190E,its 190e
+Import Trade Services,Its 200Te,its 200te
+Wallace Environmental,Wetl 850I,wetl 850i
+Bmw,5 Series,525i touring
+Autokraft Limited,A.C.Mark Iv,a.c.mark iv
+Mercedes-Benz,Ml-Class,ml350
+Mazda,Tribute,tribute hybrid 2wd
+Mercedes-Benz,300,300sdl
+Bmw,M,m3 convertible
+Bmw,1 Series,128i
+Bmw,M,m3 coupe
+Porsche,911,911 carrera 4 targa
+Porsche,911,911 turbo coupe
+Buick,Lucerne,lucerne
+Subaru,Impreza/Outback Sport,impreza wagon/outback sport awd
+Cadillac,Escalade,escalade hybrid 4wd
+Suzuki,Kizashi,kizashi awd
+Mazda,Tribute,tribute 4wd ffv
+Infiniti,G25,g25
+Honda,Crosstour,accord crosstour 2wd
+Porsche,911,911 c4 gts cabriolet
+Gmc,Sierra,sierra c15 xfe 2wd
+Chevrolet,Volt,volt
+Mini,John Cooper Works,john cooper works coupe
+Ford,E350 Van,e350 van
+Gmc,Savana Cargo,savana 3500 2wd (cargo)
+Bmw,3 Series,328i coupe
+Vpg,Mv-1,mv-1
+Ford,Explorer,explorer awd ffv
+Ferrari,458 Italia,458 italia spider
+Nissan,370Z,370z roadster
+Kia,Soul,soul eco
+Hyundai,Santa Fe,santa fe sport 2wd
+Bmw,3 Series,328i xdrive
+Acura,Tsx,tsx wagon
+Ford,E150 Van,e150 van ffv
+Volvo,780,780
+Asc Incorporated,Gnx,gnx
+Bmw,6 Series,640i coupe
+Bmw,M,m6 coupe
+Mini,Clubman,cooper clubman
+Dodge,Charger,charger srt8
+Nissan,Pathfinder,pathfinder hybrid 4wd
+Jaguar,Xjl,xjl ffv
+Infiniti,Q60,q60
+Bmw,4 Series,435i xdrive coupe
+Cadillac,Cts,cts sedan
+Rolls-Royce,Phantom,phantom drophead coupe
+Chevrolet,Silverado,silverado c15 cab chassis 2wd
+Kia,Sedona,sedona sxl
+Chevrolet,Colorado,colorado cab chassis 2wd
+Volkswagen,Touareg,touareg hybrid
+Infiniti,Q50,q50s hybrid awd
+Lexus,Nx,nx 300h
+Lexus,Nx,nx 300h awd
+Mercedes-Benz,Ml-Class,ml250 bluetec 4matic
+Bmw,M,m235i convertible
+Bentley,Mulsanne,mulsanne
+Bmw,X3,x3 sdrive 28i
+Hyundai,Genesis,genesis rwd
+Mercedes-Benz,Sl-Class,sl400
+Mini,Paceman,jcw paceman all4
+Ford,F150,f150 5.0l 4wd ffv gvwr>7599 lbs payload package
+Infiniti,Q70,q70
+Mercedes-Benz,Glc-Class,glc300 4matic
+Volkswagen,Scirocco,scirocco 16v
+Saturn,L300,l300
+Bentley,Arnage,arnage lwb
+Mercedes-Benz,S-Class,s55 amg
+Mercedes-Benz,C-Class,c240 4matic (wagon)
+Mazda,B Pickup,b2300 2wd
+Nissan,Frontier,frontier v6 2wd
+Chrysler,Pacifica,pacifica awd
+Ford,F150,f150 dual-fuel 2wd (lpg)
+Aston Martin,Vanquish,v12 vanquish s
+Audi,S4,s4 cabriolet
+Mercedes-Benz,Clk-Class,clk500
+Pontiac,Wave,wave
+Chevrolet,Van 15/25 Conversion,van 15/25  2wd conversion
+Chevrolet,Van 1500/2500,van 1500/2500 awd
+Chrysler,Voyager/Town And Country,voyager/town and country 2wd
+Chevrolet,Trailblazer,trailblazer ext 2wd
+Aston Martin,Db9,db9 coupe
+Lincoln,Zephyr,zephyr
+Maybach,57,57
+Volvo,V70,v70 r awd
+Nissan,Stanza,stanza wagon 2wd
+Saturn,Aura,aura
+Cadillac,Limousine,limousine
+Ferrari,599 Gtb,599 gtb
+Maserati,Quattroporte,quattroporte/qp sport gt
+Bmw,X3,x3 3.0i
+Isuzu,I-370 Extended Cab,i-370 extended cab 2wd
+Bmw,X5,x5 3.0si
+Bmw,5 Series,528xi
+Saturn,Sky,sky
+Isuzu,I-370 Crew Cab,i-370 crew cab 4wd
+Mercedes-Benz,Gl-Class,gl320 cdi 4matic
+Bmw,Z4,z4 coupe
+Bmw,3 Series,328ci convertible
+Bmw,6 Series,650ci convertible
+Bmw,3 Series,328xi sport wagon
+Roush Performance,F150,stage 3 f150 regular cab 2wd
+Lincoln,Mark Lt,mark lt 4wd
+Gmc,Yukon,yukon xl 1500 2wd
+Pontiac,G5,g5
+Porsche,Carrera 4 S Targa,carrera 4 s targa
+Porsche,Carrera 4 Targa,carrera 4 targa
+Mercedes-Benz,Cl-Class,cl550 4matic
+Chevrolet,Van 1500,van 1500 awd conversion cargo
+Infiniti,G37,g37x coupe
+Nissan,Versa,versa fe
+Bertone,X1/9,x1/9
+Pontiac,Fiero,fiero
+Bmw,6 Series,6 series
+Renault,18I/Wagon/Sportwagon,18i
+Subaru,Wagon,wagon
+Toyota,Cressida,cressida wagon
+Suzuki,Sj 410,sj 410v 4wd
+Lotus,Esprit,esprit
+Mazda,Glc,glc
+Honda,Pilot,pilot awd touring/elite/black
+Mercedes-Benz,G-Class,amg g 63 4x4 squared
+Bmw,4 Series,m440i coupe
+Hyundai,Ioniq 6,ioniq 6 standard range rwd
+Bmw,2 Series,m240i coupe
+Volvo,S60,s60 b5
+Genesis,G90,g90 awd
+Bmw,I5,i5 edrive40 sedan (20 inch wheels)
+Bmw,Ix,ix xdrive40 (20 inch wheels)
+Porsche,718,718 boxster
+Land Rover,Range Rover,range rover sv mhev
+Land Rover,Range Rover,new range rover p440 phev
+Porsche,911,911 carrera 4 gts
+Mercedes-Benz,Cla-Class,amg cla45 s 4matic
+Ford,Maverick,maverick tremor awd
+Kia,Ev9,ev9 standard range rwd
+Porsche,911,911 dakar
+Hyundai,Nexo,nexo blue
+Mercedes-Benz,Cle-Class,cle450 4matic (convertible)
+Lincoln,Nautilus,nautilus hev awd
+Ford,Explorer,explorer ffv awd
+Mercedes-Benz,Eqb,eqb 250 plus
+Mercedes-Benz,Eqs,eqs 680 4matic maybach (suv)
+Nissan,Ariya,ariya platinum+ e-4orce 87kwh 19in. wheels
+Rivian,R1T,r1t all-terrain quad large (20in)
+Rivian,R1S,r1s dual large (21in)
+Dodge,Hornet,hornet awd
+Jeep,J-20 Pickup,j-20 pickup truck 4wd
+Chevrolet,Suburban,r10 suburban 2wd
+Chevrolet,Blazer,v10 blazer 4wd
+Daihatsu,Charade,charade e
+Plymouth,Sundance,sundance convertible
+Audi,100,100
+Nissan,Maxima,maxima wagon
+Plymouth,Colt,colt wagon
+Suzuki,Samurai,samurai convertible
+Evans Automobiles,Series 1,series 1
+Maserati,222E,222e
+Maserati,430,430
+Mercedes-Benz,300,300se
+Wallace Environmental,Wetl 190E,wetl 190e 2.3
+Cx Automotive,Xm,xm v6
+Cadillac,Brougham,brougham
+Mercedes-Benz,300,300sel
+Volvo,940,940 gle 16-valve wagon
+Volkswagen,Vanagon,vanagon syncro 4wd
+Dodge,Power Ram 50 Pickup,power ram 50 4wd
+Suzuki,Sidekick,sidekick soft-top 4wd
+Ford,Festiva,festiva
+Chevrolet,Sport Van,g10/20 sport van 2wd
+Mercedes-Benz,400,400e
+Dodge,Ramcharger,ramcharger 2wd
+Audi,100,100 quattro
+Ford,Aerostar Wagon,aerostar wagon awd
+Land Rover,Range Rover,range rover county
+Dodge,Dakota Cab Chassis,dakota cab chassis 2wd
+Hyundai,Scoupe,scoupe
+Mercedes-Benz,E-Class,e320 coupe
+Jaguar,Xj,xj12
+Federal Coach,24E,24e
+Land Rover,Range Rover,range rover county lwb
+Acura,Tl,2.5tl/3.2tl
+Mercedes-Benz,C-Class,c36 amg
+Lincoln,Mark Viii,mark viii
+Suzuki,Sidekick,sidekick 4door 2wd
+Chevrolet,Blazer,blazer awd
+Land Rover,Range Rover,range rover 4.6
+Aston Martin,Db7,db7 coupe
+Lexus,Sc,sc 300/sc 400
+Oldsmobile,Aurora,aurora
+Saab,900,900s convertible
+Lexus,Ls,ls 400
+Mercedes-Benz,E-Class,e300 turbodiesel
+Saab,900,900se
+Rolls-Royce,Silver Spur Park Ward,silver spur park ward
+Bmw,3 Series,323i
+Saturn,Ls,ls
+Ford,Ranger,ranger 4wd ffv
+Lexus,Es,es 300
+Rolls-Royce,Silver Seraph,silver seraph
+Rolls-Royce,Park Ward,park ward
+Dodge,Ram Wagon 1500,ram wagon 1500 2wd
+Chevrolet,Sprint,sprint er
+Dodge,Ram Van 2500,ram van 2500 2wd
+Ferrari,Enzo Ferrari,enzo ferrari
+Gmc,Safari Cargo,safari 2wd conversion (cargo)
+Jeep,Grand Wagoneer,grand wagoneer
+J.K. Motors,300Sl Merc Benz,300sl merc benz
+J.K. Motors,300Ce Merc Benz,300ce merc benz
+Saleen,Mustang,mustang s351
+Jaguar,Xj,xj6l
+Lexus,Sc,sc 430
+Bmw,3 Series,328i sport wagon xdrive
+Dodge,Viper,viper convertible
+Mercedes-Benz,Ml-Class,ml450 hybrid 4matic
+Bmw,3 Series,328ci
+Mercedes-Benz,E-Class,e350 convertible
+Kia,Borrego,borrego 2wd
+Bmw,7 Series,alpina b7 lwb
+Honda,Crosstour,accord crosstour 4wd
+Lexus,Rx,rx 350 awd
+Smart,Fortwo,fortwo electric drive coupe
+Rolls-Royce,Corniche/Continental,corniche ii
+Volkswagen,Cc,cc 4motion
+Mercedes-Benz,Sl-Class,sl63 amg
+Buick,Lacrosse,lacrosse eassist
+Yugo,Gv/Gvx,gv/gvx
+Mercedes-Benz,Sls Amg,sls amg roadster
+Ford,Fiesta,fiesta sfe fwd
+Jaguar,Xj,xj lwb
+Mclaren Automotive,Mp4-12C Coupe,mp4-12c coupe
+Bmw,7 Series,activehybrid 7
+Bmw,3 Series,328i xdrive sport wagon
+Mercedes-Benz,Sls Amg,sls amg coupe
+Bmw,3 Series,335i coupe
+Bmw,5 Series,535i xdrive gran turismo
+Mini,Cooper,cooper clubvan
+Bmw,M,x6 m
+Mercedes-Benz,E-Class,e63 amg s
+Gmc,Savana Cargo,savana 1500  awd (cargo)
+Gmc,Savana Cargo,savana 2500 2wd conversion (cargo)
+Buick,Regal,regal eassist
+Mercedes-Benz,C-Class,c250
+Bmw,4 Series,435i coupe
+Smart,Fortwo,fortwo cabriolet
+Rolls-Royce,Silver Spur Limousine,silver spur limousine
+Chevrolet,Impala,impala limited
+Maserati,Ghibli,ghibli v6 sq4
+Jaguar,Xjl,xjl awd
+Bmw,5 Series,535d
+Mobility Ventures Llc,Mv-1,mv-1 cng
+Toyota,Prius C,prius c
+Mercedes-Benz,E-Class,e63 amg 4matic
+Mercedes-Benz,E-Class,e400 4matic coupe
+Mercedes-Benz,Cls-Class,cls400 4matic
+Bmw,6 Series,650i coupe
+Bmw,X3,x3 xdrive28d
+Fiat,500 X,500 x
+Audi,Q3,q3 quattro
+Hyundai,Genesis,genesis awd
+Mercedes-Benz,Cls-Class,cls550 4matic
+Porsche,Cayenne,cayenne s e-hybrid
+Bmw,2 Series,228i convertible
+Toyota,Rav4,rav4 le/xle
+Bmw,6 Series,640i xdrive convertible
+Ford,Escape,escape fwd ffv
+Jaguar,F-Pace,f-pace
+Audi,S3,s3
+Jeep,Cherokee,cherokee 4wd active drive ii
+Mercedes-Benz,Gle-Class,amg gle43 4matic coupe
+Dodge,Power Ram 50 Pickup,power ram50 4wd
+Buick,Cascada,cascada
+Aston Martin,Vantage,v12 vantage s
+Lexus,Ls,ls 460 l
+Audi,A3,a3 cabriolet
+Infiniti,Q50,q50 hybrid
+Mercedes-Benz,S-Class,s65 amg coupe
+Gmc,Pickup,v25 pickup 4wd
+Tesla,Model S,model s awd - 60d
+Tesla,Model S,model s awd - 75d
+Tesla,Model S,model s awd - 90d
+Mobility Ventures Llc,Mv-1,mv-1
+Infiniti,Qx30,qx30
+Mercedes-Benz,Cla-Class,cla250
+Mercedes-Benz,Gle-Class,amg gle63 s
+Mercedes-Benz,S-Class,s560 4matic
+Mercedes-Benz,E-Class,e400 4matic convertible
+Lexus,Rc,rc 300 awd
+Bmw,I3,i3s (94ah)
+Toyota,Highlander,highlander hybrid awd
+Cadillac,Xt4,xt4 fwd
+Cadillac,Xt4,xt4 awd
+Jaguar,E-Pace,e-pace p250
+Jaguar,E-Pace,e-pace p300
+Ford,Transit T150 Wagon,transit t150 wagon
+Mercedes-Benz,S-Class,s560
+Ford,F150,f150 2wd ffv base payload lt
+Mercedes-Benz,Amg Gt,amg gt s coupe
+Aston Martin,Vanquish,vanquish s
+Dodge,Journey,journey
+Bmw,M,m240i convertible
+Jaguar,Xjs,xj-sc
+Porsche,911,911 speedster
+Mercedes-Benz,Metris Cargo,metris (passenger van)
+Ford,Mustang,mustang ho convertible
+Honda,Accord,accord 2.0t sport/touring
+Mercedes-Benz,Amg Gt,amg gt r coupe
+Kia,Niro,niro touring
+Roush Performance,Stage 3 Mustang,stage 3 mustang
+Bmw,X6,x6 m
+Tesla,Model Y,model y performance awd
+Polestar,1,1
+Ferrari,812 Gts,812 gts
+Bmw,X6,x6 sdrive40i
+Audi,Q3,q3 s-line quattro
+Bmw,I3,i3s with range extender
+Bmw,X2,x2 xdrive28i
+Hyundai,Tucson,tucson hybrid blue
+Hyundai,Santa Fe,santa fe hybrid blue
+Jeep,Grand Wagoneer,grand wagoneer 2wd
+Maserati,Levante,levante modena
+Kia,Sorento,sorento plug-in hybrid
+Ford,Maverick,maverick awd
+Porsche,718,718 cayman s
+Porsche,718,718 cayman t
+Ford,Bronco,bronco raptor 4wd
+Bmw,M,m4 competition m xdrive coupe
+Bmw,5 Series,540i xdrive sedan
+Dodge,Charger,charger srt widebody
+Lucid,Air,air touring awd with 20 inch wheels
+Volvo,960,960
+Volvo,940,940 wagon
+Bmw,3 Series,318i/318is
+American Motors Corporation,Eagle,eagle 4dr wagon
+Chevrolet,Impala/Caprice,caprice/impala
+Aston Martin,Saloon/Vantage/Volante,saloon/vantage/volante
+Mercedes-Benz,E-Class,e420
+Volkswagen,Golf/Gti,golf iii
+Chevrolet,Astro Passenger,astro awd (passenger)
+Land Rover,Range Rover,range rover county classic
+Bmw,8 Series,840ci
+Buick,Somerset Regal,somerset regal
+Vector,Avtech Sc / M12,avtech sc / m12
+Infiniti,J30,j30
+Volkswagen,Golf/Gti,gti vr6
+Rolls-Royce,Brooklands/Turbo R,brooklands
+Gmc,Safari Cargo,safari 2wd (cargo)
+Cadillac,Fleetwood/Deville,fleetwood/deville (fwd)
+Daewoo,Nubira,nubira wagon
+Ford,F250,f250 pickup 2wd cng
+Ferrari,F355/355 F1,f355/355 f1
+Chevrolet,Silverado,silverado 2500 2wd
+Volvo,C70,c70 coupe
+Hyundai,Elantra,elantra wagon
+Chrysler,Town And Country/Voyager/Grand Voyager,town and country/voyager/grand voy. awd
+Mercedes-Benz,190,190
+Nissan,Altra Ev,altra ev
+Volvo,S60,s60
+Gmc,Savana Passenger,savana 1500/2500  2wd (passenger)
+Volkswagen,Eurovan,eurovan camper
+Lamborghini,Countach,countach
+Chevrolet,Tracker,tracker lt 2wd
+Suzuki,Vitara,vitara 2door
+Chevrolet,S10 Pickup,s10 pickup 2wd ffv
+Dodge,Neon/Srt-4/Sx 2.0,neon/srt-4/sx 2.0
+Mercedes-Benz,Cl-Class,cl55 amg
+Mercedes-Benz,Ml-Class,ml320
+Chevrolet,Avalanche,avalanche 1500 awd
+Aston Martin,Db Ar1,db ar1
+Chrysler,Crossfire,crossfire
+Mercedes-Benz,Cl-Class,cl65 amg
+Audi,5000,5000 s
+Chevrolet,Ssr Pickup,ssr pickup 2wd
+Maserati,Coupe Cambiocorsa/Gt/G-Sport,coupe cambiocorsa/gt/g-sport
+Texas Coach Company,500Se,500se
+Mercedes-Benz,E-Class,e320 cdi
+Bmw,Z4,z4 m roadster
+Cadillac,Xlr,xlr
+Porsche,Carrera 2 S Cabriolet,carrera 2 s cabriolet
+Porsche,Carrera 4 S Cabriolet,carrera 4 s cabriolet
+Bmw,3 Series,328cxi
+Nissan,Truck,truck 2wd (new version)
+Lexus,Gs,gs 430
+Roush Performance,F150,stage 3 f150 super crew 2wd
+Spyker,C8,c8 double 12 spyder
+Bmw,Z4,z4 m coupe
+Infiniti,M35,m35
+"Tecstar, Lp",Foose F150,foose f150 regular cab 2wd
+Bentley,Brooklands,brooklands
+Nissan,Truck,truck 4wd (new version)
+Mercury,Mariner,mariner hybrid 4wd
+Chevrolet,Van 1500,van 1500 2wd cargo
+Infiniti,Ex35,ex35
+Lincoln,Mks,mks fwd
+Kenyon Corporation Of America,Kenyon 5.0 Cabrio,kenyon 5.0 cabrio
+Avanti Motor Corporation,Avanti Ii,avanti ii
+Maserati,Biturbo,biturbo
+Bmw,3 Series,3 series
+Chrysler,E Class/New Yorker,e class/new yorker
+Mercedes-Benz,C-Class,amg c63 s coupe
+Bmw,8 Series,m850i xdrive gran coupe
+Kia,Carnival,carnival
+Mazda,Cx-90,cx-90 4wd
+Bmw,I4,i4 edrive40 gran coupe (19 inch wheels)
+Volvo,Xc60,xc60 t8 awd recharge
+Volvo,Xc40,xc40 b5 awd
+Hyundai,Venue,venue
+Audi,E-Tron Gt,e-tron gt
+Bmw,I7,i7 xdrive60 sedan (19 inch wheels)
+Mercedes-Benz,Eqe,amg eqe 4matic plus (suv)
+Rivian,R1S,r1s 21 inch dual large
+Audi,A5,a5 cabriolet quattro
+Audi,Rs,rs 6 avant
+Land Rover,Range Rover,range rover sport mhev
+Bmw,Xm,xm
+Chevrolet,Colorado,colorado mud terrain tires 4wd
+Ineos Automotive,Grenadier,grenadier trialmaster edition
+Ford,Mustang Mach-E,mustang mach-e rwd
+Mazda,B Pickup,b2600 4x4
+Toyota,Van,van 2wd (cargo)
+Isuzu,Pickup,pickup 2wd 1-ton
+Gmc,S15 Pickup,s15 pickup 4wd
+Geo,Tracker,tracker hardtop 4wd
+Suzuki,Samurai,samurai hardtop
+Mazda,323 Protege,323 protege 4x4
+Volvo,940,940 turbo
+Eagle,Premier,premier
+Gmc,Jimmy,jimmy v1500 4wd
+Subaru,Loyale,loyale 4wd
+Rolls-Royce,Eight/Mulsan/Mulsanne,eight/mulsanne s and s
+Bmw,6 Series,645ci convertible
+Mercedes-Benz,E-Class,e320
+Pontiac,Montana,montana awd
+Mercedes-Benz,C-Class,c320 sports coupe ffv
+Porsche,Carrera 4 Cabriolet Kit,carrera 4 cabriolet kit
+Ford,Escape,escape hybrid 2wd
+Mercury,Mariner,mariner 2wd
+Honda,Cr-V,cr-v 2wd
+Infiniti,M45,m45
+Saturn,Relay,relay fwd
+Isuzu,Ascender,ascender 7-passenger 2wd
+Gmc,Sierra,sierra classic 1500 4wd
+Lamborghini,Gallardo,gallardo coupe sl
+Volvo,S40,s40 awd
+Volvo,740/760,740/760 wagon
+Roush Performance,F150,stage 3 f-150 4wd
+Lexus,Rx,rx 400h 2wd
+Gmc,Yukon,yukon denali 1500 awd
+Mazda,Cx-9,cx-9 4wd
+Bentley,Continental Flying Spur,continental flying spur
+Cadillac,Escalade,escalade esv 2wd
+Bmw,3 Series,335i xdrive
+Lexus,Rx,rx 450h
+Toyota,Starlet,starlet
+Bmw,7 Series,7 series
+Vixen Motor Company,21 Td,21 td
+American Motors Corporation,Eagle,eagle
+Buick,Roadmaster,roadmaster
+Ferrari,308,308
+Mercedes-Benz,S-Class,s500 sedan
+Porsche,928,928 gts
+Rolls-Royce,Corniche/Continental,continental (turbo)
+Mercedes-Benz,S-Class,s420
+Mercedes-Benz,C-Class,c280
+Suzuki,Sidekick,sidekick sport 2wd
+Oldsmobile,Eighty-Eight/Regency/Lss,eighty-eight/regency/lss
+Mercedes-Benz,E-Class,e320 wagon
+Mitsubishi,Nativa,nativa 2wd
+Suzuki,Sidekick,sidekick 2door rwd
+Mercedes-Benz,Clk-Class,clk320 cabriolet
+Bentley,Azure,azure
+Mercedes-Benz,E-Class,e320 sedan 4matic
+Mazda,B Pickup,b3000 ffv 4wd
+Saab,9-3,9-3 viggen convertible
+Mercedes-Benz,E-Class,e320 4matic
+Ford,Windstar,windstar fwd cargo van
+Ford,E250 Econoline,e250 econoline 2wd cng
+Bmw,3 Series,325i sport wagon
+Audi,Allroad,allroad
+Ford,Explorer,explorer usps 4wd
+Ford,F150,f150 cng
+Mercury,Sable,sable (ffv)
+Ferrari,575,575
+Saturn,Lw,lw300
+Gmc,Sonoma,sonoma 2wd (ffv)
+Ford,F150,f150 dual-fuel 2wd (cng)
+Jaguar,X-Type,x-type
+Mercury,Marauder,marauder
+Mercedes-Benz,C-Class,c320 (wagon)
+Lincoln,Navigator,navigator l 4wd
+Ferrari,F12 Berlinetta,f12 berlinetta
+Chevrolet,Cruze,cruze hatchback
+Bmw,3 Series,340i xdrive gran turismo
+Toyota,Rav4,rav4
+Ford,C-Max,c-max energi plug-in hybrid
+Nissan,Sentra,sentra nismo
+Tesla,Model X,model x awd - p100d
+Tesla,Model S,model s (60 kw-hr battery pack)
+Bmw,4 Series,440i gran coupe
+Kia,Sportage,sportage fe awd
+Maserati,Ghibli,ghibli  s rwd
+Honda,Civic,civic si 2dr
+Bmw,M,m4 dtm champions edition
+Ford,F150,f150 3.5l 4wd gvwr>7599 lbs
+Audi,R8,r8 rwd
+Bmw,5 Series,540d xdrive
+Tesla,Model X,model x 75d
+Chevrolet,Corvette,corvette z06
+Mercedes-Benz,S-Class,amg s65 convertible
+Lincoln,Mkt,mkt hearse awd
+Aston Martin,Db11,db11 v8
+Chevrolet,Suburban,v10 (k10) suburban 4wd
+Fiat,500,500 l
+Kia,Stinger,stinger rwd
+Mercedes-Benz,E-Class,e300
+Nissan,Frontier,frontier 4wd ffv
+Land Rover,Range Rover,range rover sport svr
+Lexus,Gs,gs 300 f sport
+Mercedes-Benz,C-Class,amg c43 4matic convertible
+Chevrolet,Silverado,silverado k10 4wd trailboss
+Kia,Telluride,telluride fwd
+Roush Performance,F150,f150 pickup 4wd
+Red Shift Ltd.,Delta 204T,delta 204t
+Subaru,Brz,brz ts
+Bmw,M,m850i xdrive convertible
+Bmw,M,m8 gran coupe
+Tesla,Model S,model s performance (21in wheels)
+Karma,Revero,revero gt (21-inch wheels)
+Audi,Tt,tt rs
+Volkswagen,Atlas,atlas
+Bmw,X3,x3 m competition
+Mclaren Automotive,570Gt,570gt
+Aston Martin,Vantage,vantage manual
+Bmw,M,m340i
+Land Rover,Defender,defender 90 mhev
+Mercedes-Benz,A-Class,amg a35 4matic
+Audi,A4,a4 s line quattro
+Audi,A5,a5 sportback s line quattro
+Dodge,Challenger,challenger awd
+Mercedes-Benz,Glc-Class,amg glc63 4matic plus
+Volkswagen,Id.4,id.4 pro s
+Cadillac,Xt5,xt5 limo fwd
+Bmw,8 Series,840i coupe
+Roush Performance,Mustang,mustang
+Volvo,S90,s90 b6 awd
+Bmw,X6,x6 m competition
+Toyota,Corolla Cross,corolla cross 4wd
+Porsche,Cayenne,cayenne / cayenne coupe
+Porsche,Taycan,taycan turbo cross turismo
+Mercedes-Benz,S-Class,s580 4matic
+Ford,Mustang Mach-E,mustang mach-e awd extended
+Bmw,M,m8 competition coupe
+Land Rover,Range Rover,new range rover p400 mhev
+Audi,Rs,rs 7
+Audi,A4,a4 allroad quattro
+Jeep,Wagoneer,wagoneer 4wd
+Kia,Ev6,ev6 long range awd (20 inch tires)
+Kia,Ev6,ev6 long range rwd
+Subaru,Solterra,solterra limited/touring awd
+Mercedes-Benz,E-Class,e450 coupe
+Acura,Rdx,rdx fwd a-spec
+Bmw,X5,x5 xdrive45e
+Hyundai,Tucson,tucson plug-in hybrid
+Lexus,Nx,nx 450h plus awd
+Dodge,Charger,charger widebody
+Ford,F-150 Lightning,f-150 lightning 4wd
+Ford,Maverick,maverick hev fwd
+Am General,Dj Po Vehicle,dj po vehicle 2wd
+Chevrolet,Suburban,suburban k10 4wd
+Mercedes-Benz,500,500e
+Ford,Taurus,taurus sho
+J.K. Motors,Merc Benz 300E,merc benz 300e
+Volkswagen,Jetta,jetta iii glx
+Mercedes-Benz,S-Class,s550 4matic
+Nissan,Titan,titan fe 2wd
+Honda,Ridgeline,ridgeline truck 4wd
+Chevrolet,Silverado,silverado c15 xfe 2wd
+Mercury,Milan,milan hybrid fwd
+Ford,E150 Wagon,e150 wagon ffv
+Porsche,Cayman,cayman r
+Porsche,911,911 c4 gts
+Ford,Transit Connect,transit connect van
+Mini,Cooper,cooper s coupe
+Mini,John Cooper Works,john cooper works
+Chevrolet,Express Passenger,express 3500 2wd passenger
+Maybach,Landaulet,landaulet
+Audi,A5,a5 cabriolet
+Mercedes-Benz,C-Class,c250 coupe
+Hyundai,Santa Fe,santa fe sport 4wd
+Mini,Countryman,cooper s countryman coupe all4
+Ford,Fusion,fusion energi plug-in hybrid
+Mercedes-Benz,E-Class,e63 amg s 4matic (wagon)
+Land Rover,Range Rover,range rover sport ffv
+Bmw,4 Series,435i xdrive gran coupe
+Peugeot,505,505
+Bmw,4 Series,428i coupe
+Mercedes-Benz,Ml-Class,ml400 4matic
+Ferrari,458 Italia,458 italia
+Honda,Civic,civic natural gas
+Chevrolet,Ss,ss
+Ford,Focus,focus electric
+Honda,Hr-V,hr-v 2wd
+Smart,Fortwo,fortwo electric drive convertible
+Lexus,Is,is 200t
+Land Rover,Range Rover,range rover sport tdv6
+Mercedes-Benz,C-Class,c450 amg
+Acura,Tlx,tlx 4wd
+Nissan,Juke,juke nismo rs awd
+Audi,A3,a3 e-tron ultra
+Tesla,Model S,model s awd - p85d
+Nissan,Murano,murano hybrid awd
+Lordstown,Endurance,endurance
+Lexus,Nx,nx 350 awd
+Cadillac,Ct5,ct5 v awd
+Volvo,S60,s60 t8 awd recharge
+Jaguar,Xf,xf p250
+Bmw,I5,i5 m60 xdrive sedan (19 inch wheels)
+Hyundai,Ioniq 6,ioniq 6 long range awd (20 inch wheels)
+Volkswagen,Gli,gli
+Land Rover,Defender,defender 130 p300 mhev
+Lexus,Lx,lx 600
+Kia,Ev9,ev9 long range awd gt-line
+Kia,Sportage,sportage plug-in hybrid
+Ferrari,F175 Aha,f175 aha
+Dodge,Challenger,challenger srt demon 170
+Aston Martin,Valour,valour
+Kia,K5,k5 awd
+Chevrolet,Trailblazer,trailblazer awd
+Chevrolet,Blazer,blazer ev rwd
+Ford,F-150 Lightning,f-150 lightning pro 4wd extended range
+Rivian,R1S,r1s all-terrain dual large (20in)
+Rivian,R1S,r1s performance dual standard (22in)
+Mercury,Sable,sable wagon v6 a/c
+Peugeot,505,505 wagon
+Maserati,228,228
+Buick,Estate Wagon,estate wagon
+Suzuki,Samurai,samurai soft-top 4wd
+Lexus,Es,es 250
+Subaru,Legacy/Outback,legacy turbo
+Import Trade Services,Its 520,its 520
+Chrysler,New Yorker Fifth Avenue/Imperial,new yorker fifth avenue/imperial
+Mercedes-Benz,300,300te
+Ford,Aerostar Van,aerostar van awd
+Nissan,Nx,nx
+Wallace Environmental,Wetl 300,wetl 300 ce
+Nissan,Axxess,axxess
+Chrysler,Town And Country,town and country 4wd
+Jaguar,Xjrs,xjrs coupe
+Subaru,Legacy/Outback,legacy awd turbo
+Toyota,86,86
+Porsche,911,911 r
+Bmw,3 Series,330i xdrive gran turismo
+Audi,A4,a4 ultra
+Nissan,Rogue,rogue hybrid  fwd
+Subaru,Impreza/Outback Sport,impreza 4-door
+Ferrari,California T,california t
+Hyundai,Santa Fe,santa fe sport fwd
+Honda,Ridgeline,ridgeline fwd
+Bmw,M,m2
+Infiniti,Q60,q60 red sport
+Toyota,Van,van 4wd
+Pagani,Huayra,huayra
+Mercedes-Benz,Metris Cargo,"metris (cargo van, lwb)"
+Bmw,M,m3 cs
+Lincoln,Mkc,mkc fwd
+Mercedes-Benz,S-Class,s560 4matic coupe
+Ford,F150,f150 2.7l 2wd gvwr>6649 lbs
+Mercedes-Benz,Glc-Class,amg glc63 4matic coupe
+Nissan,Leaf,leaf (62 kw-hr battery pack)
+Bmw,M,m240i xdrive coupe m performance
+Volvo,V90,v90 fwd
+Chevrolet,Sprint,sprint metro
+Bmw,X7,x7 xdrive50i
+Lexus,Es,es 300h
+Toyota,Camry,camry trd
+Bmw,3 Series,330e xdrive
+Porsche,Taycan,taycan 4s perf battery plus
+Buick,Encore,encore fwd
+Mclaren Automotive,570S Coupe,570s coupe
+Audi,A6,a6 allroad
+Lexus,Rx,rx 350 l
+Gmc,Sierra,sierra 4wd at4
+Aston Martin,Vantage Manual,vantage manual
+Volvo,S60,s60 awd phev
+Jaguar,E-Pace,e-pace mhev
+Porsche,Panamera,panamera 4s e-hybrid executive
+Nissan,Pathfinder,pathfinder 4wd platinum
+Toyota,Corolla,corolla apex
+Lamborghini,Huracan,huracan coupe
+Audi,Q5,q5 sportback s line quattro
+Volvo,S60,s60 b5 awd
+Bmw,5 Series,530i sedan
+Bmw,4 Series,m440i xdrive coupe
+Lexus,Rc,rc 350
+Jeep,Grand Cherokee,grand cherokee l 2wd
+Kia,Ev6,ev6 rwd (long range)
+Kia,Ev6,ev6 rwd (standard range)
+Ford,Mustang Mach-E,mustang mach-e gt performance
+Volkswagen,Golf/Gti,gti 16v
+Mclaren Automotive,765Lt Spider,765lt spider
+Genesis,Gv70,gv70 awd
+Land Rover,Range Rover,new range rover p360 mhev
+Audi,5000,5000 cs quattro
+Audi,5000,5000 cs turbo
+Hyundai,Elantra,elantra hybrid blue
+Chrysler,Executive Sedan/Limousine,executive sedan/limousine
+Volkswagen,Golf/Gti,golf-r
+Volkswagen,Taos,taos 4motion
+Land Rover,Range Rover,new range rover sport p360 mhev
+Bmw,M,m5 competition sedan
+Bmw,X4,x4 m competition
+Cadillac,Escalade,escalade v 4wd
+Volvo,Xc90,xc90 b6 awd
+Land Rover,Defender,defender 130 p400 mhev
+Rolls-Royce,Ghost,ghost extended
+Rolls-Royce,Ghost,ghost black badge
+Toyota,Corolla,corolla hybrid
+Nissan,Altima,altima sl/sr
+Ferrari,Monza Sp1,monza sp1
+Bmw,Ix,ix xdrive50 (21 inch wheels)
+Porsche,Taycan,taycan 4 cross turismo
+Lexus,Nx,nx 250 awd
+Chrysler,Voyager,voyager
+Wallace Environmental,Wetl 190E,wetl 190e
+Wallace Environmental,Wetl 560,wetl 560 sec
+J.K. Motors,Merc Benz 300Te,merc benz 300te
+J.K. Motors,Bmw635L6,bmw635l6
+Lexus,Gs,gs300
+Subaru,Rx Turbo,rx turbo
+Toyota,Fj Cruiser,fj cruiser 2wd
+Bmw,7 Series,alpina b7 swb xdrive
+Mercury,Milan,milan awd ffv
+Mercedes-Benz,E-Class,e63 amg
+Bmw,5 Series,550i xdrive gran turismo
+Ford,Escape,escape hybrid fwd
+Suzuki,Sx4,sx4 sport
+Porsche,Panamera,panamera turbo
+Chevrolet,Express Cargo,express 2500 2wd cargo
+Hyundai,Veracruz,veracruz 2wd
+Infiniti,Jx35,jx35 fwd
+Chevrolet,Suburban,suburban 2500 4wd
+Ram,C/V,c/v
+Jaguar,Xf,xf ffv
+Bmw,5 Series,activehybrid 5
+Mini,Paceman,cooper paceman
+Bmw,6 Series,640i xdrive coupe
+Chevrolet,Spark,spark ev
+Bmw,2 Series,m235i
+Dodge,Viper,viper srt
+Mercedes-Benz,S-Class,s550 4matic coupe
+Infiniti,Q50,q50a awd
+Mercedes-Benz,E-Class,e400 hybrid
+Jaguar,Xj,xj awd
+Porsche,Panamera,panamera turbo s executive
+Bmw,5 Series,528i xdrive
+Infiniti,Q70,q70 hybrid
+Tesla,Model S,model s awd - p90d
+Mercedes-Benz,500,500sel
+Bmw,7 Series,740il
+Audi,100,100 quattro wagon
+Jaguar,Xjs,xjs v12 convertible
+Nissan,Altima / Stanza,altima / stanza
+Federal Coach,Lincoln 24E,lincoln 24e
+Ford,Crown Victoria,crown victoria police
+Bmw,3 Series,328i convertible
+Oldsmobile,Ciera,ciera sl
+Suzuki,Sidekick,sidekick sport 4wd
+Bentley,Brooklands,brooklands r limo
+Volvo,S70,s70 awd
+Jaguar,S-Type,s-type (x200) v8
+Bmw,M,m coupe
+Mazda,Protege/Protege Mps,protege/protege mps
+Mercedes-Benz,S-Class,s430
+Suzuki,Vitara,vitara 4door
+Chevrolet,Tracker,tracker zr2 4wd convertible
+Mercury,Sable,sable wagon (ffv)
+Ford,Explorer,explorer sport 2wd ffv
+Bmw,7 Series,745i
+Mercedes-Benz,S-Class,s500
+Bmw,X5,x5 4.6is
+Mercury,Mountaineer,mountaineer 2wd ffv
+Bmw Alpina,Roadster,roadster v8
+Chevrolet,Trax,trax
+Mercedes-Benz,Gle-Class,amg gle53 4matic plus coupe
+Maserati,Quattroporte,quattroporte modena awd
+Toyota,Grand Highlander,grand highlander le/xle
+Bmw,2 Series,m240i xdrive coupe
+Bmw,Ix,ix xdrive50 (22 inch wheels)
+Chevrolet,Silverado,silverado ev
+Genesis,Gv70,electrified gv70
+Genesis,Gv60,gv60 performance
+Ford,Mustang Mach-E,mustang mach-e rwd lfp
+Rivian,R1T,r1t 22 inch performance dual large
+Porsche,718,718 boxster s
+Toyota,Tundra,tundra 4wd pro
+Toyota,Corolla,gr corolla
+Lexus,Tx,tx 350
+Aston Martin,Db12 V8,db12 v8
+Porsche,Taycan,taycan 4s performance battery plus
+Toyota,Mirai,mirai
+Toyota,Tacoma,tacoma sr5/sport/prerunner 2wd
+Chevrolet,Equinox,equinox ev awd
+Ford,Mustang Mach-E,mustang mach-e awd
+Lucid,Air,air touring awd with 21inch wheels
+Nissan,Ariya,ariya engage fwd 63kwh
+Rivian,R1S,r1s quad large (21in)
+Mitsubishi,Van,van
+Toyota,Van,van 4wd (cargo)
+Merkur,Scorpio,scorpio
+Mazda,323,323 wagon
+Dodge,Raider,raider
+Jeep,Wagoneer,wagoneer limited 4wd
+Laforza Automobile Inc,Laforza,laforza
+Maserati,Karif,karif
+Subaru,Legacy/Outback,legacy 4wd
+Pontiac,Grand Prix,grand prix ste turbo
+Dodge,D250 Cab Chassis,d250 cab chassis 2wd
+Chrysler,Tc,tc by maserati
+Bmw,3 Series,318is
+Rolls-Royce,Eight/Mulsan/Mulsanne,eight/mulsanne s
+Lotus,Elan,elan
+Rolls-Royce,Corniche/Continental,corniche iv
+Mercedes-Benz,560,560se
+Mercedes-Benz,400,400se
+Ford,Escape,escape 4wd
+Chevrolet,Silverado,silverado 15 hybrid 2wd
+Mercury,Monterey,monterey wagon fwd
+Nissan,Pathfinder,pathfinder armada 2wd
+Chevrolet,Tracker,tracker zr2 4wd
+Chevrolet,Express Passenger,express passenger (dedicated cng)
+Porsche,Carrera 2 Cabriolet Kit,carrera 2 cabriolet kit
+Porsche,Turbo 4 911 S,turbo 4 911 s
+Suzuki,Forenza,forenza
+Ford,Five Hundred,five hundred awd
+Mercedes-Benz,E-Class,e55 amg (wagon)
+Pontiac,Gto,gto
+Acura,Rl,rl
+Bugatti,Veyron,veyron
+Bmw,Z4,z4 3.0si coupe
+Bmw,5 Series,530xi
+Cadillac,Dts,dts
+Aston Martin,Db9,db9 volante
+Dodge,Avenger,avenger awd
+Dodge,Caliber,caliber awd
+Mercury,Sable,sable fwd
+Lexus,Ls,ls 460 awd
+Bmw,3 Series,335d
+Audi,4000,4000 s quattro
+Ford,Bronco Ii,bronco ii 2wd
+Suzuki,Swift,swift x
+Nissan,Altima,altima hybrid
+Mitsubishi,Endeavor,endeavor awd
+Mercedes-Benz,190,190d 2.5 turbo
+Lexus,Is F,is f
+Lincoln,Navigator,navigator 2wd ffv
+Bmw,5 Series,550i xdrive gt
+Suzuki,Equator,equator 4wd
+Chevrolet,Suburban,suburban 2500 2wd
+Bmw,3 Series,335i coupe xdrive
+Infiniti,G25,g25x
+Infiniti,Fx37,fx37 awd
+Bmw,6 Series,650i convertible xdrive
+Mercedes-Benz,Gl-Class,gl63 amg
+Mercedes-Benz,300,300d/300cd
+Ferrari,F12,f12
+Mercedes-Benz,Sls Amg,sls amg gt roadster
+Srt,Viper,viper
+Rolls-Royce,Silver Spirit/Silver Spur,silver spirit/silver spur
+Infiniti,Qx60,qx60 hybrid fwd
+Bmw,2 Series,228i
+Cadillac,Srx,srx
+Chevrolet,Express Cargo,express 2500 2wd conversion cargo
+Hyundai,Santa Fe,santa fe sport awd
+Mercedes-Benz,E-Class,e400 convertible
+Jaguar,F-Type,f-type r convertible
+Hyundai,Azera,azera limited
+Scion,Ia,ia
+Chevrolet,Impala,impala bi-fuel  (cng)
+Lexus,Nx,nx 200t awd
+Nissan,Murano,murano hybrid fwd
+Ferrari,F60 America,f60 america
+Ford,Explorer,explorer sport 4wd
+Ford,Explorer,explorer 4wd ffv
+Ford,F150,f150 dual-fuel 4wd (cng)
+Bitter Gmbh And Co. Kg,Bitter Sc,bitter sc
+Cadillac,Armored Deville,armored deville
+Jaguar,Xjr,xjr 4.2 litre
+Chevrolet,Astro Cargo,astro awd (cargo) conversion
+Jaguar,Xj,xj8 4.2 litre
+Mercedes-Benz,C-Class,c240 ffv
+Aston Martin,Db9,db9 coupe manual
+Pontiac,Montana,montana sv6 awd
+Bmw,Z4,z4 3.0si
+Ford,Freestyle,freestyle awd
+Mercedes-Benz,Clk-Class,clk350
+Roush Performance,F150,stage 3 f-150 supercrew 2wd
+Ford,Courier,courier pickup 2wd
+Mercedes-Benz,Ml-Class,ml320 cdi 4matic
+Spyker,C8,c8 spyder
+Mercedes-Benz,Clk-Class,clk63 amg
+Chrysler,Aspen,aspen 4wd
+Shelby,Mustang Gt,mustang gt
+Saab,9-3,9-3 aero sedan awd
+Chevrolet,Van 1500,van 1500 2wd conversion cargo
+Oldsmobile,Custom Cruiser,custom cruiser wagon
+Jeep,Cj,cj8 4wd
+Lamborghini,Countach,countach lp500s
+Bill Dovell Motor Car Company,Dovell 230E,dovell 230e
+Rolls-Royce,Silver Spirit/Spur/Mulsanne,silver spirit/spur/mulsanne
+Jaguar,F-Type,f-type p450 awd r-dynamic convertible
+Bmw,4 Series,m440i xdrive gran coupe
+Ford,Mustang,mustang dark horse
+Hyundai,Santa Cruz,santa cruz fwd
+Hyundai,Santa Cruz,santa cruz awd
+Lamborghini,Urus,urus s
+Bmw,X3,x3 m
+Genesis,Gv60,gv60 advanced (20 inch wheels)
+Polestar,2,2 single motor (19 inch wheels)
+Volvo,C40,c40 recharge
+Nissan,Z,z nismo
+Jeep,Wagoneer,wagoneer l 2wd
+Land Rover,Range Rover,new range rover sport p440 phev
+Dodge,Hornet,hornet phev awd
+Mercedes-Benz,Amg Gt,amg gt 63 4matic plus
+Toyota,Rav4,rav4 hybrid awd woodland edition
+Lucid,Air,air sapphire awd
+Mercedes-Benz,Eqs,eqs 450 plus
+Bmw,3 Series,330e xdrive sedan
+Hyundai,Nexo,nexo
+Toyota,Corolla Cross,corolla cross awd
+Lexus,Rz,rz 450e awd (20 inch wheels)
+Rivian,R1T,r1t quad large (21in)
+Rivian,R1S,r1s dual standard (21in)
+Tesla,Model 3,model 3 long range awd
+Chevrolet,Suburban,v10 suburban 4wd
+Pontiac,Firebird/Trans Am/Formula,20th anniversary trans am
+Audi,80/90,90 quattro 20v
+Infiniti,M30,m30
+Volvo,740/760,740 16-valve
+Nissan,Nx,nx coupe
+Volvo,Coupe,coupe
+Nissan,Axxess,axxess awd
+Subaru,Justy,justy awd
+Peugeot,405,405 sports wagon
+Mazda,Navajo,navajo 4x4
+Oldsmobile,Eighty-Eight,eighty-eight
+Am General,Post Office Dj5,post office dj5 2wd
+Ferrari,Ferrari Mondial T/Cabriolet,ferrari mondial t/cabriolet
+Panoz Auto-Development,Panoz Roadster,panoz roadster
+Bmw,3 Series,318i convertible
+Rolls-Royce,Corniche/Continental,corniche s
+Chrysler,Cirrus,cirrus
+Rolls-Royce,Spirit Iii/Spur Iii/Dawn,spirit iii/spur iii/dawn
+Mercedes-Benz,Sl-Class,sl320
+Toyota,Paseo,paseo convertible
+Bmw,3 Series,323is
+Bentley,Turbo Rt,turbo rt
+Mercedes-Benz,Clk-Class,clk430 (cabriolet)
+Jaguar,Vanden Plas,vanden plas s/c
+Volvo,S80,s80
+Panther Car Company Limited,Kallista,kallista
+Texas Coach Company,500Sl,500sl
+Chrysler,Prowler,prowler
+Oldsmobile,Silhouette,silhouette awd
+Ford,Explorer,explorer usps electric
+Porsche,Carrera 4 S,carrera 4 s
+Hyundai,Pony Excel,pony excel
+Saturn,Lw,lw200
+Hyundai,Sonata,sonata sport limited
+Volvo,V60,v60 polestar awd
+Mini,Clubman,john cooper works clubman all4
+Nissan,Van,van(cargo)
+Jaguar,Xj,xjl awd
+Hyundai,Ioniq,ioniq plug-in hybrid
+Bmw,7 Series,alpina b7 xdrive
+Hyundai,Santa Fe,santa fe xl awd
+Gmc,Sierra,sierra k10 4wd at4
+Bmw,2 Series,230i xdrive convertible
+Land Rover,Range Rover,range rover evoque 237hp
+Toyota,Highlander,highlander awd le
+Mercedes-Benz,E-Class,amg e53 4matic plus coupe
+Ford,F150,f150 pickup 2wd limited
+Nissan,Leaf,leaf sv/sl (62 kw-hr battery pack)
+Jaguar,Xf,xf sportbrake awd
+Bmw,M,m4 convertible competition
+Suzuki,Forsa,forsa turbo
+Porsche,Panamera,panamera gts st
+Bmw,I8,i8 coupe
+Mini,Cooper,cooper se hardtop 2 door
+Porsche,718,718 cayman gt4
+Mclaren Automotive,570S Spider,570s spider
+Bmw,M,m440i xdrive coupe
+Lincoln,Aviator,aviator phev awd
+Audi,Q5,q5 sportback
+Audi,Sq5,sq5 sportback
+Bmw,8 Series,840i xdrive gran coupe
+Tesla,Model Y,model y standard range rwd
+Rolls-Royce,Cullinan,cullinan
+Bmw,3 Series,m340i sedan
+Lucid,Air,air dream r awd w/19 inch wheels
+Mazda,Mx-30,mx-30
+Jaguar,Xf,xf p250 awd
+Jaguar,Xf,xf p300 awd
+Audi,E-Tron,e-tron quattro
+Toyota,Rav4 Prime,rav4 prime 4wd
+Ford,Mustang Mach-E,mustang mach-e cal rt 1 er rwd
+Land Rover,Range Rover,new range rover p400 lwb mhev
+Bmw,8 Series,alpina b8 gran coupe
+Maserati,Levante,levante trofeo
+Hyundai,Sonata,sonata hybrid blue
+Cx Automotive,Cx,cx 25 gti
+Toyota,Bz4X,bz4x limited awd
+Volkswagen,Tiguan,tiguan s
+Ford,F150,f150 pickup tremor 4wd
+Tesla,Model X,model x awd - 75d
+Land Rover,Range Rover,range rover evoque convertible
+Ferrari,488 Spider,488 spider
+Mercedes-Benz,Maybach,maybach s600
+Mitsubishi,Lancer,lancer 4wd
+Bmw,5 Series,530i xdrive
+Mazda,Cx-3,cx-3 4wd
+Chevrolet,Trax,trax awd
+Mercedes-Benz,Gle-Class,amg gle63 s coupe
+Jaguar,F-Pace,f-pace (296 hp)
+Mercedes-Benz,S-Class,amg s65 coupe
+Bmw,6 Series,alpina b6 xdrive gran coupe
+Mercedes-Benz,Glc-Class,amg glc63 s 4matic coupe
+Jaguar,Xj,xjl
+Ford,Mustang,mustang bullitt
+Ford,Mustang,mustang performance package
+Lexus,Rx,rx 350 l awd
+Kia,Optima,optima hybrid
+Mercedes-Benz,Cls-Class,amg cls53 4matic plus
+Mercedes-Benz,Cls-Class,cls450
+Ford,F150,f150 pickup 4wd limited
+Toyota,Tacoma,tacoma 4wd trd pro
+Smart,Fortwo,eq fortwo (coupe)
+Jaguar,Xe,xe awd 30t
+Cadillac,Xt6,xt6 fwd
+Maserati,Levante,levante s
+Bmw,M,m8 coupe
+Audi,S7,s7
+Mercedes-Benz,E-Class,amg e63 s 4matic plus (wagon)
+Tesla,Model 3,model 3 long range performance awd (18in)
+Mercedes-Benz,S-Class,maybach s650
+Cadillac,Ct4,ct4 awd
+Tesla,Model Y,model y performance awd (21in wheels)
+Bmw,M,m240i coupe
+Ram,1500,1500 trx 4wd
+Ford,Expedition,expedition max 4wd
+Lamborghini,Aventador,aventador sian coupe
+Bmw,7 Series,740i sedan
+Jaguar,F-Type,f-type p450 rwd convertible
+Subaru,Ascent,ascent limited/touring/onyx awd
+Volvo,V60,v60 t8 awd recharge
+Lincoln,Aviator,aviator rwd
+Honda,Accord,accord sport/touring
+Ford,Expedition,expedition timberline awd
+Aston Martin,Dbx 707,dbx 707
+Volvo,Xc90,xc90 b5 awd
+Bmw,2 Series,m235i xdrive gran coupe
+Toyota,Corolla,corolla hybrid awd
+Toyota,Rav4,rav4 awd trd offroad
+Volvo,S90,s90 t8 awd recharge ext. range
+Ford,Courier,courier pickup 4wd
+Wallace Environmental,Wetl 500,wetl 500 sl
+Import Trade Services,Bmw 325I,bmw 325i
+J.K. Motors,Merc Benz 300Ce,merc benz 300ce
+Lotus,Esprit,esprit turbo hc pi
+Lincoln,Town Car,town car ffv
+Alfa Romeo,Gtv,gtv
+Chevrolet,G10/20 Van,g10/20 van 2wd (cargo)
+Infiniti,Fx50,fx50
+Infiniti,G37,g37
+Gmc,Savana Cargo,savana 2500 2wd (cargo)
+Lexus,Is,is 350/is 350c
+Aston Martin,Virage,virage
+Fiat,500,500 cabrio
+Bmw,X5,x5 xdrivem
+Ford,Escape,escape hybrid awd
+Dodge,Charger,charger glh-s
+Mini,Cooper,cooper coupe
+Mercedes-Benz,C-Class,c350 coupe
+Bmw,3 Series,328i sport wagon
+Jeep,Grand Cherokee,grand cherokee srt8
+Mazda,3,3 di 4-door
+Chrysler,300 Srt8,300 srt8
+Infiniti,Ex37,ex37
+Volkswagen,Jetta,jetta gli/wolfsburg edition
+Mini,John Cooper Works,john cooper works gp-2
+Acura,Mdx,mdx 2wd
+Mercedes-Benz,Glk-Class,glk250 bluetec 4matic
+Bmw,3 Series,328d
+Bmw,3 Series,328i xdrive gran turismo
+Hyundai,Genesis,genesis r spec
+Bmw,X4,x4 xdrive35i
+Bmw,I3,i3 rex
+Infiniti,Q40,q40 awd
+Lexus,Is,is 350 c
+Cadillac,Escalade,escalade esv 4wd
+Hyundai,Sonata,sonata limited
+Chevrolet,Cruze,cruze limited  eco
+Mercedes-Benz,Cls-Class,amg cls63 s 4matic
+Toyota,Tacoma,tacoma 4wd double cab
+Ford,F150,f150 5.0l 2wd ffv gvwr>7599 lbs payload package
+Cadillac,Elr,elr sport
+Land Rover,Freelander,freelander 3 door
+Audi,Rs 6,rs6
+Mercedes-Benz,C-Class,c230 kompressor sports coupe
+Porsche,Carrera 4 S Cabriolet Kit,carrera 4 s cabriolet kit
+Volkswagen,Phaeton,phaeton
+Gmc,Safari Cargo,safari awd conversion (cargo)
+Lincoln,Aviator,aviator 2wd
+Mercedes-Benz,C-Class,c230
+Subaru,Tribeca,b9 tribeca awd
+Bmw,5 Series,525xi
+Mercedes-Benz,C-Class,c280 4matic
+Infiniti,M35,m35x
+Cadillac,Sts-V,sts-v
+Kia,Rondo,rondo
+Bmw,X3,x3 3.0si
+Gmc,Savana Cargo,savana 1500 2wd conversion (cargo)
+Chevrolet,Van 1500,van 1500 awd cargo
+Dodge,Caravan/Grand Caravan,caravan/grand caravan fwd
+Renault,18I/Wagon/Sportwagon,sportwagon
+Grumman Olson,Kubvan,kubvan
+Volkswagen,Rabbit,rabbit convertible
+Jeep,Cherokee/Wagoneer,cherokee/wagoneer
+Volvo,960/S90,960/s90
+Volvo,960 Wagon/V90,960 wagon/v90
+Lexus,Lx,lx 450
+Chrysler,Jx/Jxi/Limited Convertible,jx/jxi/limited convertible
+Oldsmobile,Cutlass,cutlass
+Mercedes-Benz,Slk-Class,slk230 kompressor
+Bmw,5 Series,528i touring
+Mercedes-Benz,E-Class,e320 wagon 4matic
+Dodge,Caravan/Grand Caravan,caravan/grand caravan awd
+Suzuki,Grand Vitara,grand vitara 4door 4wd
+Saturn,Lw,lw
+Mercedes-Benz,Ml-Class,ml55
+Porsche,911,911 gt2
+Audi,S8,s8 quattro
+Audi,Rs,rs 5 coupe
+Toyota,Grand Highlander,grand highlander hybrid awd
+Bmw,I7,i7 m70 xdrive sedan (21 inch wheels)
+Kia,Ev6,ev6 long range awd (19 inch wheels)
+Rivian,R1T,r1t 22 inch dual large
+Toyota,Prius,prius awd xle/ltd
+Ferrari,Purosangue,purosangue
+Mercedes-Benz,Glc-Class,amg glc43 4matic coupe
+Lexus,Rz,rz 300e (18 inch wheels)
+Lucid,Air,air g touring xr awd with19 inch wheels
+Rivian,R1T,r1t dual large (21in)
+Rivian,R1T,r1t dual max (21in)
+Grumman Allied Industries,Llv,llv
+Cx Automotive,Cxestate,cxestate
+Renault,18I/Wagon/Sportwagon,18i 4dr wagon
+Mitsubishi,Space Wagon,space wagon 4wd
+Ferrari,F 40,f 40
+Audi,Coupe Quattro,coupe quattro
+Gmc,Suburban,suburban v1500 4wd
+Porsche,Carrera,carrera
+Audi,80/90,80 quattro
+Bmw,3 Series,318i
+Mercedes-Benz,230,230te
+Wallace Environmental,Wetl 300,wetl 300 te
+Gmc,Jimmy,jimmy sonoma 4wd
+Mercedes-Benz,300,300ce
+Suzuki,Sidekick,sidekick 2wd
+Tesla,Model S,model s (75 kw-hr battery pack)
+Mercedes-Benz,S-Class,amg s63 4matic convertible
+Mercedes-Benz,E-Class,amg e63 s 4matic (wagon)
+Ford,Focus,focus rs awd
+Honda,Civic,civic 5dr - type r
+Toyota,Highlander,highlander le/xle/se/ltd
+Acura,Tlx,tlx fwd a-spec
+Bmw,I8,i8 roadster
+Ferrari,488 Pista Spider,488 pista spider
+Maserati,Ghibli,ghibli  v6 rwd
+Tesla,Model 3,model 3 long range awd performance
+Porsche,Panamera,panamera 4 e-hybrid
+Jeep,Gladiator Pickup,gladiator pickup 4wd
+Bmw,7 Series,745e xdrive
+Audi,Tt Rs,tt rs
+Lexus,Lc,lc 500
+Ferrari,Gtc4Lusso,gtc4lusso t
+Bmw,M,m850i xdrive coupe
+Maserati,Ghibli,ghibli sq4
+Mercedes-Benz,Gls-Class,gls450 4matic
+Jeep,Renegade,renegade trailhawk 4wd
+Mercedes-Benz,Amg Gt,amg gt r roadster
+Audi,Rs,rs3
+Mclaren Automotive,540C Coupe,540c coupe
+Lamborghini,Huracan,huracan 2wd
+Toyota,Avalon,avalon awd
+Ford,Transit Connect,transit connect van fwd
+Ford,Transit T150 Wagon,transit t150 wagon 2wd ffv
+Nissan,Rogue,rogue fwd sl/platinum
+Bmw,7 Series,740i xdrive sedan
+Porsche,Taycan,taycan turbo
+Audi,R8,r8 spyder rwd
+Audi,Q8,q8 quattro
+Audi,Q5,q5 tfsi e quattro
+Kia,Ev6,ev6 awd (long range)
+Lamborghini,Aventador,aventador countach
+Bmw,Ix,ix xdrive50 (20 inch wheels)
+Maserati,Quattroporte,quattroporte trofeo
+Volvo,Xc60,xc60 b6 awd
+Ferrari,Daytona Sp3,daytona sp3
+Oldsmobile,Cutlass Supreme,cutlass supreme classic
+Toyota,Cab Chassis,cab/chassis
+Wallace Environmental,Wetl 500,wetl 500 sel
+Cx Automotive,Xm,xm v6a
+J.K. Motors,Merc.Benz.300Se,merc.benz.300se
+Cx Automotive,Xm,xm v6 break
+J.K. Motors,Bmw635Csi,bmw635csi
+London Taxi,London Taxi,london taxi
+Chevrolet,Sport Van,sport van g30 2wd (cargo)
+Audi,4000,4000 cs quattro
+Bmw,3 Series,328ci xdrive
+Bmw,3 Series,335is coupe
+Infiniti,M37,m37
+Bmw,Activehybrid X6,activehybrid x6
+Jeep,Liberty,liberty 4wd
+Gmc,Yukon,yukon denali 1500 hybrid 4wd
+Mini,Minie,minie
+Renault,Gta,gta convertible
+Honda,Fit,fit ev
+Acura,Tlx,tlx
+Ferrari,458 Speciale,458 speciale spider
+Volvo,V60,v60 cc fwd
+Porsche,Boxster,boxster spyder
+Kia,Sportage,sportage sx awd
+Mercedes-Benz,Gle-Class,gle300 d 4matic
+Mercedes-Benz,B-Class Electric Drive,b250e
+Kia,Sportage,sportage fe fwd
+Rolls-Royce,Silver Spur Ii Mpw Touring L,silver spur ii mpw touring l
+Bmw,8 Series,850ci
+Hyundai,Sonata,sonata (y-3)
+Acura,Tl,2.5tl
+Rolls-Royce,Flying Spur,flying spur
+Federal Coach,Formal,formal
+Dodge,B3500 Wagon,b3500 wagon 2wd
+Dodge,B3500 Van,b3500 van 2wd
+Saab,900,900s
+Cadillac,Catera,catera
+Jaguar,Xjs,xjs
+Pontiac,Trans Sport/Montana,trans sport/montana 2wd
+Bmw,3 Series,323i convertible
+Bmw,3 Series,323ci
+Acura,Tl,3.2tl
+Volvo,V40,v40
+Tvr Engineering Ltd,Tvr 280I/350I Convertible,tvr 280i/350i convertible
+Maserati,Spyder,spider cambiocorsa/spider gt
+Acura,Cl,3.2cl
+Subaru,Legacy/Outback,legacy wagon awd (incl. outback)
+Toyota,Celica,celica supra
+Lamborghini,Murcielago,l-147/148 murcielago
+Mercedes-Benz,Slk-Class,slk230
+Porsche,Carrera 2 Coupe Kit,carrera 2 coupe kit
+Daewoo,Kalos,kalos
+Mazda,B Pickup,b3000
+Chevrolet,Astro Cargo,astro 2wd (cargo) conversion
+Chevrolet,Venture,venture awd
+Gmc,Savana Passenger,savana passenger (dedicated cng)
+Maserati,Spyder,spyder cambiocorsa/gt/90 anv
+Bmw,6 Series,645ci
+Pontiac,Wave,wave 5
+Chevrolet,Epica,epica
+Toyota,Sienna,sienna 4wd
+Lexus,Rx,rx 330 4wd
+Texas Coach Company,500Sel,500sel
+Toyota,Tercel,tercel wagon 2wd
+Lexus,Rx,rx 350 4wd
+Mercedes-Benz,Slk-Class,slk280
+Isuzu,I-290 Extended Cab,i-290 extended cab 2wd
+Bmw,3 Series,328xi
+Suzuki,Xl7,xl7 fwd
+Mercedes-Benz,Clk-Class,clk63 amg (cabriolet)
+Chevrolet,Cobalt,cobalt xfe
+Hummer,H3T,h3t 4wd
+Mercedes-Benz,E-Class,e300 diesel
+Mercedes-Benz,Clk-Class,clk350 (cabriolet)
+Gmc,Savana Cargo,savana 1500 awd conversion (cargo)
+Ford,Fusion,fusion awd ffv
+Rolls-Royce,Camargue,camargue
+Bmw,M,m8 competition convertible
+Jeep,Wrangler,wrangler rubicon 4dr 4wd
+Cadillac,Lyriq,lyriq
+Hyundai,Ioniq 6,ioniq 6 long range awd (18 inch wheels)
+Hyundai,Ioniq 5,ioniq 5 long range rwd
+Volvo,Xc40,xc40 recharge twin
+Rivian,R1S,r1s 22 inch performance dual large
+Mercedes-Benz,S-Class,s580e 4matic
+Ineos Automotive,Grenadier,grenadier
+Toyota,Land Cruiser,land cruiser
+Lucid,Air,air g touring xr awd with 20 inch wheels
+Mercedes-Benz,Eqe,eqe 350 plus (suv)
+Rivian,R1S,r1s performance dual max (21in)
+Ram,1500,1500 rho 4wd
+Chrysler,Tc,tc by convertible
+Audi,200,200 quattro wagon
+Dodge,Colt,colt wagon 4wd
+Wallace Environmental,Wetl 412,wetl 412
+Mercedes-Benz,260,260e
+Subaru,Legacy/Outback,legacy wagon 4wd
+Acura,Vigor,vigor
+Suzuki,Sidekick,sidekick hardtop 2wd
+Chevrolet,Coachbuilder Wagon,coachbuilder wagon
+Ford,Escort,escort fs
+Lexus,Rc,rc 200t
+Chevrolet,City Express Cargo Van,city express cargo van
+Maserati,Quattroporte,quattroporte v8
+Mercedes-Benz,S-Class,maybach s560 4matic
+Bmw,I3,i3s (94ah) with range extender
+Mini,Clubman,cooper clubman all4
+Land Rover,Range Rover,range rover evoque 286hp
+Volkswagen,Golf/Gti,e-golf
+Gmc,Sierra,sierra k10 cab chassis 4wd
+Infiniti,Qx30,qx30 awd
+Acura,Tlx,tlx awd a-spec
+Land Rover,Range Rover,range rover velar p380
+Bmw,7 Series,alpina b7
+Mercedes-Benz,S-Class,amg s63 4matic plus convertible
+Ford,Transit T150 Wagon,transit t150 wagon 4wd ffv
+Porsche,Cayenne,cayenne coupe
+Mercedes-Benz,Glc-Class,glc350e 4matic
+Kia,Sorento,sorento hybrid
+Maserati,Ghibli,ghibli s
+Audi,R8,r8 spyder 2wd
+Nissan,Altima,altima awd
+Bmw,I3,i3 with range extender
+Lamborghini,Urus,urus
+Jaguar,F-Type,f-type p450 awd r-dynamic coupe
+Maserati,Levante,levante gt
+Lucid,Air,air dream r awd w/21 inch wheels
+Lucid,Air,air g touring awd w/21 inch wheels
+Mcevoy Motors,240 Dl/240 Gl Sedan,240 dl/240 gl sedan
+Porsche,Panamera,panamera 4s e-hybrid/exec/st
+Mercedes-Benz,S-Class,s500 4matic
+Ford,Explorer,explorer platinum hev rwd
+Jaguar,Xe,xe p250
+Audi,Q5,q5 quattro
+Audi,Tt,tt roadster
+Bmw,M,m5 sedan
+Jaguar,F-Pace,f-pace svr
+Volvo,Xc60,xc60 b5 awd
+Rolls-Royce,Cullinan,cullinan black badge
+Chevrolet,Bolt Euv,bolt euv
+Bmw,3 Series,330i sedan
+Lexus,Nx,nx 250
+Bmw,5 Series,530e xdrive sedan
+J.K. Motors,Bmw735I,bmw735i
+J.K. Motors,Merc Benz 300Sel,merc benz 300sel
+Mercedes-Benz,300,300e 2.8
+Ferrari,360 Modena/Modena F1,360 modena/modena f1
+Gmc,Vandura,vandura g35 2wd (cargo)
+Hyundai,Elantra,elantra blue
+Bmw,3 Series,328i sports wagon
+Dodge,Lancer,lancer convertible
+Kia,Forte,forte eco
+Bmw,3 Series,328i coupe xdrive
+Porsche,New 911 Carrera,new 911 carrera s
+Mini,Countryman,cooper countryman coupe
+Mcevoy Motors,740 Gle Sedan,740 gle sedan
+Bmw,4 Series,428i convertible
+Audi,Q5,q5 hybrid
+Volkswagen,Jetta,jetta hybrid
+Land Rover,Range Rover,range rover ffv
+Bmw,4 Series,428i gran coupe
+Subaru,Crosstrek,xv crosstrek awd
+Bmw,3 Series,340i xdrive
+Aston Martin,Vanquish,vanquish
+Ford,Transit T150 Wagon,transit t150 wagon ffv
+Cadillac,Deville/Concourse,deville/concourse
+Toyota,Truck/T100,t100 4wd
+Gmc,Rally,rally g35 2wd
+Federal Coach,Lincoln Eaton,lincoln eaton
+Federal Coach,Lincoln Stratford,lincoln stratford
+Mercedes-Benz,S-Class,s600 coupe
+Buick,Funeral Coach/Hearse,funeral coach/hearse
+Ferrari,Ferrari 550 Maranello,ferrari 550 maranello
+Volvo,S90,s90
+Dodge,B1500 Wagon,b1500 wagon 2wd
+Bmw,5 Series,540i touring
+Bmw,7 Series,750il/750il protection
+Ford,F150,lightning pickup 2wd
+Ford,Explorer,explorer sport 2wd
+Isuzu,Vehicross,vehicross 4wd
+Ford,Taurus,taurus wagon ffv
+Mazda,B Pickup,b3000 (ffv) ethanol 2wd
+Audi,S6,s6 avant
+Isuzu,Ascender,ascender 2wd
+Ford,F150,f150 dual-fuel 4wd (lpg)
+Mercury,Mountaineer,mountaineer 4wd ffv
+Mercedes-Benz,E-Class,e500 4matic (wagon)
+Chevrolet,Uplander,uplander awd
+Chevrolet,Silverado,silverado 2500 hd 4wd cng
+Spyker,C8,c8 spyder wide body
+Mercedes-Benz,R-Class,r500
+Gmc,Sierra,sierra classic 1500 awd
+Roush Performance,F150,stage 3 f150 super crew 4wd
+Ford,F150,f150 stx se 2wd
+Saturn,Aura,aura hybrid
+Bmw Alpina,7 Series,b7
+Saturn,Astra,astra 4dr hatchback
+Dodge,Journey,journey  4wd
+Jeep,Grand Cherokee,grand cherokee srt8 awd
+Gmc,S15 Utility Body,s15 utility body 2wd
+Mercedes-Benz,300,300sd/380se
+Toyota,Grand Highlander,grand highlander limited
+Audi,Q3,q3 s line quattro
+Land Rover,Range Rover,range rover sv lwb mhev
+Chevrolet,Corvette,corvette e-ray
+Mercedes-Benz,Eqe,eqe 500 4matic
+Rolls-Royce,Spectre,spectre black badge (22 inch wheels)
+Rivian,R1T,r1t dual standard plus (21in)
+Rivian,R1S,r1s dual max (21in)
+Tesla,Model S,model s plaid (19in wheels)
+Maserati,225,225
+Pontiac,Grand Prix,grand prix turbo
+Gmc,Suburban,r1500 suburban 2wd
+Nissan,Hardbody,hardbody 4wd
+Dodge,Ramcharger,ramcharger 4wd
+Infiniti,Q60,q60s red sport awd
+Ford,F150,f150 5.0l 4wd gvwr>7599 lbs
+Ford,F150,f150 2wd ffv base payload lt tire
+Tesla,Model S,model s 75d
+Ford,Fiesta,fiesta st fwd
+Mercedes-Benz,S-Class,amg s63 4matic
+Gmc,Sierra,sierra c10 xfe 2wd
+Porsche,924,924 s
+Ford,Fusion,fusion special service phev
+Porsche,Cayman,cayman t
+Bmw,7 Series,740i xdrive
+Pagani,Huayra,huayra roadster bc
+Aston Martin,Dbx V8,dbx v8
+Volkswagen,Id.4,id.4 1st
+Karma,Gs-6,gs-6 (21-inch wheels)
+Porsche,Panamera,panamera 4 executive
+Hyundai,Tucson,tucson hybrid
+Bentley,Continental,continental gt speed
+Jeep,Grand Cherokee,grand cherokee wk 4wd
+Chevrolet,Silverado,silverado 4wd zr2
+Kia,Sportage,sportage hybrid awd
+Toyota,Gr 86,gr 86
+Audi,Sq7,sq7
+Polestar,2,2 single motor
+Maserati,Mc20,mc20
+Nissan,Rogue,rogue awd sl/platinum
+Nissan,Pathfinder,pathfinder 4wd sl/platinum
+Ferrari,Monza Sp2,monza sp2
+Bmw,I7,i7 xdrive60 sedan (20 inch wheels)
+Rivian,R1S,r1s (21 inch wheels)
+Porsche,Carrera Gt,carrera gt
+Kia,Spectra,spectra 2.0l
+Mercedes-Benz,Ml-Class,ml500
+Chevrolet,Silverado,silverado 1500 awd
+Pontiac,Montana,montana svx awd
+Gmc,Sierra,sierra 2500 hd 2wd
+Mercedes-Benz,Cls-Class,cls500
+Mercedes-Benz,Cls-Class,cls55 amg
+Lexus,Rx,rx 400h 4wd
+Ford,Taurus,taurus x awd
+Mercedes-Benz,Clk-Class,clk550
+Bmw,5 Series,535xi
+Hyundai,Entourage,entourage
+Bmw,X5,x5 xdrive30i
+Import Foreign Auto Sales Inc,1Fas 410,1fas 410
+Bmw,3 Series,330i xdrive sedan
+Kia,Sportage,sportage x-pro
+Bmw,I5,i5 edrive40 sedan (21 inch wheels)
+Hyundai,Ioniq 5,ioniq 5 standard range rwd
+Rivian,R1S,r1s 20 inch all-terrain performance dual large
+Vinfast,Vf 8,vf 8 plus
+Volkswagen,Jetta,jetta sport/se/sel
+Hyundai,Sonata,sonata fwd
+Kia,Sportage,sportage hybrid fwd
+Ruf Automobile,T12/Ctr3/Ctr Anniversary,t12/ctr3/ctr anniversary
+Mercedes-Benz,Cle-Class,cle300 4matic (convertible)
+Subaru,Forester,forester sport/touring awd
+Lexus,Nx,nx 350 awd f sport
+Audi,Q4 E-Tron,q4 sportback 55 e-tron quattro
+Rivian,R1T,r1t dual standard (21in)
+Rivian,R1T,r1t performance dual standard plus (21in)
+Rivian,R1S,r1s performance dual large (22in)
+Rivian,R1S,r1s performance dual max (22in)
+Eagle,Medallion,medallion wagon
+Volvo,740/760,740 16-valve wagon
+Wallace Environmental,Wetl Testarossa,wetl testarossa
+Wallace Environmental,Wetl 300,wetl 300 e
+"Pas, Inc",Pas-Syclone,pas-syclone
+Ferrari,Ferrari 348 Tb/Ts,ferrari 348 tb/ts
+Jaguar,Xjrs,xjrs convertble
+Am General,Post Office Dj8,post office dj8 2wd
+Aston Martin,Db7,db7 volante
+Volkswagen,Golf/Gti,new gti
+Aston Martin,Db-7 Vantage,db-7 vantage volante
+Ford,F150,f150 pickup 2wd cng
+Mercedes-Benz,Ml-Class,ml430
+Mazda,Protege/Protege 5,protege/protege 5
+Hyundai,Xg,xg350
+J.K. Motors,300Sl,300sl
+Bmw,5 Series,550 gt
+Nissan,Armada,armada 2wd ffv
+Chevrolet,S10 Pickup,s10 electric
+Mercedes-Benz,S-Class,s400 hybrid
+Chevrolet,Captiva,captiva awd
+Ferrari,599 Gto,599 gto
+Fisker,Karma,karma
+Renault,Gta,gta
+Bmw,7 Series,740li xdrive
+Mercedes-Benz,E-Class,e63 amg 4matic (wagon)
+Gmc,Yukon,yukon xl c10 2wd
+Gmc,Yukon,yukon k10 4wd
+Mercedes-Benz,380,380se
+Infiniti,Q60,q60 convertible
+Ford,E350 Wagon,e350 wagon
+Rolls-Royce,Eight/Mulsan/Mulsanne,eight/mulsan
+Ccc Engineering,Duntov Gt,duntov gt
+Bmw,3 Series,328i xdrive sports wagon
+Bmw,2 Series,228i xdrive convertible
+Bmw,4 Series,435i gran coupe
+Ford,Expedition,expedition el 4wd
+Nissan,Titan,titan 2wd ffv
+Hyundai,Accent,accent blue
+Nissan,Titan,titan 4wd ffv
+Hyundai,Elantra,elantra coupe
+Infiniti,Jx35,jx35 awd
+Bmw,4 Series,435i convertible
+Bmw,6 Series,650i xdrive coupe
+Maserati,Ghibli,ghibli v6
+Bmw,2 Series,m235i xdrive
+Tesla,Model S,model s awd - 85d
+Infiniti,Qx80,qx80 4wd (over 6000 lbs curb weight)
+Hyundai,Santa Fe,santa fe sport ultimate fwd
+Mercedes-Benz,Sl-Class,amg sl65
+Bmw,2 Series,m235i convertible
+Tesla,Model X,model x awd - p90d
+Nissan,Leaf,leaf (24 kw-hr battery pack)
+Rolls-Royce,Corniche/Continental,corniche ii/continental
+Aston Martin,Vanquish,v12 vanquish
+Kia,Spectra,spectra 1.8l
+Daewoo,Magnus,magnus
+Suzuki,Aerio,aerio sx awd
+Chrysler,300 Srt8,300c/srt-8
+Isuzu,I-280 Extended Cab,i-280 extended cab 2wd
+Buick,Terraza,terraza awd
+Ferrari,F141,f141
+Gmc,Sierra,sierra classic 1500 2wd
+Mercedes-Benz,R-Class,r63 amg
+Isuzu,Ascender,ascender 7-passenger 4wd
+Mercedes-Benz,R-Class,r320 cdi 4matic
+Suzuki,Grand Vitara,grand vitara awd
+Pontiac,G3,g3 wave
+Audi,4000,4000s quattro
+Ferrari,Ferrari F355 Berlinetta/Gts,ferrari f355 berlinetta/gts
+Geo,Tracker,tracker convertible 4x4
+Plymouth,Prowler,prowler
+Bentley,Continental,continental sc
+Hyundai,Xg,xg300
+Autokraft Limited,A.C.Mkiv,a.c.mkiv
+Volvo,V70 Xc,v70 xc awd
+Dodge,Ram Van 2500,ram van 2500 2wd cng
+Ford,E250 Van,e250 cng
+Porsche,911,911 targa
+Mercedes-Benz,E-Class,e430 4matic
+Mercedes-Benz,S-Class,s430 4matic
+Ferrari,F12 Tdf,f12 tdf
+Bmw,I3,i3 bev (60  amp-hour battery)
+Mercedes-Benz,Gle-Class,gle550e 4matic
+Mercedes-Benz,Maybach,maybach s650 convertible
+Bmw,X5,x5 xdrive 35d
+Mercedes-Benz,Amg Gt,amg gt c coupe
+Audi,R8,r8 spyder awd
+Porsche,911,911 gt2 rs
+Bmw,M,m2 competition
+Jaguar,Xe,xe 30t
+Tesla,Model S,model s standard range
+Mercedes-Benz,Glc-Class,amg glc63 4matic plus coupe
+Tesla,Model 3,model 3 standard range
+Bmw,2 Series,228i xdrive gran coupe
+Mclaren Automotive,600Lt Coupe,600lt coupe
+Toyota,Rav4,rav4 hybrid  awd
+Volvo,Xc40,xc40 awd bev
+Bmw,M,m5 cs sedan
+Bmw,7 Series,750i xdrive sedan
+Mercedes-Benz,Metris Cargo,metris (us postal long)
+Tesla,Model S,model s plaid (21 inch wheels)
+Tesla,Model X,model x plaid (20 inch wheels)
+Nissan,Rogue Sport,rogue sport awd
+Ford,Mustang Mach-E,mustang mach-e cal rt 1 er awd
+Bmw,X4,x4 xdrive30i
+Bmw,7 Series,760i xdrive sedan
+Nissan,Frontier,frontier 4wd pro4x
+Audi,Q4 E-Tron,q4 e-tron quattro
+Bmw,M,m2 coupe
+Ford,Ranger,ranger tremor 4wd
+Rivian,R1T,r1t (22 inch wheels)
+Bmw,4 Series,m440i gran coupe
+Volkswagen,Atlas,atlas 4motion peak edition
+Bmw,X1,x1 m35i
+Bmw,I4,i4 xdrive40 gran coupe (18 inch wheels)
+Bmw,I4,i4 edrive35 gran coupe (18 inch wheels)
+Bmw,Ix,ix xdrive40 (22 inch wheels)
+Genesis,Gv60,gv60 advanced (19 inch wheels)
+Rivian,R1T,r1t 21 inch performance dual large
+Ferrari,Roma,roma
+Mercedes-Benz,Eqe,eqe 350 4matic
+Rivian,R1S,r1s all-terrain quad large (20 inch)
+Toyota,Corolla Cross,corolla cross
+Ram,1500,1500 ho 4wd
+Jaguar,F-Pace,f-pace mhev
+Bmw,X6,x6 m60i xdrive
+Rivian,R1T,r1t performance dual large (22in)
+Rivian,R1T,r1t quad large (20in)
+Rivian,R1S,r1s all-terrain performance dual max (20in)
+Rivian,R1S,r1s quad large (20in)
+Porsche,944,944 turbo
+Dodge,Csx,csx
+Subaru,Loyale,loyale wagon 4wd
+J.K. Motors,Testarossa,testarossa
+Gmc,Safari,safari awd (passenger)
+Hyundai,J-Car/Elantra,j-car/elantra
+Mercedes-Benz,300,300te 4matic
+Toyota,Rav4,rav4 limited awd/se awd
+Chrysler,200,200 awd
+Aston Martin,Rapide,rapide s
+Bentley,Mulsanne,mulsanne ewb
+Acura,Rlx,rlx hybrid
+Gmc,Sierra,sierra c10 2wd
+Tesla,Model X,model x long range
+Porsche,Panamera,panamera turbo exec
+Maserati,Levante,levante
+Audi,R8,r8 2wd
+Ford,Mustang Mach-E,mustang mach-e rwd extended
+Karma,Gs-6,gs-6 (22-inch wheels)
+Tesla,Model S,model s plaid (21inch wheels)
+Audi,A6,a6 allroad quattro
+Lucid,Air,air dream p awd w/19 inch wheels
+Mercedes-Benz,Glb-Class,amg glb35 4matic
+Hyundai,Ioniq 5,ioniq 5 rwd (standard range)
+Jeep,Grand Cherokee,grand cherokee wk 2wd
+Bmw,M,m4 csl coupe
+Porsche,Taycan,taycan gts st
+Polestar,2,2 dual motor perf pack
+Mercedes-Benz,Metris Cargo,metris (us postal)
+Audi,E-Tron S,e-tron s sportback (20 inch wheels)
+Eagle,Renault Medallion,renault medallion sedan
+J.K. Motors,230E Merc Benz,230e merc benz
+Bmw,3 Series,335ci xdrive
+Infiniti,M56,m56
+Gmc,Yukon,yukon xl 2500 2wd
+Aston Martin,Rapide,rapide
+Ford,Escape,escape awd ffv
+Lincoln,Mkt,mkt livery fwd
+Porsche,Panamera,panamera s hybrid
+Chevrolet,Tahoe,tahoe k10 4wd
+Mercedes-Benz,C-Class,c63 amg coupe
+Mercedes-Benz,Cla-Class,cla45 amg 4matic
+Mcevoy Motors,740 Gle Wagon,740 gle wagon
+Mercedes-Benz,Gl-Class,amg gl63
+Scion,Im,im
+Land Rover,Freelander,freelander 5 door
+Mazda,B Pickup,b3000 2wd ffv
+Porsche,Carrera 2 911 Gt3,carrera 2 911 gt3
+Volvo,S80,s80/s80 premier
+Mitsubishi,Endeavor,endeavor
+Rolls-Royce,Corniche/Continental,corniche/continental
+Mercedes-Benz,R-Class,r350
+Roush Performance,F150,stage 3 f-150 supercab 4wd
+Mercury,Sable,sable awd
+Ford,F150,f150 stx se 2wd ffv
+Bentley,Arnage,arnage rl
+Pontiac,G3,g3 wave 5
+Saturn,Astra,astra 2dr hatchback
+Mercury,Milan,milan ffv
+Nissan,Pickup,pickup 4wd
+Jaguar,Xjs,xjs v12 coupe
+Nissan,Sentra,sentra classic
+Chrysler,New Yorker/Lhs,new yorker/lhs
+Rolls-Royce,Limousine,limousine
+Hyundai,Accent,accent (sohc)
+Saab,900,900se convertible
+Suzuki,Sw,sw
+Jaguar,Vanden Plas,vanden plas s.c.
+Toyota,Rav4,rav4 soft top 2wd
+Bentley,Continental,continental r
+Mitsubishi,Nativa,nativa 2wd (puerto rico only)
+Chrysler,300,300 m
+Maserati,Quattroporte,quattroporte modena rwd
+Toyota,Grand Highlander,grand highlander awd limited/platinum
+Bmw,I4,i4 xdrive40 gran coupe (19 inch wheels)
+Nissan,Ariya,ariya plat plus e-4orce 87kwh 20
+Subaru,Forester,forester wilderness awd
+Mercedes-Benz,Gls-Class,gls600 4matic maybach
+Bmw,3 Series,330e sedan
+Mercedes-Benz,Eqe,eqe 350 plus
+Ferrari,Sf90 Stradale,sf90 stradale
+Gmc,Canyon,canyon at4x 4wd
+Maserati,Grancabrio,grancabrio folgore
+Tesla,Model S,model s plaid (21in wheels)
+Volkswagen,Id.4,id.4 s
+Mitsubishi,Sigma,sigma
+Eagle,Medallion,medallion sedan
+Audi,100,100 wagon
+Aston Martin,Virage,virage saloon
+Rolls-Royce,Brooklands/Turbo R,turbo r
+Volvo,940,940 turbo wagon
+Mercedes-Benz,600,600sel
+Ford,Explorer,explorer sport trac 4wd ffv
+Chevrolet,Express Cargo,express cargo (bi-fuel)
+Bmw,7 Series,760i
+Texas Coach Company,500Sec,500 sec
+Mercedes-Benz,C-Class,c240 ffv (wagon)
+Mercedes-Benz,Clk-Class,clk55 amg (cabriolet)
+Gmc,Sierra,sierra 1500 awd
+Ford,Freestyle,freestyle fwd
+Chevrolet,Silverado,silverado classic 15 hybrid 2wd
+Suzuki,Xl7,xl7 awd
+Bmw,5 Series,535xi sport wagon
+Volkswagen,Atlas,atlas se 4motion
+Fisker,Ocean,ocean extreme one
+Audi,Sq8 E-Tron,sq8 e-tron (21/22 inch wheels)
+Lucid,Air,air pure rwd with 20 inch wheels
+Mercedes-Benz,Eqe,amg eqe 4matic plus
+Porsche,Taycan,taycan performance battery
+Rolls-Royce,Spectre,spectre (23 inch wheels)
+Honda,Clarity,clarity fcv
+Maserati,Grancabrio,grancabrio trofeo
+Ford,F150,f150 raptor r 4wd
+Nissan,Ariya,ariya venture plus fwd 87kwh
+Rivian,R1T,r1t all-terrain performance dual max (20in)
+Mercury,Topaz,topaz awd
+Saleen,Ssc,ssc
+Volvo,740/760,760 wagon
+Porsche,Carrera 4,carrera 4
+Rolls-Royce,Corniche/Continental,corniche iii
+Federal Coach,Eagle,eagle
+Geo,Tracker,tracker van 2wd
+Acura,Cl,2.2cl/3.0cl
+Gmc,Jimmy,jimmy awd
+Audi,A6,a6 wagon quattro
+Isuzu,750C/I-Mark,750c/i-mark
+Acura,Mdx,mdx
+Toyota,Camry,camry cng
+Nissan,Hyper-Mini,hyper-mini
+Mercedes-Benz,C-Class,c32 amg
+Dodge,Ram Wagon 2500,ram wagon 2500 2wd
+Lexus,Sc,sc 300/sc 430
+Chevrolet,Silverado,silverado ss 1500 awd
+Acura,Tlx,tlx awd
+Mercedes-Benz,S-Class,s65 amg convertible
+Ford,F150,f150 5.0l 4wd ffv gvwr>7599 lbs
+Jeep,Compass,new compass 4wd
+Bmw,7 Series,m760i xdrive
+Hyundai,Santa Fe,santa fe xl ultimate fwd
+Gmc,Sierra,sierra ltd c15 2wd
+Buick,Regal,regal tourx awd
+Volvo,Xc60,xc60 awd phev
+Land Rover,Discovery,discovery sport mhev
+Audi,Q8,q8
+Lincoln,Continental,continental coach
+Tesla,Model S,model s long range plus
+Audi,R8,r8 coupe rwd
+Volvo,Xc90,xc90 t5
+Bmw,5 Series,530i xdrive sedan
+Hyundai,Ioniq 5,ioniq 5 rwd (long range)
+Tesla,Model Y,model y rwd
+Land Rover,Range Rover,new range rover sport
+Bmw,M,m3 competition m xdrive sedan
+Bmw,X5,x5 m
+Mercedes-Benz,Gls-Class,amg gls63 4matic plus
+Audi,A4,a4 s-line quattro
+Lamborghini,Urus,urus performante
+Genesis,G80,electrified g80
+Kia,Ev6,ev6 long range awd (19 inch tires)
+Rivian,R1S,r1s (20 inch wheels)
+Buick,Electra Estate Wagon,electra estate wagon
+Suzuki,Samurai,samurai
+Import Trade Services,Its 230Ce,its 230ce
+Aston Martin,Virage/Volante,virage/volante
+Mercedes-Benz,300,300e 4matic
+Toyota,Truck/T100,truck 2wd/t100 2wd
+Quantum Technologies,Chevrolet Cavalier,chevrolet cavalier
+Excalibur Autos,Phaeton,phaeton
+Gmc,Vandura,vandura 2500 2wd
+Porsche,911,911 turbo s coupe
+Mercury,Milan,milan fwd ffv
+Mercury,Mariner,mariner fwd ffv
+Infiniti,Ex35,ex35 awd
+Chevrolet,Express Cargo,express 1500 awd cargo
+Lincoln,Mkt,mkt livery awd
+Porsche,New 911 Carrera,new 911 carrera
+Ferrari,599 Sa Aperta,599 sa aperta
+Jaguar,F-Type,f-type v8 s convertible
+Chevrolet,Impala,impala eassist
+Land Rover,Range Rover,range rover l ffv
+Bmw,3 Series,330i xdrive
+Bmw,4 Series,440i xdrive gran coupe
+Mercedes-Benz,G-Class,g550 4x4 (special off-road model)
+Bmw,6 Series,650i xdrive convertible
+Audi,R8,r8 awd
+Toyota,Avalon,avalon xle
+Land Rover,Range Rover,range rover evoque cabriolet
+Bmw,M,m340i xdrive
+Ruf Automobile,Rufturbo12/Ctr3/Ctr2017,rufturbo12/ctr3/ctr2017
+Mercedes-Benz,Gle-Class,amg gle53 4matic plus
+Mclaren Automotive,675Lt Spider,675lt spider
+Jaguar,Xjs,xj-s
+Toyota,Sienna,sienna hybrid awd
+Bmw,8 Series,m850i xdrive coupe
+Tesla,Model 3,model 3 standard range plus rwd
+Porsche,Panamera,panamera 4s e-hybrid st
+Koenigsegg,Regera,regera
+Polestar,2,2 dual motor
+Lucid,Air,air g touring awd w/19 inch wheels
+Audi,5000,5000 s quattro
+Land Rover,Range Rover,new range rover sport p400 mhev
+Bmw,M,m3 competition sedan
+Chrysler,New Yorker/5Th Avenue,new yorker/5th avenue
+Honda,Cr-V,cr-v hybrid fwd
+Mercedes-Benz,Eqb,eqb 300 4matic
+Mercury,Mountaineer,mountaineer awd
+Wallace Environmental,Wetl 560,wetl 560 sl
+Aston Martin,Vantage,v12 vantage
+Toyota,Camry,camry hybrid xle
+Bmw,7 Series,activehybrid 7l
+Porsche,New 911 Carrera,new 911 carrera s cabriolet
+Lamborghini,Aventador,aventador veneno coupe
+Gmc,Yukon,yukon xl k10 4wd
+Mercedes-Benz,Sls Amg,sls amg black series coupe
+Jaguar,F-Type,f-type r coupe
+Bmw,4 Series,428i xdrive convertible
+Ram,C/V,c/v tradesman
+Ferrari,458 Speciale,458 speciale
+Mcevoy Motors,240 Dl/240 Gl Wagon,240 dl/240 gl wagon
+Lexus,Is,is 250 c
+Mercedes-Benz,Gla-Class,gla45 amg 4matic
+Ferrari,Laferrari,laferrari hybrid
+Mercedes-Benz,B-Class Electric Drive,b-class electric drive
+Hyundai,Tucson,tucson eco awd
+Tesla,Model S,model s (70 kw-hr battery pack)
+Rolls-Royce,Brooklands/Turbo R,turbo r/turbo r(lwb)
+Subaru,Loyale,loyale awd
+Federal Coach,Windsor,windsor
+Federal Coach,Renaissance,renaissance
+Suzuki,X-90,x-90 2wd
+Ferrari,Ferrari 456,ferrari 456
+Suzuki,Sidekick,sidekick sport rwd
+Bmw,7 Series,740i/740i sport
+Tvr Engineering Ltd,Tvr 280I/350I Coupe,tvr 280i/350i coupe
+Gmc,Yukon,yukon denali xl 1500 awd
+Bmw,7 Series,745li
+Suzuki,Vitara,vitara 2 door
+Chevrolet,Express Cargo,express cargo (dedicated cng)
+Pontiac,Monterey,monterey wagon fwd
+Roush Performance,F150,stage 3 f-150 supercrew 4wd
+Smart,Fortwo,fortwo convertible
+Mercedes-Benz,S-Class,maybach s680 4matic
+Bmw,I5,i5 m60 xdrive sedan (20 inch wheels)
+Hyundai,Ioniq 5,ioniq 5 long range awd
+Land Rover,Range Rover,range rover lwb mhev
+Land Rover,Range Rover,range rover sport svr mhev
+Lexus,Tx,tx 350 awd
+Toyota,Mirai,mirai xle
+Genesis,Gv60,gv60 standard
+Kia,Ev9,ev9 long range awd
+Hyundai,Santa Fe,santa fe awd xrt
+Chevrolet,Traverse,traverse limited fwd
+Bmw,X7,x7 m60i xdrive
+Ford,Mustang Mach-E,mustang mach-e rally
+Environmental Rsch And Devp Corp,Erd 1,erd 1
+Ford,Ltd Crown Victoria/Country Squire Wagon,ltd crown victoria/country squire wagon
+Goldacre,Goldacre Limited,goldacre limited
+Porsche,944,944 s2
+Ford,Tempo,tempo fs
+Geo,Tracker,tracker van 4wd
+Pontiac,G3,g3 (5-door)
+Acura,Rdx,rdx 2wd
+Bmw,3 Series,335is convertible
+Renault,Alliance/Encore,alliance convertible
+Suzuki,Forsa,forsa
+Ferrari,458 Italia,458 italia coupe
+Hyundai,Genesis,genesis r-spec
+Bmw,3 Series,335i convertible
+Chevrolet,Tahoe,tahoe c10 2wd
+Mercedes-Benz,Cls-Class,cls63 amg 4matic
+Spyker,C8,c8 aileron
+Ford,Expedition,expedition limo. 2wd ffv
+Bmw,X6,x6 sdrive35i
+Nissan,Pathfinder,pathfinder hybrid 2wd
+Tesla,Model S,model s awd (85 kw-hr battery pack)
+Mercedes-Benz,E-Class,amg e63 4matic
+Kia,Sportage,sportage sx fwd
+Ford,C-Max,c-max hybrid fwd
+Acura,Tlx,tlx 2wd
+Ford,F150,f150 2.7l 2wd gvwr>6649 lbs payload package
+Gmc,Acadia,acadia limited awd
+Ferrari,Mondial,mondial
+Ford,F150,f150 2.7l 4wd gvwr>6799 lbs
+Lamborghini,Aventador,aventador coupe lp740-4
+Tesla,Model X,model x awd - 60d
+Bmw,I3,i3 (94ah)
+Chevrolet,Silverado,silverado ld k15 4wd
+Hyundai,Sonata,sonata se
+Jaguar,F-Type,f-type svr awd convertible gen2
+Chevrolet,Silverado,silverado c10 cab chassis 2wd
+Smart,Fortwo,eq fortwo (convertible)
+Tesla,Model X,model x performance (20in wheels)
+Ferrari,Portofino,portofino m
+Nissan,Titan,titan 4wd pro-4x
+Porsche,Cayenne,cayenne gts coupe
+Porsche,Panamera,panamera 4s e-hybrid
+Volvo,S90,s90 t8 awd recharge
+Toyota,Camry,camry awd le/se
+Audi,E-Tron S,e-tron s (20in wheels)
+Jaguar,Xe,xe p300 awd
+Volvo,Xc60,xc60 t8 awd recharge ext. range
+Aston Martin,Vantage,vantage v12
+Audi,Tt,tt coupe
+Toyota,Bz4X,bz4x
+Jeep,Gladiator,gladiator rubic ecodiesel 4wd
+Audi,Q4 E-Tron,q4 e-tron
+Mercedes-Benz,Eqs,eqs 450 4matic (suv)
+Oldsmobile,Bravada,bravada 2wd
+Mercedes-Benz,Ml-Class,ml55 amg
+Porsche,Turbo 4 911,turbo 4 911
+Jaguar,Vdp,vdp 4.2 litre
+Chrysler,Limousine,limousine
+Mercedes-Benz,Ml-Class,ml500 4matic
+Mazda,B Pickup,b2000
+Aston Martin,Dbs,dbs coupe
+Kenyon Corporation Of America,Kenyon 5.0 Coupe,kenyon 5.0 coupe
+Rolls-Royce,Brooklands/Turbo R,brooklands/brklnds l
+Oldsmobile,Ciera,ciera sl wagon
+Ferrari,550 Maranello,550 maranello
+Bmw,7 Series,740il/740il protection
+Bmw,3 Series,323i touring
+Isuzu,Vehicross,vehicross
+Ferrari,550 Maranello/Barchetta,550 maranello/barchetta
+Lexus,Rx,rx 350h awd
+Bmw,X5,x5 m60i xdrive
+Bmw,I7,i7 edrive50 sedan (19 inch wheels)
+Gmc,Hummer Ev,hummer ev pickup mt tires
+Ferrari,Roma,roma spider
+Audi,Sq8 E-Tron,sq8 sportback e-tron (21/22 inch wheels)
+Lucid,Air,air pure rwd with 19 inch wheels
+Hyundai,Tucson,tucson fuel cell
+Acura,Zdx,zdx rwd
+Mercedes-Benz,Eqb,eqb 350 4matic
+Mercedes-Benz,Eqs,eqs 450 plus (suv)
+Rivian,R1T,r1t performance dual max (21in)
+Rivian,R1S,r1s dual standard (22in)
+Audi,80/90,80
+Oldsmobile,Trofeo/Toronado,trofeo/toronado
+Audi,200,200 quattro 20v
+Volvo,940,940 se
+Mercedes-Benz,500,500sel 5.6l
+Wallace Environmental,Wetl 500,wetl 500 se
+Wallace Environmental,Wetl 560,wetl 560 sel
+J.K. Motors,190E 2.3 Merc Benz,190e 2.3 merc benz
+Chevrolet,Sport Van,sport van g10/20 2wd (passenger)
+Mercury,Milan,milan s fwd
+Maserati,Biturbo,biturbo 425
+Mahindra,Tr40,tr40
+Mercedes-Benz,Sls Amg,sls amg
+Acura,Ilx,ilx hybrid
+Mercedes-Benz,Cls-Class,cls63 amg s 4matic
+Roush Performance,F150,f150 raptor pickup 4wd
+Volkswagen,Fox,fox gl wagon
+Bmw,3 Series,328d xdrive sports wagon
+Lexus,Rc F,rc f
+Bmw,2 Series,m235i xdrive convertible
+Mclaren Automotive,650S Spider,650s spider
+Land Rover,Range Rover,range rover tdv6
+Tesla,Model S,model s (85 kw-hr battery pack)
+Infiniti,Q50,q50s
+Infiniti,Q60,q60s red sport
+Ferrari,Laferrari,laferrari aperta
+Ford,Transit Connect,transit connect wagon ffv
+Land Rover,Range Rover,range rover evoque (286 hp)
+Tesla,Model S,model s p100d
+Volvo,Xc40,xc40 awd
+Chevrolet,Blazer,v10 (k10) blazer 4wd
+Land Rover,Discovery,discovery sport si4
+Porsche,944,944 s
+Tesla,Model 3,model 3 long range performance awd (19in)
+Mclaren Automotive,Speedtail,speedtail
+Audi,E-Tron,e-tron sportback
+Rolls-Royce,Wraith,wraith black badge
+Land Rover,Range Rover,range rover p360 mhev
+Land Rover,Range Rover,new range rover p360 lwb mhev
+Bmw,I7,i7 xdrive60 sedan (21 inch wheels)
+Porsche,Taycan,taycan gts sport turismo
+Hyundai,Santa Fe,santa fe plug-in hybrid
+Rivian,R1S,r1s (22 inch wheels)
+Volkswagen,R32,r32
+"Tecstar, Lp",Foose F150,foose f150 regular cab 4wd
+Chevrolet,Tahoe,tahoe 1500 xfe 2wd
+Oldsmobile,Ninety-Eight Ii,ninety-eight ii
+Audi,Q4 E-Tron,q4 50 e-tron quattro
+Volvo,Xc40,xc40 recharge
+Nissan,Ariya,ariya plat plus e-4orce 87kwh 19
+Lexus,Rx,rx 500h awd
+Lotus,Emira,emira
+Suzuki,Swift,swift gti
+Audi,200,200 quattro
+Audi,200,200 quattro 20v wagon
+Mercedes-Benz,500,500sel 5.0l
+Alfa Romeo,Spider,spider veloce 2000
+Chevrolet,Postal Cab Chassis,postal cab chassis 2wd
+Federal Coach,Lincoln 100J,lincoln 100j
+Gmc,Pickup,rally g15/25 2wd
+Chrysler,Town And Country,town and country awd
+Mazda,B Pickup,b2500 2wd
+Jaguar,Xj,xj sport
+Porsche,Turbo Gt2,turbo gt2
+Chrysler,Concorde/Lhs,concorde/lhs
+Maserati,Ghibli,ghibli s rwd
+Mercedes-Benz,S-Class,s550e
+Cadillac,Cts-V,cts-v
+Chevrolet,Silverado,silverado ld c15 2wd
+Gmc,Sierra,sierra c10 cab chassis 2wd
+Jaguar,F-Type,f-type awd convertible
+Dacia,Sedan,sedan
+Mercedes-Benz,S-Class,amg s63 4matic plus
+Porsche,Boxster,boxster t
+Toyota,Sienna,sienna hybrid 2wd
+Bmw,X3,x3 xdrive30e
+Jaguar,I-Pace,i-pace ev400
+Porsche,Panamera,panamera turbo s/exec/st
+Mclaren Automotive,Gt,gt
+Bmw,Ix,ix m60 (22 inch wheels)
+Genesis,Gv60,gv60 advance
+Volvo,V60,v60cc b5 awd
+Cx Automotive,Cx,cx 25 prestige
+Hyundai,Ioniq 6,ioniq 6 long range rwd (18 inch wheels)
+Toyota,Grand Highlander,grand highlander hybrid limited
+Jaguar,I-Pace,i-pace ev400 (22 inch tires)
+Rivian,R1T,r1t 21 inch dual large
+Vinfast,Vf 8,vf 8 eco
+Gmc,Canyon,canyon at4x aev 4wd
+Lucid,Air,air g touring xr awd with 21 inch wheels
+Nissan,Ariya,ariya platinum+ e-4orce 87kwh 20in. wheels
+Rivian,R1T,r1t at performance dual standard plus (20in)
+Bmw,6 Series,635csi
+General Motors,Coachbuilder Wagon,coachbuilder wagon
+Mercedes-Benz,420,420 se
+Mercedes-Benz,230,230ce
+Vector,W8,w8
+Mazda,Tribute,tribute fwd ffv
+Chevrolet,Express Cargo,express 3500 2wd cargo
+Azure Dynamics,Transit Connect Electric Van/Wagon,transit connect electric van/wagon
+Audi,Tt Coupe,tt rs coupe
+Lincoln,Navigator,navigator 4wd ffv
+Lincoln,Navigator,navigator limo. 2wd ffv
+Toyota,Venza,venza 4wd
+Mclaren Automotive,675Lt Coupe,675lt coupe
+Suzuki,Vitara,vitara 4 door 4wd
+Subaru,Sedan,3 door 4wd turbo
+Bmw,X5,x5 4.8is
+Gmc,Sierra,sierra 2500 hd 4wd cng
+Lexus,Gs,gs 300 4wd
+Mercedes-Benz,E-Class,e500 4matic
+Ford,Gt,gt 2wd
+Gmc,Sierra,sierra classic 15 hybrid 2wd
+Roush Performance,Mustang,stage 3 mustang coupe
+Roush Performance,F150,stage 3 f-150 supercab 2wd
+Infiniti,G35,g35 coupe
+Saleen Performance,S281 Family,s281 family
+Saleen Performance,F150 Supercharged,f150 supercharged
+"Tecstar, Lp",Foose F150,foose f150 super cab 2wd
+Porsche,Cayenne,cayenne transsiberia
+Audi,Quattro,quattro
+S And S Coach Company  E.P. Dutton,Funeral Coach,funeral coach  2wd
+"E. P. Dutton, Inc.",Funeral Coach,funeral coach
+Ferrari,Ferrari 512 Tr,ferrari 512 tr
+Rolls-Royce,Brooklands/Turbo R,turbo r/turbo rl
+Rolls-Royce,Silver Dawn,silver dawn
+Suzuki,X-90,x-90 rwd
+Ford,Explorer,explorer usps 2wd
+Jeep,Wrangler,wrangler rubicon 2dr 4wd
+Audi,Q8 E-Tron,q8 sportback e-tron ultra quattro
+Bmw,Ix,ix xdrive40 (21 inch wheels)
+Jaguar,I-Pace,i-pace ev400 (20 inch tires)
+Kia,Ev6,ev6 long range awd (20 inch wheels)
+Cadillac,Escalade,escalade v awd
+Audi,Sq8 E-Tron,sq8 sportback e-tron (20 inch wheels)
+Honda,Clarity,fcx clarity
+Mercedes-Benz,Sl-Class,amg sl43
+Lexus,Ux,ux 300h
+Nissan,Ariya,ariya engage+/evolve+ e-4orce 87kwh
+Bmw,3 Series,318is convertible
+Mercedes-Benz,350,350sd turbo
+Wallace Environmental,Wetl 300,wetl 300 sl
+Infiniti,Q50,q50s red sport  awd
+Bmw,I3,i3 bev (94 amp-hour battery)
+Tesla,Model 3,model 3 long range  awd
+Aurora Cars Ltd,Aurora,aurora
+Bmw,4 Series,440i xdrive convertible
+Maserati,Q,q
+Bentley,Continental,continental gt convertible
+Audi,Rs,rs 5
+Jeep,Gladiator,gladiator rubicon ecodiesel 4wd
+Mercedes-Benz,Glc-Class,amg glc63 s 4matic plus coupe
+Kandi,K27,k27
+Porsche,Panamera,panamera turbo s st
+Mclaren Automotive,Sabre,sabre
+Volvo,Xc40,xc40 t5 awd
+Land Rover,Range Rover,range rover evoque mhev
+Audi,Q5,q5 sportback s-line quattro
+Toyota,Bz4X,bz4x limited
+Bmw,7 Series,750 series
+Volga Associated Automobile,Niva,niva
+Import Trade Services,Mb 300Sl,mb 300sl
+J.K. Motors,300E Merc Benz,300e merc benz
+J.K. Motors,Porsche 928 S4,porsche 928 s4
+Pontiac,G3,g3 (3-door)
+Nissan,Armada,armada 4wd ffv
+Gmc,Yukon,yukon xl k10 awd
+Bmw,7 Series,740ld xdrive
+Mercury,Sable,sable wagon 3.0 a/c
+Mini,Cooper,cooper (5-doors)
+Bentley,Continental,continental gt3-r
+Mercedes-Benz,E-Class,e500 (wagon)
+Ford,Taurus,taurus x fwd
+Dodge,D250 Pickup Cab Chassis,d250 pickup cab chassis 2wd
+Chevrolet,Sport Van,sport van g30 2wd
+Hyundai,Precis,precis
+Mercedes-Benz,C-Class,c36
+Ferrari,Ferrari 456,ferrari 456 gt/gta
+Mercedes-Benz,C-Class,c43
+Jaguar,S-Type,s-type (x200) v6
+Ford,Explorer,explorer usps 4wd ffv
+Infiniti,Q50,q50s awd
+Mercedes-Benz,G-Class,amg g65
+Tesla,Model S,model s awd - 100d
+Bmw,7 Series,740e xdrive
+Jaguar,Xe,xe awd (296 hp)
+Kia,Optima,optima s
+Ferrari,488 Pista,488 pista
+Jaguar,F-Pace,f-pace 30t
+Mini,John Cooper Works,john cooper works gp
+Mercedes-Benz,E-Class,amg e63 s 4matic plus (sw)
+Bmw,M,m3 competition
+Audi,R8,r8 coupe
+Porsche,Cayenne,cayenne turbo s/coupe e-hybrid
+Rivian,R1S,r1s
+Lucid,Air,air dream p awd w/21 inch wheels
+Porsche,Panamera,panamera 4 e-hybrid/exec/st
+Mclaren Automotive,Elva,elva
+Volkswagen,Jetta,jetta se/sel
+Volvo,Xc40,xc40 b4
+Polestar,2,2 bst edition
+Kia,Ev6,ev6 awd gt
+Nissan,Leaf,leaf sv
+Lucid,Air,air pure awd with 19 inch wheels
+Toyota,Prius,prius xle/ltd
+Chevrolet,Cobalt,cobalt sedan
+Chevrolet,Cobalt,cobalt xfe sedan
+Ford,Fiesta,fiesta
+Ford,Fiesta,fiesta sfe
+Mercedes-Benz,190,190e 2.3-16
+Gmc,Yukon,yukon denali k10 awd
+Infiniti,Q60,q60 coupe
+Mercedes-Benz,Maybach,maybach s 600
+Porsche,Cayman,cayman gt4
+Chevrolet,Malibu,malibu limited
+Volkswagen,Atlas,atlas sel 4motion
+Toyota,Grand Highlander,grand highlander awd le/xle
+Bmw,I7,i7 edrive50 sedan (20 inch wheels)
+Gmc,Hummer Ev,hummer ev pickup
+Gmc,Hummer Ev,hummer ev suv mt tires
+Rivian,R1S,r1s 22 inch dual large
+Vinfast,Vf 9,vf 9 eco
+Mercedes-Benz,Cle-Class,cle450 4matic (coupe)
+Chevrolet,Colorado,colorado zr2 bison 4wd
+Honda,Ridgeline,ridgeline awd trailsport
+Rivian,R1T,r1t dual max (22in)
+Rivian,R1T,r1t performance dual large (21in)
+Tesla,Model X,model x
+Eagle,Wagon,wagon 4wd
+Suzuki,Swift,swift ga
+Suzuki,Sidekick,sidekick convertible 4wd
+Bmw,3 Series,325ic
+Volvo,940,940 se wagon
+Porsche,Turbo 4 911 Turbo Cab S,turbo 4 911 turbo cab s
+Mercury,Mountaineer,mountaineer ffv 4wd
+Volvo,C70,new c70 convertible
+Mercedes-Benz,Cl-Class,cl550
+Isuzu,I-370 Crew Cab,i-370 crew cab 2wd
+Jeep,J-20 Pickup,j-20 pickup truck
+Kenyon Corporation Of America,Kenyon 5.0 Sedan,kenyon 5.0 sedan
+"Pas, Inc",Pas-Typhoon,pas-typhoon
+Mercedes-Benz,S-Class,s350d
+Mitsubishi,Diamante,diamante wagon
+Lotus,Esprit,98 esprit v8
+Audi,A4,a4 avant
+Subaru,Legacy/Outback,legacy awd (incl. outback)
+Mercedes-Benz,420,420se
+Wallace Environmental,Wetl 600 Sel,wetl 600 sel
+J.K. Motors,Merc.Benz 260E,merc.benz 260e
+Gmc,Vandura,vandura g15/25 2wd (cargo)
+Ford,Transit Connect,transit connect
+Mercedes-Benz,300,300d
+Infiniti,Ex37,ex37 awd
+Bentley,Continental Gt Convertible,continental gt speed convertible
+Bmw,4 Series,428i xdrive gran coupe
+Lamborghini,Veneno,veneno roadster
+Infiniti,Q40,q40
+Mercedes-Benz,E-Class,e400 4matic
+Ford,F150,f150 3.5l 2wd gvwr>7599 lbs payload package
+Ford,F150,f150 2.7l 4wd gvwr>6799 lbs payload package
+Nissan,Leaf,leaf (30 kw-hr battery pack)
+Toyota,Tundra,tundra 2wd ffv
+Mercedes-Benz,Maybach,maybach s550 4matic
+Ford,F150,f150 5.0l 2wd gvwr>7599 lbs
+Volkswagen,Tiguan,tiguan limited
+Ford,Fusion,fusion hybrid taxi
+Toyota,Corolla,corolla xle
+Jaguar,F-Type,f-type svr awd coupe
+Mercedes-Benz,Amg Gt,amg gt black series
+Porsche,Cayenne,cayenne turbo gt coupe
+Porsche,Cayenne,cayenne turbo gt
+Porsche,911,911 sport classic
+Lucid,Air,air pure awd with 20 inch wheels
+Rivian,R1T,r1t (20 inch wheels)
+Mercedes-Benz,C-Class,c320 4matic sedan
+"Tecstar, Lp",Foose F150,foose f150 super crew 2wd
+Mercury,Milan,milan s
+Toyota,Grand Highlander,grand highlander hybrid
+Audi,Q8 E-Tron,q8 e-tron quattro
+Bmw,I7,i7 m70 xdrive sedan (20 inch wheels)
+Subaru,Crosstrek,crosstrek wilderness awd
+Ferrari,296 Gtb Spider,296 gtb spider
+Land Rover,Range Rover,range rover p400 lwb mhev
+Audi,Sq8 E-Tron,sq8 e-tron (20 inch wheels)
+Honda,Prologue,prologue awd elite
+Maserati,Granturismo,granturismo folgore
+Rivian,R1T,r1t all-terrain performance dual large (20in)
+Rivian,R1T,r1t dual standard (22in)
+Rivian,R1T,r1t dual standard plus (22in)
+Rivian,R1S,r1s quad large (22in)
+Suzuki,Samurai,samurai hardtop 4wd
+Wallace Environmental,Wetl 300,wetl 300 ge
+Pas Inc - Gmc,Pas-Syclone,pas-syclone
+Cadillac,Deville/60 Special,deville/60 special
+Hyundai,Accent,accent (sporty)
+Lamborghini,Diablo,db132/144 - diablo
+Suzuki,Sidekick,sidekick 4door rwd
+Kia,Sephia/Spectra,sephia/spectra
+Yugo,Gy/Yugo Gvx,gy/yugo gvx
+Audi,4000,4000 s
+Aston Martin,Db-7 Gt,db-7 gt coupe
+Porsche,Turbo,turbo
+Suzuki,Aerio,aerio 4wd
+Suzuki,Aerio,aerio sx 4wd
+Chevrolet,Sport Van,sport van g30  2wd
+Mercedes-Benz,C-Class,c220
+Rolls-Royce,Silver Spur/Silver Dawn,silver spur/silver dawn
+Land Rover,Range Rover,range rover 4.0
+Ferrari,Ferrari F355,ferrari f355
+Chrysler,Lhs,lhs
+Bmw,M,m4 gts
+Mercedes-Benz,S-Class,s550 convertible
+Jaguar,Xf,xf awd (296 hp)
+Land Rover,Range Rover,range rover sv coupe
+Chevrolet,Spectrum,spectrum turbo
+Mercedes-Benz,S-Class,s560 4matic maybach
+Mclaren Automotive,Mso Hs,mso hs
+Volvo,V60,v60 awd phev
+Toyota,Tercel,tercel ez
+Bmw,7 Series,m760i xdrive sedan
+Volvo,V60,v60cc t5 awd
+Audi,R8,r8 gt rwd
+Import Trade Services,Mb 300E,mb 300e
+Mercedes-Benz,600,600sl
+Panos,Roadster,roadster
+Buick,Lacrosse/Allure,lacrosse/allure awd
+Chevrolet,G30 Van,g30 van 2wd (cargo)
+Bmw,7 Series,activehybrid 7i
+Lexus,Lfa,lfa
+Tvr Engineering Ltd,Tvr 280I Convertible,tvr 280i convertible
+Suzuki,Vitara,vitara 2 door 4wd
+Chevrolet,Silverado,silverado 2500 2wd (bifuel)
+Mercedes-Benz,C-Class,c320 ffv (wagon)
+Chevrolet,Express Passenger,express passenger (bi-fuel)
+Audi,Rs 4,rs4 cabriolet
+Lamborghini,Murcielago,murcielago reventon
+Porsche,Cayenne,cayenne turbo kit
+Gmc,Canyon,canyon mud terrain tires 4wd
+Bmw,I4,i4 edrive35 gran coupe (19 inch wheels)
+Gmc,Hummer Ev,hummer ev suv
+Polestar,2,2 dual motor (20 inch wheels)
+Polestar,2,2 single motor (20 inch wheels)
+Nissan,Ariya,ariya engage e-4orce 63kwh
+Lexus,Tx,tx 500h awd
+Kia,Ev9,ev9 long range rwd
+Rolls-Royce,Spectre,spectre black badge (23 inch wheels)
+Mercedes-Benz,Amg Gt,amg gt 55 4matic plus (coupe)
+Mercedes-Benz,Amg Gt,amg gt 63 4matic plus (coupe)
+Mercedes-Benz,Eqe,eqe 350 4matic (suv)
+Rivian,R1T,r1t performance dual max (22in)
+Rivian,R1T,r1t quad large (22in)
+Chrysler,Lebaron,lebaron landau
+Import Trade Services,Its 320,its 320
+Volvo,940,940 gle 16-valve
+Mercedes-Benz,400,400sel
+Audi,S6,s6 wagon
+Federal Coach,Heritage,heritage
+Ford,Explorer,explorer sport 4wd ffv
+Ford,Th!Nk,th!nk
+Gmc,Sierra,sierra denali 1500 awd
+Volvo,S60,s60 inscription awd
+Tesla,Model X,model x awd - 90d
+Subaru,Wrx,wrx sti type ra
+Koenigsegg,Agera Rs,agera rs
+Jaguar,F-Type,f-type svr awd coupe gen2
+Porsche,Panamera,panamera turbo st
+Tesla,Model X,model x standard range
+Nissan,Rogue,rogue awd  sv/sl/platinum
+Ferrari,812 Competizione,812 competizione
+Audi,A8,a8 l quattro
+Mitsubishi,Galant,galant sigma
+Mclaren Automotive,Artura,artura
+Chrysler,New Yorker,new yorker turbo
+Audi,A5,a5 sportback s-line quattro
+Audi,E-Tron S,e-tron s (20 inch wheels)
+Mercedes-Benz,Eqs,eqs 450 4matic
+Volkswagen,Id.4,id.4
+Tesla,Model Y,model y awd
+Lucid,Air,air gt p awd with 21 inch wheels
+Lucid,Air,air touring awd with 21 inch wheels
+Chevrolet,Cobalt,cobalt ss coupe
+J.K. Motors,Bmw735Il,bmw735il
+Gmc,Rally,rally g15/25 2wd (passenger)
+Scion,Iq,iq ev
+Gmc,Yukon,yukon c10 2wd
+Tvr Engineering Ltd,Tvr 280I Coupe,tvr 280i coupe
+Infiniti,Q60,q60 awd coupe
+Ford,F150,f150 3.5l 4wd gvwr>7599 lbs payload package
+Hyundai,Elantra,elantra hatchback
+Chevrolet,Silverado,silverado 2500 hd 2wd
+London Coach Co Inc,London Taxi,london taxi
+Mini,Cooper,cooper s jcworks gp kit
+Spyker,C8,c8
+Dodge,Durango,durango hev
+Audi,Q4 E-Tron,q4 sportback 50 e-tron quattro
+Bmw,I5,i5 edrive40 sedan (19 inch wheels)
+Rivian,R1S,r1s 20 inch all-terrain
+Alfa Romeo,Tonale Eawd,tonale eawd
+Toyota,Mirai,mirai le
+Hyundai,Kona,kona electric long range
+Mercedes-Benz,Cle-Class,cle300 4matic (coupe)
+Mini,Countryman,countryman s all4
+Rivian,R1S,r1s all-terrain dual max (20in)
+Rivian,R1S,r1s dual large (22in)
+Dodge,Caravan C/V/Grand Caravan,caravan c/v/grand caravan 4wd
+Dodge,Journey,journey  awd
+Maybach,57,57 zeppelin
+Jaguar,Xj,xj lwb awd
+Hyundai,Santa Fe,santa fe ultimate 4wd
+Bmw,I3,i3 rex  (94 amp-hour battery)
+Karma,Revero,revero
+Bmw,I3,i3 (94ah) with range extender
+Tesla,Model S,model s 75kwh
+Land Rover,Discovery,discovery sport (286 hp)
+Chevrolet,Silverado,silverado c10 xfe 2wd
+Ford,Fusion,fusion special service vehicle phev
+Jaguar,Xf,xf awd 30t
+Land Rover,Range Rover,range rover velar p300
+Porsche,Macan,macan turbo kit
+Audi,R8,r8 spyder quattro
+Nissan,Pathfinder,pathfinder 4wd rock creek
+Lambda Control Systems,300E,300e
+Cadillac,Sts,sts 2wd
+Pontiac,Montana,montana svx fwd
+Lexus,Es,es 330
+Mercedes-Benz,E-Class,e350 (wagon)
+Isuzu,I-350 Crew Cab,i-350 crew cab 4wd
+Infiniti,Q45,q45 sport
+Chrysler,Sebring,sebring awd
+"Tecstar, Lp",Foose F150,foose f150 super crew 4wd
+Ford,F150,f150 sfe 2wd
+Suzuki,Sj 410,sj410k p/u 4wd
+Audi,Q4 E-Tron,q4 40 e-tron
+Land Rover,Defender,defender 130 outbound
+Honda,Prologue,prologue awd touring
+Lexus,Rz,rz 300e (20 inch wheels)
+Subaru,Loyale,loyale wagon 4wd turbo
+Rolls-Royce,Silver Spirit Iii/Spur Iii,silver spirit iii/spur iii
+Ferrari,Mondial/Cabriolet,mondial/cabriolet
+Bmw,M,m3 cs sedan
+Bentley,Bentayga,bentayga hybrid
+Chevrolet,Blazer,blazer ev awd
+Porsche,718,718 spyder rs
+Fiat,500E,500e all season
+Nissan,Ariya,ariya evolve+/empower+ fwd 87kwh
+Tesla,Model X,model x plaid (22in wheels)
+Mercedes-Benz,Amg Gt,amg gt
+Jaguar,I-Pace,i-pace
+Porsche,911,911 turbo s exclusive cabriolet
+Mercedes-Benz,S-Class,amg s63 4matic plus coupe
+Mclaren Automotive,620R Coupe,620r coupe
+Mclaren Automotive,650S Can-Am,650s can-am
+Nissan,Rogue,rogue fwd  sv/sl/platinum
+Lamborghini,Aventador,aventador sian roadster
+Land Rover,Discovery Sport,discovery sport
+Bentley,Continental,continental gt v8 convertible
+Volvo,Xc40,xc40 t4
+Audi,Tt Rs,tt rs coupe
+Mclaren Automotive,765Lt Coupe,765lt coupe
+Hyundai,Ioniq 5,ioniq 5 awd (long range)
+Volvo,Xc90,xc90 t8 awd recharge ext. range
+Chevrolet,Cobalt,cobalt coupe
+J.K. Motors,300Te Merc Benz,300te merc benz
+Saleen,Mustang,mustang
+Alfa Romeo,Spider,8 c spider
+Bmw,7 Series,activehybrid 7li
+Tesla,Model S,model s (40 kw-hr battery pack)
+Mercedes-Benz,Cls-Class,cls63 amg s
+Maserati,Ghibli,ghibli v6 awd
+Mercedes-Benz,S-Class,s63 amg 4matic coupe
+Gmc,Savana Cargo,savana cargo (dedicated cng)
+Dodge,Glh-S,glh-s
+Ferrari,Ferrari 456,ferrari 456 gt
+Federal Coach,Six Door,six door
+Qvale,Detomaso Mangusta,detomaso mangusta
+Lamborghini,Aventador,aventador s coupe
+Dacia,Coupe,coupe
+Mclaren Automotive,600Lt Spider,600lt spider
+Mclaren Automotive,Senna,senna
+Bmw,M,m235i xdrive gran coupe
+Ruf Automobile,Turbo12/Ctr3/Ctr Anniversary,turbo12/ctr3/ctr anniversary
+Lamborghini,Huracan,huracan coupe rwd
+Audi,Tts Coupe,tts coupe quattro
+Rivian,R1T,r1t
+Tesla,Model S,model s plaid (19 inch wheels)
+Ferrari,296 Gtb,296 gtb
+Audi,Q4 E-Tron,q4 e-tron sportback
+Import Trade Services,Its 230Te,its 230te
+Mercedes-Benz,600,600sel/sec
+Lamborghini,Murcielago,murcielago reventon roadster
+Ram,C/V,c/v cargo van
+Mclaren Automotive,Mp4-12C Spider,mp4-12c spider
+Ford,Ranger,ranger raptor 4wd
+Honda,Prologue,prologue fwd
+Rivian,R1T,r1t all-terrain dual max (20in)
+Rivian,R1S,r1s all-terrain dual standard plus (20in)
+Bmw,3 Series,325is
+Mercedes-Benz,200,200e
+Infiniti,Fx35,fx35 2wd
+Roush Performance,F150,boss f150 super cab 2wd
+Jaguar,Vdp,vdp
+Gmc,Savana Cargo,savana 1500 awd (cargo)
+Chrysler,Aspen,aspen hev
+Rolls-Royce,Corniche/Continental,continental t
