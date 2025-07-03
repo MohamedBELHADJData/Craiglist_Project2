@@ -23,7 +23,6 @@ craiglist-car-market/
 ├── data/             # Raw and cleaned datasets
 ├── notebooks/        # Exploratory notebooks (scraping, cleaning, EDA, ML)
 ├── scripts/          # Python scripts for automation and transformation
-├── resources/        # JSON mappings, reference data
 ├── outputs/          # Visualizations, model outputs, reports
 ├── README.md         # Project documentation
 └── requirements.txt  # Python dependencies
