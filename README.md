@@ -1,4 +1,4 @@
-# 🚗 Craiglist Used Car Market — Data Pipeline & Analysis
+# 🚗     Craiglist Used Car Market — Data Pipeline & Analysis
 
 This repository contains a full data science pipeline built to extract, clean, enrich, and analyze used car listings from Craiglist. The project aims to model the second-hand automotive market in the United States by combining web scraping, domain-based normalization, and exploratory data science techniques.
 
